@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ excerpt }}">
+  <meta name="author" content="{{ author }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Core Styles -->
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body{% if page.url == '/' %} class="home-page"{% endif %}>
+
+<canvas id="border-canvas"></canvas>
+<script src="/assets/scripts/border-glow.js"></script>
+
+  <!-- Full-screen canvas for wave -->
+  <canvas id="wave-canvas"></canvas>
+
+  <!-- Wave script -->
+  <script src="/assets/scripts/wave.js"></script>
+
+  <!-- Site Header -->
+  {% include "partials/header.njk" %}
+
+  <!-- Main Content -->
+  <main class="main-page">
+    {{ content | safe }}
+
+{% if tags %}
+  <p class="tags">
+    <strong>Tags:</strong>
+    {% for tag in tags %}
+      <a href="/tags/{{ tag | slug }}/">{{ tag }}</a>
+    {% endfor %}
+  </p>
+{% endif %}
+
+    {# Navigation links block #}
+    {% if page.url and page.url != '/' %}
+      <nav class="post-nav">
+        {% if '/devotionals/' in page.url and page.url != '/devotionals/' %}
+          <a href="/devotionals/">← Back to Devotionals</a>
+        {% elif '/reflections/' in page.url and page.url != '/reflections/' %}
+          <a href="/reflections/">← Back to Reflections</a>
+        {% elif '/stories/' in page.url and page.url != '/stories/' %}
+          <a href="/stories/">← Back to Stories</a>
+        {% elif '/testimonies/' in page.url and page.url != '/testimonies/' %}
+          <a href="/testimonies/">← Back to Testimonies</a>
+        {% endif %}
+        <a href="/">← Back to Home</a>
+      </nav>
+    {% endif %}
+
+    {% include "partials/footer.njk" %}
+  </main>
+
+  <!-- Core Scripts -->
+  <script src="/assets/js/scripts.js"></script>
+  <script src="/assets/dictionary.js"></script>
+</body>
+</html>
+<script>
+(function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="ZmJVwhmGVLah9bOvLWaRS";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+</script>

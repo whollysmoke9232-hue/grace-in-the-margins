@@ -1,0 +1,13 @@
+<header class="site-header">
+  
+  {% if excerpt %}
+    <p><em>{{ excerpt }}</em></p>
+  {% endif %}
+  {% if author %}
+    <p><strong>By {{ author }}</strong></p>
+  {% endif %}
+  {% if date %}
+    <p><time datetime="{{ date }}">{{ date | readableDate }}</time></p>
+  {% endif %}
+  
+</header>
