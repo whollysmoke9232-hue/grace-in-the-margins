@@ -371,3 +371,7 @@ a:hover {
   margin-top: 0.5em;
   letter-spacing: 0.05em;
 }
+.tag-list {
+  list-style: none;
+  padding-left: 0;
+}

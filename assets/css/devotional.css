@@ -25,65 +25,28 @@
   margin-top: 2em;
   color: #2e294e;
 }
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{% block title %}Grace in the Margins{% endblock %}</title>
-    <link rel="stylesheet" href="/styles/main.css" />
-    <style>
-      :root {
-        --font-body: 'Georgia', serif;
-        --font-headings: 'Playfair Display', serif;
-        --bg-color: #fdfcf9;
-        --text-color: #2e2a24;
-        --accent-color: #a48f7e;
-      }
 
-      body {
-        font-family: var(--font-body);
-        background-color: var(--bg-color);
-        color: var(--text-color);
-        line-height: 1.7;
-        margin: 0;
-        padding: 2rem;
-        max-width: 700px;
-        margin-left: auto;
-        margin-right: auto;
-        box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
-      }
+/* Remove bullets/dots from any list in .devotional */
+.devotional ul,
+.devotional ol {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
 
-      h1, h2, h3 {
-        font-family: var(--font-headings);
-        color: var(--accent-color);
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-      }
-
-      blockquote {
-        font-style: italic;
-        background: #f3f0eb;
-        padding: 1rem 1.5rem;
-        border-left: 4px solid var(--accent-color);
-        margin: 1.5rem 0;
-      }
-
-      footer {
-        margin-top: 3rem;
-        font-size: 0.9rem;
-        text-align: center;
-        color: #7b7268;
-      }
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>Grace in the Margins</h1>
-    </header>
-    <main>
-      {% block content %}{% endblock %}
-    </main>
-    <footer>
-      <p>&copy; {{ "now" | date: "%Y" }} Steve Wilkins. Rooted in grace. Written with purpose.</p>
-    </footer>
-  </body>
+/* Remove any pseudo-element dots from headings in .devotional */
+.devotional h1::before,
+.devotional h1::after,
+.devotional h2::before,
+.devotional h2::after,
+.devotional h3::before,
+.devotional h3::after,
+.devotional h4::before,
+.devotional h4::after,
+.devotional h5::before,
+.devotional h5::after,
+.devotional h6::before,
+.devotional h6::after {
+  content: none !important;
+  background: none !important;
+  color: inherit !important;
+}
