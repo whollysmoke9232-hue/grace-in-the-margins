@@ -1,10 +1,14 @@
 ---
-title: "The Gift of 'Now': Don't Miss the Journey"
+title: "🌅 The Gift of 'Now': Don't Miss the Journey"
 layout: default.njk
 excerpt: "Fixation on the future can rob us of the sacred beauty of the present moment. God is here, now."
 tags:
+  - devotionals
+  - presence
   - spiritual-growth
-  - matthew
+  - Matthew
+  - Ecclesiastes
+  - Holy-Spirit
 date: 2025-08-02
 ---
 
@@ -82,3 +86,9 @@ in the blessed gift of each present moment.
 1. Can you recall a time when you were so focused on a future event that you felt you missed out on the present? What did that experience teach you?
 2. What practical steps can you take today to be more present and "live in the moment"?
 3. How can inviting the Holy Spirit into your daily moments help you to embrace the journey of growth, regardless of future outcomes?
+
+---
+
+**Navigation**
+
+- [ Back to Devotionals](/devotionals/)

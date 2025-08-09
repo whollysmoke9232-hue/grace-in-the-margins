@@ -3,6 +3,7 @@ title: Just Look and Live
 layout: default.njk
 excerpt: You don’t have to climb your way to God or fix yourself first. Just look to Jesus—and live.
 tags:
+  - devotionals
   - grace
   - salvation
   - john
@@ -82,3 +83,9 @@ You don’t have to fix yourself first.
 You just have to look.  
 **Look to Jesus.**  
 And **live.**
+
+---
+
+**Navigation**
+
+- [ Back to Devotionals](/devotionals/)

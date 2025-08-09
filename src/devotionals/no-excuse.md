@@ -3,6 +3,7 @@ title: No Excuse
 layout: default.njk
 excerpt: God’s revelation is not hidden—it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond.
 tags:
+  - devotionals
   - romans
   - creation
   - spiritual-growth
@@ -89,3 +90,9 @@ _Lord, thank You for revealing Yourself so clearly—in the skies above,
 in the intricacies within, and in the quiet convictions of our hearts.  
 Help me live not in defiance of what I know, but in surrender to Who You are._  
 **Amen.**
+
+---
+
+**Navigation**
+
+- [ Back to Devotionals](/devotionals/)

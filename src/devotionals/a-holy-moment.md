@@ -3,6 +3,7 @@ title: "A Holy Moment: The Unspoken Voice of Love"
 layout: default.njk
 excerpt: "In the silent sway of trees and the thunderous hush of mountains, God's love speaks without words."
 tags:
+  - devotionals
   - creation
   - spiritual-growth
 date: 2025-08-02
@@ -70,3 +71,7 @@ Oh, how He loves us.
 His voice may be perceived in countless ways,  
 but its message is always the same:  
 **You are loved.**
+
+**Navigation**
+
+- [← Back to Devotionals](/devotionals/)

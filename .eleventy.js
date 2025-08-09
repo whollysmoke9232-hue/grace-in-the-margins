@@ -1,14 +1,12 @@
 const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
-  // 📅 Date formatting filter
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "MMMM d, yyyy"
     );
   });
 
-  // 🧠 extractBlock filter
   eleventyConfig.addFilter("extractBlock", function (content, heading) {
     const regex = new RegExp(
       `${heading}\\s*\\n([\\s\\S]*?)(?=\\n\\s*\\n|$)`,
@@ -18,7 +16,6 @@ module.exports = function (eleventyConfig) {
     return match ? match[1].trim() : "";
   });
 
-  // 🏷️ filterByTag filter (case-insensitive)
   eleventyConfig.addFilter("filterByTag", function (collection, tag) {
     const tagLc = tag.toLowerCase();
     return collection.filter((item) =>
@@ -26,31 +23,28 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  // 📚 Devotionals collection
   eleventyConfig.addCollection("devotionals", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/devotionals/*.md");
   });
 
-  // 📚 Reflections collection
   eleventyConfig.addCollection("reflections", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/reflections/*.md");
-  });
-  // 📚 About collection
-  eleventyConfig.addCollection("about", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/about/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/reflections/*.md")
+      .filter((item) => !item.inputPath.endsWith("index.md"));
   });
 
-  // 📚 Stories collection
   eleventyConfig.addCollection("stories", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/stories/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/stories/*.md")
+      .filter((item) => !item.inputPath.endsWith("index.md"));
   });
 
-  // 📚 Testimonies collection
   eleventyConfig.addCollection("testimonies", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/testimonies/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/testimonies/*.md")
+      .filter((item) => !item.inputPath.endsWith("index.md"));
   });
 
-  // 🏷️ Tag list collection
   eleventyConfig.addCollection("tagList", function (collection) {
     const tagSet = new Set();
     collection.getAll().forEach((item) => {
@@ -62,13 +56,11 @@ module.exports = function (eleventyConfig) {
     });
     return [...tagSet];
   });
-  // ✅ Passthrough copy for CSS, assets, and images
+
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("assets/styles");
-  eleventyConfig.addPassthroughCopy("assets/scripts");
 
-  // 📁 Directory structure
   return {
     dir: {
       input: "src",

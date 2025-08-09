@@ -1,3 +1,129 @@
+<<<<<<< HEAD
+/* 🌤️ Background and base styles */
+body {
+  background-color: #e6f7ff; /* Light blue background */
+  color: #3a2f2f;
+  font-family: "Georgia", serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* 📦 Content container */
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 2rem 2rem 2rem; /* Removes top padding, keeps side and bottom */
+  background-color: transparent; /* Removes white background */
+  box-shadow: none; /* Optional: remove shadow if it’s contributing to the “bar” look */
+}
+
+/* 🏷️ Header styling */
+header {
+  padding-top: 2rem; /* ✅ Adds space below browser chrome */
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #5a3e2b;
+  margin: 0; /* Remove default margin */
+}
+
+/* 📖 Main content */
+main {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-top: 1.5rem; /* ✅ Adds breathing room below header */
+}
+
+/* 🪶 Footer */
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+}
+/* 🌿 Tagline styling */
+.tagline p {
+  font-style: italic;
+  text-align: center;
+  color: #4a3c2a;
+  margin-top: 1rem;
+  line-height: 1.5;
+}
+
+/* 🪨 Mission statement */
+.mission p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #3a2f2f;
+  margin-top: 1.5rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
+
+/* ✨ Invitation */
+.invitation p {
+  text-align: center;
+  font-size: 1rem;
+  color: #5a3e2b;
+  margin-top: 1rem;
+  font-family: "Georgia", serif;
+}
+.cta-message p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #3b2f1e;
+  background-color: #e6f2ff;
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.homepage-intro ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.homepage-intro li {
+  margin: 0;
+  padding: 0;
+}
+
+/* 🧭 Navigation styling */
+.navigation {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f0f8ff;
+  border-radius: 6px;
+  border: 1px solid #d0e7ff;
+}
+
+.navigation p {
+  margin: 0 0 0.5rem 0;
+  font-weight: bold;
+  color: #3a2f2f;
+}
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.navigation li {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation a {
+  color: #5a3e2b;
+  text-decoration: none;
+=======
 html,
 body {
   height: 100%;
@@ -104,10 +230,15 @@ main {
 .navigation a {
   text-decoration: none;
   color: #0066cc;
+>>>>>>> cf9e0be4ee848732c0b563635724087f30a9c8c7
   font-weight: bold;
 }
 
 .navigation a:hover {
+<<<<<<< HEAD
+  color: #3a2f2f;
+  text-decoration: underline;
+=======
   text-decoration: underline;
   color: #004999;
 }
@@ -388,4 +519,5 @@ ul.toc li {
   list-style: none !important;
   padding-left: 0 !important;
   margin-left: 0 !important;
+>>>>>>> cf9e0be4ee848732c0b563635724087f30a9c8c7
 }
