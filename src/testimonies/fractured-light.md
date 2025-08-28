@@ -6,7 +6,9 @@ layout: default.njk
 summary: "A journey from addiction and shame to grace and redemption, paralleled with biblical stories of brokenness and hope."
 ---
 
-# **Fractured Light: Stories of Brokenness and Redemption**
+# \*\*Fractured Light:
+
+## Stories of Brokenness and Redemption\*\*
 
 **table of contents links**
 
