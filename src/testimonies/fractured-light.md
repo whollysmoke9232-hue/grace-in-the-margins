@@ -61,7 +61,7 @@ summary: "A journey from addiction and shame to grace and redemption, paralleled
 
 <a id="introduction"></a>
 
-**## 📖** _\_Introduction\__
+**## 📖** \_\_Introduction\_\_
 
 I didn’t set out to write this book. I set out to survive.
 
@@ -69,7 +69,7 @@ For decades, I lived in the margins—of society, of church, of my own soul. Add
 
 This book is not a triumph story wrapped in a bow. It’s a testimony. It’s the sound of grace echoing through the wreckage. It’s the flicker of light that found me in jail, in addiction, in silence—and refused to go out.
 
-The title _\_Fractured Light\__ comes from a truth I’ve come to believe: that God’s light doesn’t only shine through the polished and the whole. It shines through the broken. Through the cracks. Through the places we try hardest to hide. And when it does, it doesn’t just illuminate—it heals.
+The title \_\_Fractured Light\_\_ comes from a truth I’ve come to believe: that God’s light doesn’t only shine through the polished and the whole. It shines through the broken. Through the cracks. Through the places we try hardest to hide. And when it does, it doesn’t just illuminate—it heals.
 
 Each chapter in this book pairs a piece of my story with a story from Scripture. Not to draw perfect parallels, but to show that brokenness is not a modern problem—and redemption is not a modern invention. God has always done His best work in the margins. In the lives of adulterers, addicts, outcasts, and doubters. In the lives of people like me. People like you.
 
@@ -125,7 +125,7 @@ Later that summer, I discovered men’s magazines. The images intensified the pl
 
 I was hooked. And I would stay hooked for decades.
 
-**### 📖 Biblical Parallel:** _\_Adam and Eve\__
+**### 📖 Biblical Parallel:** \_\_Adam and Eve\_\_
 
 **\*\*Genesis 3: The First Fall\*\***
 
@@ -149,7 +149,7 @@ The hook was set.
 
 And humanity has been spiraling ever since.
 
-**### 🕊️ Reflection:** _\_The Lie of Secrecy\__
+**### 🕊️ Reflection:** \_\_The Lie of Secrecy\_\_
 
 Sin thrives in secrecy. It doesn’t need full understanding—it just needs silence.
 
@@ -171,7 +171,7 @@ He didn’t come to punish. He came to restore.
 
 Even in the first fall, grace was already moving.
 
-**### 🙏 Invitation:** _\_Where Are You?\__
+**### 🙏 Invitation:** \_\_Where Are You?\_\_
 
 If you’re hiding—behind shame, behind secrecy, behind silence—God is still asking the same question:
 
@@ -241,7 +241,7 @@ I didn’t know it yet.
 
 But God did.
 
-**### 📖 Biblical Parallel:** _\_David and Bathsheba\__
+**### 📖 Biblical Parallel:** \_\_David and Bathsheba\_\_
 
 **\*\*2 Samuel 11–12: The Spiral of a King\*\***
 
@@ -289,7 +289,7 @@ He repented.
 
 And God forgave him.
 
-**### 🕊️ Reflection:** _\_The Spiral Isn’t the End\__
+**### 🕊️ Reflection:** \_\_The Spiral Isn’t the End\_\_
 
 Addiction doesn’t start with darkness.
 
@@ -321,7 +321,7 @@ He speaks truth into it.
 
 He offers mercy through it.
 
-**### 🙏 Invitation:** _\_Name Your Spiral\__
+**### 🙏 Invitation:** \_\_Name Your Spiral\_\_
 
 Where are you spiraling?
 
@@ -747,7 +747,8 @@ It meets you in the fracture.
 
 _Fractured Light: Stories of Brokenness and Redemption_
 
-In the midst of the chaos my life had become, God was always active—teaching me, moving me, using me. Just before my marriage, He led me into Youth Ministry—a passion I pursued for nearly fourteen years. I hadn’t planned on it. If you’d asked me to consider it, I would’ve laughed. It began as a favor for a friend who needed a temporary Sunday School teacher for a Junior High class. I reluctantly agreed, assuming it would last a couple of months.
+In the midst of the chaos my life had become, God was always active—teaching me, moving me, using me. Just before my marriage, He led me into Youth Ministry—a passion I pursued for nearly fourteen years. I hadn’t planned on it. If you’d asked me to
+consider it, I would’ve laughed. It began as a favor for a friend who needed a temporary Sunday School teacher for a Junior High class. I reluctantly agreed, assuming it would last a couple of months.
 
 But something unexpected happened. I fell in love with those students—and with teaching. That “temporary” role stretched into six years, as I continued with the same group until they graduated high school. I wasn’t just teaching; I was discipling, challenging, and sharing my life with them. And somehow, I was able to keep my spiraling addiction separate from that sacred space.
 
