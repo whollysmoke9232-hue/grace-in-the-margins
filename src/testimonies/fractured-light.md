@@ -3,13 +3,24 @@ title: "Fractured Light: Stories of Brokenness and Redemption"
 date: 2025-08-08
 author: "Ed Wilkins"
 layout: default.njk
-tags:
 summary: "A journey from addiction and shame to grace and redemption, paralleled with biblical stories of brokenness and hope."
 ---
 
 **Fractured-light: table of contents links**
 
----
+<ul class="toc">
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#chapter-1">Chapter 1: The Hook</a></li>
+<li><a href="#chapter-2">Chapter 2: The Spiral</a></li>
+<li><a href="#chapter-3">Chapter 3: The Altar</a></li>
+<li><a href="#chapter-4">Chapter 4: The Lie of Marriage</a></li>
+<li><a href="#chapter-5">Chapter 5: God Can</a></li>
+<li><a href="#chapter-6">Chapter 6: The Collapse</a></li>
+<li><a href="#chapter-7">Chapter 7: The Arrest</a></li>
+<li><a href="#chapter-8">Chapter 8: Still Standing</a></li>
+<li><a href="#chapter-9">Chapter 9: Margins</a></li>
+<li><a href="#conclusion">Conclusion: The Light That Remains</a></li>
+</ul>
 
 title: "Fractured Light: Stories of Brokenness and Redemption"
 
