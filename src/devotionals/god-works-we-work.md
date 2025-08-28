@@ -1,16 +1,10 @@
 ---
 title: God Works, So We Work
-layout: default.njk
-excerpt: Sanctification is our responsibility—but it’s also God’s activity. He works in us, so we can work it out. And when we do, it brings Him joy.
-tags:
-  - devotionals
-  - grace
-  - obedience
-  - spiritual-growth
-  - holiness
-  - discipleship
-  - transformation
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: Sanctification is our responsibility—but it’s also God’s activity. He works in us, so we can work it out. And when we do, it brings Him joy.
 ---
 
 ## 📖 Key Scripture
@@ -85,9 +79,3 @@ Sanctification is your responsibility—
 But it’s also God’s activity.  
 He works in you, so you can work it out.  
 And when you do, it brings Him joy.
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

@@ -1,24 +1,13 @@
 ---
 title: "If God Is Everywhere All The Time…"
-layout: default.njk
-excerpt: "A meditation on the omnipresence of God and what it means to dwell within His infinite embrace."
-tags:
-  - reflections
-  - omnipresence
-  - divine-presence
-  - spiritual-meditation
-  - God's-love
 date: 2025-08-09
+author: "Ed Wilkins"
+layout: default.njk
+tags:
+excerpt: "A meditation on the profound implications of God's omnipresence and what it means for our daily existence."
 ---
 
-## 📖 Key Scripture
-
-> _"Where can I go from your Spirit? Where can I flee from your presence? If I go up to the heavens, you are there; if I make my bed in the depths, you are there."_  
-> —Psalm 139:7-8
-
----
-
-## If God Is Everywhere…
+# If God Is Everywhere All The Time…
 
 If God is everywhere,
 then I do not merely walk with Him—
@@ -99,12 +88,3 @@ Because nothing is impossible for Him.
 And He is not just beside me—
 He is in me.
 And I am in Him.
-
----
-
-> _"In him we live and move and have our being."_  
-> —Acts 17:28
-
-**Navigation**
-
-- [← Back to Reflections](/reflections/)

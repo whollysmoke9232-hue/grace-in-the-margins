@@ -1,18 +1,11 @@
 {
-  "name": "grace-in-the-margins",
+  "name": "grace-in-the-margins-two",
   "version": "1.0.0",
-  "description": "A spiritual blog built with Eleventy",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve",
     "start": "eleventy --serve"
   },
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.2",
-    "luxon": "^3.5.0"
-  },
-  "keywords": ["eleventy", "blog", "spiritual"],
-  "author": "Your Name",
-  "license": "ISC"
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
 }

@@ -1,17 +1,10 @@
 ---
 title: From It or Through It
-layout: default.njk
-excerpt: God doesn’t always deliver us from the fire—but He always walks with us through it. In the furnace of affliction, we discover not only His power, but His presence.
-tags:
-    - devotionals
-    - faith,
-    - suffering,
-    - deliverance,
-    - Daniel,
-    - spiritual-growth,
-    - trust,
-    - presence-of-God,
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: God doesn’t always deliver us from the fire—but He always walks with us through it. In the furnace of affliction, we discover not only His power, but His presence.
 ---
 
 ## From It or Through It
@@ -87,9 +80,3 @@ In the furnace of affliction, we discover not only God's power, but His presence
 _Lord, thank You that You are with us in it and through it. Teach us to trust You not only in the deliverance but in the delay. When the flames rise and the waters deepen, remind us: You’re not absent—you’re near. And Your presence is our greatest promise._
 
 **Amen.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

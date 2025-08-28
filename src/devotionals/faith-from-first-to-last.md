@@ -1,15 +1,10 @@
 ---
-title: "Faith from First to Last"
-layout: default.njk
-excerpt: Righteousness isn’t earned—it’s credited by faith. From salvation to sanctification, the entire journey is a gift of grace, received through faith from beginning to end.
-tags:
-  - devotionals
-  - faith
-  - romans
-  - grace
-  - spiritual-growth
-  - salvation
+title: Faith from First to Last
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: Righteousness isn’t earned—it’s credited by faith. From salvation to sanctification, the entire journey is a gift of grace, received through faith from beginning to end.
 ---
 
 ## Faith from First to Last
@@ -58,9 +53,3 @@ You weren’t called to earn righteousness. You were invited to receive it. The 
 _Lord, thank You that faith begins with You and continues by You. Help me to live every day leaning into Your righteousness, resting in Your promises, and trusting Your Spirit to do the transforming. Keep me grounded not in works—but in wonder._
 
 **Amen.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

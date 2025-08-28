@@ -1,14 +1,10 @@
 ---
-title: When Jesus Wept
-layout: default.njk
-excerpt: The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept—not out of weakness, but out of divine compassion.
-tags:
-  - devotionals
-  - john
-  - compassion
-  - sin
-  - restoration
+title: 😢 *When Jesus Wept*
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept—not out of weakness, but out of divine compassion.
 ---
 
 ## 📖 Key Scripture
@@ -97,9 +93,3 @@ Jesus doesn’t just hate sin because it’s rebellion—
 He hates it because it breaks what He loves.  
 And one day, He will wipe away every tear…  
 **Because He wept first.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

@@ -1,11 +1,10 @@
 ---
-title: New Every Morning
-layout: default.njk
-excerpt: God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.
-tags:
-  - devotionals
-  - spiritual-growth
+title: 🌅 *New Every Morning*
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.
 ---
 
 ## 📖 Key Scripture
@@ -73,9 +72,3 @@ that Your love has **never ceased.\***
 1. In what specific, perhaps unexpected, ways have you seen God demonstrate His lovingkindness recently?
 2. How does the truth that God knows exactly how you feel bring you comfort in your current circumstances?
 3. As you begin this new day, how can you intentionally look for and appreciate God's "new every morning" compassions?
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

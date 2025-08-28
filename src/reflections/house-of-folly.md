@@ -1,24 +1,13 @@
 ---
 title: "The House of Folly: An Exposition of Proverbs 9:13-18"
-layout: default.njk
-excerpt: "A detailed examination of Madam Folly's deceptive invitation and the stark contrast between the way of wisdom and the path to death."
-tags:
-  - reflections
-  - proverbs
-  - wisdom
-  - folly
-  - temptation
-  - biblical-exposition
-  - discernment
 date: 2025-08-09
+author: "Ed Wilkins"
+layout: default.njk
+tags:
+excerpt: "A detailed examination of Proverbs 9:13-18, revealing how Folly masquerades as Wisdom's counterpart, offering stolen pleasures that lead to spiritual death."
 ---
 
-## 📖 Key Scripture
-
-> _"Folly is an unruly woman; she is simple and knows nothing. She sits at the door of her house, on a seat at the highest point of the city, calling out to those who pass by, who go straight on their way: 'Let all who are simple come to my house!' To those who have no sense, she says, 'Stolen water is sweet; food eaten in secret is delicious!' But little do they know that the dead are there, that her guests are deep in the realm of the dead."_  
-> —Proverbs 9:13-18
-
----
+# The House of Folly: An Exposition of Proverbs 9:13-18
 
 ## Introduction
 
@@ -26,13 +15,13 @@ Just as Proverbs 5 dissects the anatomy of temptation, Proverbs 9 presents the f
 
 ## The Character of Folly (Proverbs 9:13)
 
-_Folly is an unruly woman; she is simple and knows nothing._
+_"Folly is an unruly woman; she is simple and knows nothing."_
 
 The introduction to Folly is immediate and unflattering. Unlike the order, preparation, and substance of Lady Wisdom, Folly is **unruly** (or "loud"). This points to a chaotic, disruptive, and brash nature. Her appeal is not one of serene confidence but of obnoxious noise, seeking to grab attention through sheer volume. Furthermore, she is **simple and knows nothing**. This is a profound statement. While she presents herself as an authority, she is foundationally ignorant. She has no grasp of truth, consequence, or the "fear of the LORD" which is the beginning of wisdom. Her entire operation is built on a void of substance, making her loud exterior a mask for a hollow core.
 
 ## The Brazen Invitation (Proverbs 9:14-16)
 
-_She sits at the door of her house, on a seat at the highest point of the city, calling out to those who pass by, who go straight on their way: "Let all who are simple come to my house!" To those who have no sense, she says..._
+_"She sits at the door of her house, on a seat at the highest point of the city, calling out to those who pass by, who go straight on their way: 'Let all who are simple come to my house!' To those who have no sense, she says..."_
 
 Here, Folly brazenly imitates Wisdom. Wisdom also sends her call from the "highest point of the city" (9:3). Folly sets up her competing station in the same public square, demonstrating that evil often positions itself as a valid alternative to good. She sits openly at her door, actively soliciting passersby. Her targets are specific: those who are **simple** and going **straight on their way**. She preys on the naive and seeks to divert those who are otherwise minding their own business. Her call, "Let all who are simple come to my house!" is a direct echo of Wisdom's invitation (9:4). This reveals a key tactic of temptation: it often looks and sounds very similar to a legitimate opportunity, making discernment absolutely critical.
 
@@ -49,7 +38,7 @@ This is the core logic of temptation: it convinces us that God's boundaries are 
 
 ## The Grim Reality (Proverbs 9:18)
 
-_But little do they know that the dead are there, that her guests are deep in the realm of the dead._
+_"But little do they know that the dead are there, that her guests are deep in the realm of the dead."_
 
 The writer pulls back the curtain to reveal the horrifying truth. The simple person who accepts Folly's invitation, believing they are heading for a secret, thrilling feast, is walking into a tomb. The "but" is jarring and absolute. The guest has no idea ("little do they know") of the true nature of the house. It is filled with **"the dead"** (Hebrew: _Rephaim_, meaning shades or ghosts). Her previous guests are not satisfied revelers; they are spirits in the underworld. The destination is not just a bad experience; it is Sheol itself, "deep in the realm of the dead." The path of Folly, with its loud promises and secret thrills, is a direct route to spiritual death and total ruin. The sweet water was poison, and the delicious food was a last meal.
 
@@ -65,21 +54,12 @@ Proverbs 9:13-18 offers a chilling portrait of Folly's invitation. She is a loud
 
 ## A Prayer for Discernment
 
-O Lord, our refuge and our wisdom, thank You for laying before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly. Her promise of secret pleasures and stolen water can seem so sweet to my fallen nature.
+_O Lord, our refuge and our wisdom, thank You for laying before us a clear choice between life and death. I confess that my heart is often drawn to the loud voice of Folly. Her promise of secret pleasures and stolen water can seem so sweet to my fallen nature._
 
-Father, grant me sharp discernment to see Folly for what she is: an empty, ignorant imitation of Your truth. When she calls to me from the high places, help me to hear the deeper, truer voice of Wisdom inviting me to Your life-giving feast. Give me the strength to walk straight past her door, refusing to entertain her lies.
+_Father, grant me sharp discernment to see Folly for what she is: an empty, ignorant imitation of Your truth. When she calls to me from the high places, help me to hear the deeper, truer voice of Wisdom inviting me to Your life-giving feast. Give me the strength to walk straight past her door, refusing to entertain her lies._
 
-May I never be deceived into believing that a secret sin is a delicious meal, but see it for what it is: a poison that leads to the realm of the dead. Keep my feet on the path of life, and let me find all my delight and satisfaction in the open, honest, and abundant feast You have prepared for me.
+_May I never be deceived into believing that a secret sin is a delicious meal, but see it for what it is: a poison that leads to the realm of the dead. Keep my feet on the path of life, and let me find all my delight and satisfaction in the open, honest, and abundant feast You have prepared for me._
 
-In the name of Jesus, who is the Way, the Truth, and the Life, I pray.
+_In the name of Jesus, who is the Way, the Truth, and the Life, I pray._
 
-Amen.
-
----
-
-> _"The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding."_  
-> —Proverbs 9:10
-
-**Navigation**
-
-- [← Back to Reflections](/reflections/)
+_Amen._

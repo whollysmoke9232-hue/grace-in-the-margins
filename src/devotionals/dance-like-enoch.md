@@ -1,13 +1,10 @@
 ---
-title: "I Wanna Dance Like Enoch Danced"
-layout: default.njk
-excerpt: Worship isn’t just a song—it’s surrender. Like Enoch, may we walk so closely with God that heaven becomes the natural next step.
-tags:
-  - devotionals
-  - spiritual-growth
-  - surrender
-  - intimacy-with-god
+title: I Wanna Dance Like Enoch Danced
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: Worship isn’t just a song—it’s surrender. Like Enoch, may we walk so closely with God that heaven becomes the natural next step.
 ---
 
 ## 📖 Key Scripture
@@ -95,9 +92,3 @@ Let my worship empower the angelic battle for the lost, the hurting, the bound.
 Make me a conduit.  
 Let me dance like Enoch danced—until I’m so close to You, I don’t even notice when heaven takes me home._  
 **Amen.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

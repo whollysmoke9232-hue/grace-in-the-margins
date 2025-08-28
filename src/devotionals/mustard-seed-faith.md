@@ -1,15 +1,10 @@
 ---
-title: Mustard Seed Faith
-layout: default.njk
-excerpt: Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles.
-tags:
-  - devotionals
-  - faith
-  - matthew
-  - spiritual-growth
-  - discipleship
-  - trust
+title: "🌱 Mustard Seed Faith"
 date: 2025-08-02
+author: "Ed Wilkins"
+layout: default.njk
+tags:
+excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies."
 ---
 
 ## 📖 Key Scripture
@@ -73,9 +68,3 @@ Thank You for catching us when we sink.
 Remind us that mustard seed faith is more than enough in Your hands.  
 Teach us to fix our eyes on You—through storms, through wonder—and trust that You’ll never let us fall._  
 **Amen.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

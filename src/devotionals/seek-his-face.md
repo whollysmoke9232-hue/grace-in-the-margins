@@ -1,15 +1,10 @@
 ---
-title: "Seek His Face, Not Just His Hand"
-layout: default.njk
-excerpt: God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing.
-tags:
-  - devotionals
-  - psalms
-  - presence-of-god
-  - spiritual-growth
-  - trust
-  - intimacy-with-god
+title: Seek His Face, Not Just His Hand
 date: 2025-08-02
+author: Ed Wilkins
+layout: default.njk
+tags:
+excerpt: God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing.
 ---
 
 ## 📖 Key Scripture
@@ -105,9 +100,3 @@ Be my pursuit, my portion, and my peace._
 
 When you seek His face, His hand will follow.  
 When you dwell in His presence, His blessings will find you—**even in your sleep.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

@@ -1,13 +1,10 @@
 ---
-title: "God Works, So We Work"
-layout: default.njk
-excerpt: Sanctification is our responsibility—but it’s also God’s activity. He works in us, so we can work it out. And when we do, it brings Him joy.
-tags:
-  - devotionals
-  - grace
-  - spiritual-growth
-  - transformation
+title: 🛠️ *The Work of His Hands*
 date: 2025-08-02
+author: Ed Wilkins
+layout: default
+tags:
+excerpt: Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story.
 ---
 
 ## 🪚 The Story
@@ -104,9 +101,3 @@ _Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderf
 Help us to rest in the truth that we are fearfully and wonderfully made,  
 created for a purpose, and loved unconditionally by You, our Maker._  
 **Amen.**
-
----
-
-**Navigation**
-
-- [ Back to Devotionals](/devotionals/)

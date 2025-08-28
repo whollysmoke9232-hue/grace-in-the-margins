@@ -1,0 +1,107 @@
+{% set isDevotionalIndex = page.url == '/devotionals/' or page.url == '/devotionals/index.html' %}
+{% set isReflectionIndex = page.url == '/reflections/' or page.url == '/reflections/index.html' %}
+{% set isStoryIndex = page.url == '/stories/' or page.url == '/stories/index.html' %}
+{% set isTestimonyIndex = page.url == '/testimonies/' or page.url == '/testimonies/index.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }} | Grace In The Margins</title>
+  <meta name="description" content="{{ excerpt }}">
+  <meta name="author" content="{{ author }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="site-title">{{ title }}</h1>
+      {% if excerpt %}
+        <p><em>{{ excerpt }}</em></p>
+      {% endif %}
+      {% if author %}
+        <p><strong>By {{ author }}</strong></p>
+      {% endif %}
+      {% if date %}
+        <p><time datetime="{{ date }}">{{ date | readableDate }}</time></p>
+      {% endif %}
+      <hr />
+    </header>
+
+    <main>
+      <p style="font-size:0.95em;color:#888;text-align:center;margin-bottom:1.5em;">
+        <em>Tip: Highlight a word to see its definition.</em>
+      </p>
+      {{ content | safe }}
+      {% if page.url %}
+        <div style="text-align:center;">
+          {% if '/devotionals/' in page.url and not isDevotionalIndex %}
+            <p><a href="/devotionals/">← Back to all Devotionals</a></p>
+          {% endif %}
+          {% if '/reflections/' in page.url and not isReflectionIndex %}
+            <p><a href="/reflections/">← Back to all Reflections</a></p>
+          {% endif %}
+          {% if '/stories/' in page.url and not isStoryIndex %}
+            <p><a href="/stories/">← Back to all Stories</a></p>
+          {% endif %}
+          {% if '/testimonies/' in page.url and not isTestimonyIndex %}
+            <p><a href="/testimonies/">← Back to all Testimonies</a></p>
+          {% endif %}
+        </div>
+      {% endif %}
+    </main>
+  </div>
+
+  <div class="navigation" style="text-align: center;">
+    <p><strong>Navigation</strong></p>
+    {% if page.url != '/' %}
+      <p><a href="/">← Back to Home</a></p>
+    {% endif %}
+  </div>
+
+  <footer class="site-footer">
+    <hr />
+    <p><small>&copy; Ed Wilkins — Grace in the Margins</small></p>
+  </footer>
+
+{% if not page.url == '/' %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Only process the main content area
+  const main = document.querySelector('main');
+  if (!main) return;
+
+  // Wrap every word (3+ letters) in a span for tooltip
+  main.innerHTML = main.innerHTML.replace(/\b([a-zA-Z]{3,})\b/g, function(match) {
+    return `<span class="dictionary-tooltip" data-word="${match}">${match}</span>`;
+  });
+
+  // Tooltip fetch and display
+  document.body.addEventListener('mouseover', async function(e) {
+    if (e.target.classList.contains('dictionary-tooltip') && !e.target.dataset.definition) {
+      const word = e.target.dataset.word;
+      e.target.dataset.definition = "Loading...";
+      try {
+        const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word.toLowerCase()}`);
+        if (res.ok) {
+          const data = await res.json();
+          const def = data[0]?.meanings[0]?.definitions[0]?.definition;
+          if (def) {
+            e.target.dataset.definition = def;
+          } else {
+            e.target.dataset.definition = "No definition found.";
+          }
+        } else {
+          e.target.dataset.definition = "No definition found.";
+        }
+      } catch {
+        e.target.dataset.definition = "Error fetching definition.";
+      }
+    }
+  });
+});
+</script>
+{% endif %}
+
+</body>
+</html>

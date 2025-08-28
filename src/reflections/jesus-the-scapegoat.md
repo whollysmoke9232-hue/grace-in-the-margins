@@ -1,26 +1,13 @@
 ---
 title: "Jesus – The Scapegoat"
-layout: default.njk
-excerpt: "A meditation on why God created us, the model of atonement through blood sacrifice, and the intimate relationship made possible through Christ's ultimate sacrifice."
-tags:
-  - reflections
-  - atonement
-  - sacrifice
-  - Jesus
-  - scapegoat
-  - revival
-  - intimacy-with-God
 date: 2025-08-09
+author: "Ed Wilkins"
+layout: default.njk
+tags:
+excerpt: "A profound exploration of why God created us, the necessity of sacrifice, and how Jesus became our ultimate scapegoat—the one who carries our shame so we can walk in intimacy with the Father."
 ---
 
-## 📖 Key Scripture
-
-> _"The LORD God made garments of skin for Adam and his wife and clothed them."_  
-> —Genesis 3:21
-
----
-
-## ✨ Jesus – The Scapegoat
+# ✨ Jesus – The Scapegoat
 
 Why did God create us?
 
@@ -50,7 +37,7 @@ After Adam and Eve chose to disobey, shame entered the world. They tried to cove
 
 So God stepped in.
 
-In one of the most tender and haunting moments in scripture, "the LORD God made garments of skin for Adam and his wife and clothed them" (Genesis 3:21). It's easy to miss the weight of that verse. But imagine it: the first shedding of blood in history wasn't an act of violence—it was an act of mercy.
+In one of the most tender and haunting moments in scripture, _"the LORD God made garments of skin for Adam and his wife and clothed them"_ (Genesis 3:21). It's easy to miss the weight of that verse. But imagine it: the first shedding of blood in history wasn't an act of violence—it was an act of mercy.
 
 To cover their shame, something innocent had to die.
 
@@ -58,9 +45,9 @@ Perhaps Adam and Eve watched in silence as God took two of their animal companio
 
 This wasn't just about clothing. It was a model—a foreshadowing of something far greater.
 
-Centuries later, God would give His people a law, and with it, a system of sacrifices. "It is the blood that makes atonement for one's life," He said (Leviticus 17:11). The message was clear: sin separates, and only blood can bridge the gap.
+Centuries later, God would give His people a law, and with it, a system of sacrifices. _"It is the blood that makes atonement for one's life,"_ He said (Leviticus 17:11). The message was clear: sin separates, and only blood can bridge the gap.
 
-Even Moses, the great leader of Israel, couldn't stand fully exposed before God's glory. When he asked to see God's face, the Lord replied, "You cannot see my face, for no one may see me and live" (Exodus 33). Holiness and sin cannot coexist. One would consume the other.
+Even Moses, the great leader of Israel, couldn't stand fully exposed before God's glory. When he asked to see God's face, the Lord replied, _"You cannot see my face, for no one may see me and live"_ (Exodus 33:20). Holiness and sin cannot coexist. One would consume the other.
 
 But God didn't abandon His people. Through the blood of the covenant, He marked them as His own. When He looked upon them, He didn't see their failures or flaws—He saw the covering. He saw the blood.
 
@@ -82,9 +69,9 @@ It was a vivid picture of substitution. Of innocence bearing guilt. Of one life 
 
 And it was all pointing to Jesus.
 
-Romans 8 tells us that God did what the law could never do: He sent His own Son "to be a sin offering." Jesus became the fulfillment of every sacrifice, every ritual, every shadow of redemption. He was the Lamb. He was the Scapegoat.
+Romans 8 tells us that God did what the law could never do: He sent His own Son _"to be a sin offering."_ Jesus became the fulfillment of every sacrifice, every ritual, every shadow of redemption. He was the Lamb. He was the Scapegoat.
 
-He took our sin. He bore our shame. And when He hung on the cross, He declared, "It is finished" (John 19:30).
+He took our sin. He bore our shame. And when He hung on the cross, He declared, _"It is finished"_ (John 19:30).
 
 No more sacrifices. No more rituals. No more barriers.
 
@@ -94,7 +81,7 @@ Through Jesus, we are no longer condemned. We are no longer defined by our failu
 
 ## 🔥 Dead Men See His Face
 
-There's a phrase that appears again and again in the Old Testament: "a pleasing aroma to the Lord." It's used to describe burnt offerings—sacrifices made by fire. But what was it about the smell of burning flesh and hide that pleased God?
+There's a phrase that appears again and again in the Old Testament: _"a pleasing aroma to the Lord."_ It's used to describe burnt offerings—sacrifices made by fire. But what was it about the smell of burning flesh and hide that pleased God?
 
 It wasn't the scent. It was the surrender.
 
@@ -127,15 +114,3 @@ How far can this go? Ask Enoch. He'll tell you: you can walk with God so closely
 So let us draw near—with confidence, with reverence, with hearts sprinkled clean by the blood of Christ. Let us press in—not just to know about Him, but to truly know Him.
 
 Because dead men see His face.
-
----
-
-> _"It is the blood that makes atonement for one's life."_  
-> —Leviticus 17:11
-
-> _"It is finished."_  
-> —John 19:30
-
-**Navigation**
-
-- [← Back to Reflections](/reflections/)
