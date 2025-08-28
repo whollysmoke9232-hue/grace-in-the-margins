@@ -6,7 +6,9 @@ layout: default.njk
 summary: "A journey from addiction and shame to grace and redemption, paralleled with biblical stories of brokenness and hope."
 ---
 
-**Fractured-light: table of contents links**
+# **Fractured Light: Stories of Brokenness and Redemption**
+
+**table of contents links**
 
 <ul class="toc">
 <li><a href="#introduction">Introduction</a></li>
@@ -21,8 +23,6 @@ summary: "A journey from addiction and shame to grace and redemption, paralleled
 <li><a href="#chapter-9">Chapter 9: Margins</a></li>
 <li><a href="#conclusion">Conclusion: The Light That Remains</a></li>
 </ul>
-
-**# Fractured Light: Stories of Brokenness and Redemption**
 
 <a id="introduction"></a>
 
