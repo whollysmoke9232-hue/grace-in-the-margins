@@ -9,7 +9,7 @@ summary: "A journey from addiction and shame to grace and redemption, paralleled
 <h1>Fractured Light</h1>
 <h1><em>Stories of Brokenness and Redemption</em></h1>
 
-**table of contents links**
+**Table of Contents Links**
 
 <ul class="toc">
 <li><a href="#introduction">Introduction</a></li>
@@ -27,7 +27,7 @@ summary: "A journey from addiction and shame to grace and redemption, paralleled
 
 <a id="introduction"></a>
 
-**## 📖** \_\_Introduction\_\_
+## Introduction
 
 I didn’t set out to write this book. I set out to survive.
 
@@ -35,7 +35,7 @@ For decades, I lived in the margins—of society, of church, of my own soul. Add
 
 This book is not a triumph story wrapped in a bow. It’s a testimony. It’s the sound of grace echoing through the wreckage. It’s the flicker of light that found me in jail, in addiction, in silence—and refused to go out.
 
-The title \_\_Fractured Light\_\_ comes from a truth I’ve come to believe: that God’s light doesn’t only shine through the polished and the whole. It shines through the broken. Through the cracks. Through the places we try hardest to hide. And when it does, it doesn’t just illuminate—it heals.
+The title **\_Fractured Light** comes from a truth I’ve come to believe: that God’s light doesn’t only shine through the polished and the whole. It shines through the broken. Through the cracks. Through the places we try hardest to hide. And when it does, it doesn’t just illuminate—it heals.
 
 Each chapter in this book pairs a piece of my story with a story from Scripture. Not to draw perfect parallels, but to show that brokenness is not a modern problem—and redemption is not a modern invention. God has always done His best work in the margins. In the lives of adulterers, addicts, outcasts, and doubters. In the lives of people like me. People like you.
 
@@ -65,13 +65,11 @@ Welcome to the margins.
 
 This is where resurrection begins.
 
----
-
 <a id="chapter-1"></a>
 
-**## Chapter 1: The Hook**
+## Chapter 1: The Hook
 
-**### When Innocence Meets the Spiral**
+### When Innocence Meets the Spiral
 
 I was nine years old when the hook was set.
 
@@ -91,13 +89,13 @@ Later that summer, I discovered men’s magazines. The images intensified the pl
 
 I was hooked. And I would stay hooked for decades.
 
-**### 📖 Biblical Parallel:** \_\_Adam and Eve\_\_
+**Biblical Parallel: Adam and Eve**
 
-**\*\*Genesis 3: The First Fall\*\***
+_Genesis 3: The First Fall_
 
 They were naked and unashamed. Innocent. Curious. Free.
 
-Then came the whisper: “Did God really say…?”
+Then came the whisper: _“Did God really say…?”_
 
 Then came the bite.
 
@@ -115,7 +113,7 @@ The hook was set.
 
 And humanity has been spiraling ever since.
 
-**### 🕊️ Reflection:** \_\_The Lie of Secrecy\_\_
+**Reflection: The Lie of Secrecy**
 
 Sin thrives in secrecy. It doesn’t need full understanding—it just needs silence.
 
@@ -127,7 +125,7 @@ And that’s the first lie sin tells us: “If they see you, they’ll reject yo
 
 But God’s first question in the garden wasn’t “What did you do?”
 
-It was “Where are you?”
+It was _“Where are you?”_
 
 He wasn’t hunting them. He was pursuing them.
 
@@ -137,7 +135,7 @@ He didn’t come to punish. He came to restore.
 
 Even in the first fall, grace was already moving.
 
-**### 🙏 Invitation:** \_\_Where Are You?\_\_
+**Invitation: Where Are You?**
 
 If you’re hiding—behind shame, behind secrecy, behind silence—God is still asking the same question:
 
@@ -159,13 +157,11 @@ Because He will.
 
 He always does.
 
----
-
 <a id="chapter-2"></a>
 
-**## Chapter 2: The Spiral**
+## Chapter 2: The Spiral
 
-**### When Desire Becomes a Death Trap**
+### When Desire Becomes a Death Trap
 
 Adolescence didn’t slow the spiral—it accelerated it.
 
@@ -207,9 +203,9 @@ I didn’t know it yet.
 
 But God did.
 
-**### 📖 Biblical Parallel:** \_\_David and Bathsheba\_\_
+**Biblical Parallel: David and Bathsheba**
 
-**\*\*2 Samuel 11–12: The Spiral of a King\*\***
+_2 Samuel 11–12: The Spiral of a King_
 
 David was a man after God’s own heart.
 
@@ -245,7 +241,7 @@ Until truth pierced the spiral.
 
 Until David broke.
 
-“Against You, and You only, have I sinned,” he cried in Psalm 51.
+_“Against You, and You only, have I sinned,” he cried in Psalm 51._
 
 He didn’t blame Bathsheba.
 
@@ -255,7 +251,7 @@ He repented.
 
 And God forgave him.
 
-**### 🕊️ Reflection:** \_\_The Spiral Isn’t the End\_\_
+**Reflection: The Spiral Isn’t the End**
 
 Addiction doesn’t start with darkness.
 
@@ -287,7 +283,7 @@ He speaks truth into it.
 
 He offers mercy through it.
 
-**### 🙏 Invitation:** \_\_Name Your Spiral\_\_
+**Invitation: Name Your Spiral**
 
 Where are you spiraling?
 
@@ -301,15 +297,13 @@ Not to punish yourself—but to break the silence.
 
 Then pray David’s prayer:
 
-“Create in me a clean heart, O God, and renew a right spirit within me.” (Psalm 51:10)
+_“Create in me a clean heart, O God, and renew a right spirit within me.” (Psalm 51:10)_
 
 Because the spiral doesn’t have to end in shame.
 
 It can end in surrender.
 
----
-
-**\*\*🙏 Invitation:** \*\_Name Your Spiral\_**\*\*\***
+**Invitation: Name Your Spiral**
 
 Where are you spiraling?
 
@@ -323,7 +317,7 @@ Not to punish yourself—but to break the silence.
 
 Then pray David’s prayer:
 
-“Create in me a clean heart, O God, and renew a right spirit within me.” (Psalm 51:10)
+_“Create in me a clean heart, O God, and renew a right spirit within me.” (Psalm 51:10)_
 
 Because the spiral doesn’t have to end in shame.
 
@@ -331,9 +325,9 @@ It can end in surrender.
 
 <a id="chapter-3"></a>
 
-**## Chapter 3: The Altar**
+## Chapter 3: The Altar
 
-**\*\*When Conviction Becomes Surrender\*\***
+### When Conviction Becomes Surrender
 
 There wasn’t an altar call.
 
@@ -411,7 +405,7 @@ How dopamine depletion drives darker desires.
 
 How spiritual slavery isn’t just metaphor—it’s reality.
 
-Jesus said, “Everyone who practices sin is a slave to sin.” (John 8:34)
+Jesus said, _“Everyone who practices sin is a slave to sin.” (John 8:34)_
 
 That was me.
 
@@ -423,9 +417,9 @@ Even after the transformation.
 
 I was still enslaved.
 
-**\*\*📖 Biblical Parallel:** \*\_Isaiah’s Vision\_**\*\*\***
+**Biblical Parallel: Isaiah’s Vision**
 
-**\*\*Isaiah 6: Conviction and Calling\*\***
+_Isaiah 6: Conviction and Calling_
 
 Isaiah was in the temple.
 
@@ -435,13 +429,13 @@ Then the heavens opened.
 
 He saw the Lord—high and exalted.
 
-Angels cried, “Holy, holy, holy.”
+Angels cried, _“Holy, holy, holy.”_
 
 And Isaiah didn’t celebrate.
 
 He collapsed.
 
-“Woe to me!” he cried. “I am ruined! For I am a man of unclean lips…”
+_“Woe to me!” he cried. “I am ruined! For I am a man of unclean lips…”_
 
 Conviction.
 
@@ -459,15 +453,15 @@ Touched to his lips.
 
 Cleansing. Healing. Commissioning.
 
-“Your guilt is taken away,” the angel said. “Your sin is atoned for.”
+_“Your guilt is taken away,” the angel said. “Your sin is atoned for.”_
 
 Then came the call:
 
-“Whom shall I send?”
+_“Whom shall I send?”_
 
-And Isaiah replied, “Here am I. Send me.”
+_And Isaiah replied, “Here am I. Send me.”_
 
-**\*\*🕊️ Reflection:** \*\_The Altar Is a Beginning\_**\*\*\***
+**Reflection: The Altar Is a Beginning**
 
 The altar isn’t the end of the spiral.
 
@@ -499,7 +493,7 @@ He speaks through the broken.
 
 And He sends us.
 
-**\*\*🙏 Invitation:** \*\_Return to the Altar\_**\*\*\***
+**Invitation: Return to the Altar**
 
 Where did God first meet you?
 
@@ -525,9 +519,9 @@ It’s where you begin.
 
 <a id="chapter-4"></a>
 
-**## Chapter 4: The Lie of Marriage**
+## Chapter 4: The Lie of Marriage
 
-**\*\*When Love Isn’t Enough to Heal Lust\*\***
+### When Love Isn’t Enough to Heal Lust
 
 She was the answer to my prayer.
 
@@ -607,9 +601,9 @@ Marriage didn’t heal me.
 
 It exposed me.
 
-**\*\*📖 Biblical Parallel:** \*\_Hosea and Gomer\_**\*\*\***
+**Biblical Parallel:**
 
-**\*\*Hosea 1–3: Love That Won’t Let Go\*\***
+_Hosea 1–3: Love That Won’t Let Go_
 
 God told Hosea to marry a prostitute.
 
@@ -647,7 +641,7 @@ And God said, “This is how I love Israel.”
 
 This is how I love you.
 
-**\*\*🕊️ Reflection:** \*\_Love Isn’t the Cure—Grace Is\_**\*\*\***
+**Reflection: Love Isn’t the Cure—Grace Is**
 
 Marriage is beautiful.
 
@@ -687,7 +681,7 @@ He redeems.
 
 He whispers, “You are mine.”
 
-**\*\*🙏 Invitation:** \*\_Let Grace Speak\_**\*\*\***
+**Invitation:**
 
 If you’ve believed the lie that love will fix you—let grace speak louder.
 
@@ -709,9 +703,9 @@ It meets you in the fracture.
 
 <a id="chapter-5"></a>
 
-**## Chapter 5: God Can**
+## Chapter 5: God Can
 
-_Fractured Light: Stories of Brokenness and Redemption_
+### He Can make Beauty From Ashes
 
 In the midst of the chaos my life had become, God was always active—teaching me, moving me, using me. Just before my marriage, He led me into Youth Ministry—a passion I pursued for nearly fourteen years. I hadn’t planned on it. If you’d asked me to
 consider it, I would’ve laughed. It began as a favor for a friend who needed a temporary Sunday School teacher for a Junior High class. I reluctantly agreed, assuming it would last a couple of months.
@@ -730,9 +724,9 @@ After fourteen years in Youth Ministry, I stepped into a new role as Worship Lea
 
 During that time, I joined several international mission trips. I saw poverty I’d never imagined—churches with only one Bible, passed from family to family. These people were poor, hungry, dirty… but joyous. Content. They had something I longed for. For them, Jesus was everything. I learned the truth of the phrase: _Jesus can never be all you need until He is all you have._
 
-“Whom have I in heaven but you?
-And earth has nothing I desire besides you.”
-—Psalm 73:25
+_“Whom have I in heaven but you?_
+_And earth has nothing I desire besides you.”_
+_—Psalm 73:25_
 
 That lesson became part of the fabric of my life. Over the years, I’ve seen countless souls come to faith in Jesus. I’ve walked with couples on the brink of divorce, sat with friends in their deepest valleys, and celebrated mountaintop moments. I’ve helped addicts find freedom through the Holy Spirit—even while I remained bound myself. That paradox was both a blessing and a burden. God used me to lead others to deliverance, while I silently grieved my own captivity.
 
@@ -742,12 +736,12 @@ God can.
 
 **Biblical Parallel: Paul’s Thorn and God’s Power in Weakness**
 
-“Even if I should choose to boast, I would not be a fool, because I would be speaking the truth...
-Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh...
-But he said to me, ‘My grace is sufficient for you, for my power is made perfect in weakness.’
-Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me...
-For when I am weak, then I am strong.”
-—2 Corinthians 12:6–10
+_“Even if I should choose to boast, I would not be a fool, because I would be speaking the truth..._
+_Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh..._
+_But he said to me, ‘My grace is sufficient for you, for my power is made perfect in weakness.’_
+_Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me..._
+_For when I am weak, then I am strong.”_
+_—2 Corinthians 12:6–10_
 
 Paul’s ministry was marked by revelation, miracles, and widespread impact—yet he carried a hidden affliction, a “thorn in the flesh.” Like, me, he pleaded for deliverance. But God’s answer wasn’t removal—it was grace. Paul’s weakness became the very stage upon which God’s power was displayed. My story echoes his: a life of visible ministry and invisible struggle, held together by the sufficiency of grace. I didn’t just survive—I ministered from the margins, where God’s strength shines brightest.
 
@@ -774,8 +768,8 @@ And God said no.
 Not because He didn’t love Paul.
 Because He did.
 
-“My grace is sufficient for you,
-for my power is made perfect in weakness.”
+**_“My grace is sufficient for you,_**
+**_for my power is made perfect in weakness.”_**
 
 Paul didn’t get relief.
 He got revelation.
@@ -787,7 +781,7 @@ He started boasting.
 Not in strength.
 In struggle.
 
-“For when I am weak, then I am strong.”
+_“For when I am weak, then I am strong.”_
 
 Paul’s thorn didn’t disqualify him.
 It deepened him.
@@ -797,7 +791,7 @@ It amplified it.
 Because grace doesn’t need perfection.
 It needs surrender.
 
-**🕊️ Reflection: _Ministry Isn’t Proof of Wholeness—It’s Evidence of Grace_**
+**Reflection: Ministry Isn’t Proof of Wholeness—It’s Evidence of Grace**
 
 I led hundreds.
 I taught truth.
@@ -835,7 +829,7 @@ And His strength rested on me.
 Not because I was whole.
 But because I was willing.
 
-**🙏 Invitation: _Boast in the Thorn_**
+**Invitation: Boast in the Thorn**
 
 If you’ve believed the lie that ministry requires perfection—let Paul’s story rewrite yours.
 
@@ -851,15 +845,15 @@ It washes you while you’re bleeding.
 
 And when you say, “Who could use a life like mine?”
 He answers,
-“I can.”
+**_“I can.”_**
 
 God can.
 
 <a id="chapter-6"></a>
 
-**## Chapter 6: The Collapse**
+## Chapter 6: The Collapse
 
-**\*\*When the Body Breaks and the Soul Follows\*\***
+### When the Body Breaks and the Soul Follows
 
 By November 2022, my world began to unravel.
 
@@ -945,9 +939,9 @@ Concealed.
 
 But the spiral had grown tighter.
 
-**\*\*📖 Biblical Parallel:** \*\_Elijah Under the Broom Tree\_**\*\*\***
+**Biblical Parallel: Elijah Under the Broom Tree**
 
-**\*\*1 Kings 19: When the Prophet Wanted to Die\*\***
+_1 Kings 19: When the Prophet Wanted to Die_
 
 Elijah had just called down fire from heaven.
 
@@ -969,7 +963,7 @@ Sat under a broom tree.
 
 And prayed to die.
 
-“I’ve had enough, Lord,” he said. “Take my life.”
+_“I’ve had enough, Lord,” he said. “Take my life.”_
 
 He wasn’t weak.
 
@@ -995,7 +989,7 @@ Not in fire.
 
 In a whisper.
 
-**\*\*🕊️ Reflection:** \*\_God in the Collapse\_**\*\*\***
+**Reflection: God in the Collapse**
 
 Sometimes the collapse isn’t failure.
 
@@ -1027,7 +1021,7 @@ Sometimes He waits.
 
 Sometimes He simply sits beside us under the broom tree.
 
-**\*\*🙏 Invitation:** \*\_Listen for the Whisper\_**\*\*\***
+**Invitation: Listen for the Whisper**
 
 Are you collapsing?
 
@@ -1057,9 +1051,9 @@ And the whisper is love.
 
 <a id="chapter-7"></a>
 
-**## Chapter 7: The Arrest**
+## Chapter 7: The Arrest
 
-**\*\*When Everything Falls and Grace Still Stands\*\***
+### When Everything Falls and Grace Still Stands
 
 When my health collapsed, when my job strained me to the edge, when isolation screamed louder than hope—I made a desperate choice.
 
@@ -1155,9 +1149,9 @@ My daily prayer:
 
 I believe He did.
 
-**\*\*📖 Biblical Parallel:** \*\_Joseph in Prison\_**\*\*\***
+**Biblical Parallel: Joseph in Prison**
 
-**\*\*Genesis 39–41: When Innocence Is Accused\*\***
+_Genesis 39–41: When Innocence Is Accused_
 
 Joseph was faithful.
 
@@ -1199,7 +1193,7 @@ Not because Joseph fought his way out.
 
 Because God never left.
 
-**\*\*🕊️ Reflection:** \*\_Grace in the Cell\_**\*\*\***
+**Reflection: Grace in the Cell**
 
 Sometimes the cell is where God speaks loudest.
 
@@ -1229,7 +1223,7 @@ Not because I was innocent.
 
 But because God is good.
 
-**\*\*🙏 Invitation:** \*\_Meet God in the Cell\_**\*\*\***
+**Invitation: Meet God in the Cell**
 
 Are you facing accusation?
 
@@ -1259,9 +1253,9 @@ And it stays.
 
 <a id="chapter-8"></a>
 
-**## Chapter 8: Still Standing**
+## Chapter 8: Still Standing
 
-**\*\*When the World Moves On and God Stays Near\*\***
+### When the World Moves On and God Stays Near
 
 Life outside jail wasn’t the relief I expected.
 
@@ -1307,7 +1301,7 @@ I now understand addiction differently—not just as sin or weakness, but as spi
 
 And what Jesus said in John 8:36 is true:
 
-“If the Son sets you free, you will be free indeed.”
+_“If the Son sets you free, you will be free indeed.”_
 
 Freedom doesn’t mean ease.
 
@@ -1343,9 +1337,9 @@ Because He is still good.
 
 And I am still His.
 
-**\*\*📖 Biblical Parallel:** \*\_The Prodigal Son\_**\*\*\***
+**Biblical Parallel: The Prodigal Son**
 
-**\*\*Luke 15:11–32: When Grace Runs First\*\***
+_Luke 15:11–32: When Grace Runs First_
 
 He squandered everything.
 
@@ -1383,7 +1377,7 @@ The feast.
 
 All before the apology was finished.
 
-**\*\*🕊️ Reflection:** \*\_Grace Doesn’t Wait for Worthiness\_**\*\*\***
+**Reflection: Grace Doesn’t Wait for Worthiness**
 
 I didn’t return to applause.
 
@@ -1413,7 +1407,7 @@ God doesn’t wait for us to be worthy.
 
 He waits for us to come home.
 
-**\*\*🙏 Invitation:** \*\_Come Home\_**\*\*\***
+**Invitation: Come Home**
 
 Are you afraid to return?
 
@@ -1427,7 +1421,7 @@ Write down what you think disqualifies you.
 
 Then write Luke 15:20 beside it:
 
-“But while he was still a long way off, his father saw him and was filled with compassion…”
+_“But while he was still a long way off, his father saw him and was filled with compassion…”_
 
 You are seen.
 
@@ -1439,9 +1433,9 @@ Come home.
 
 <a id="chapter-9"></a>
 
-**## Chapter 9: Margins**
+## Chapter 9: Margins
 
-**\*\*Where Grace Builds Altars\*\***
+### Where Grace Builds Altars
 
 I never set out to write this story.
 
@@ -1499,9 +1493,9 @@ Margins aren’t where the story ends.
 
 Margins are where resurrection begins.
 
-**\*\*📖 Biblical Parallel:** \*\_Jesus in the Margins\_**\*\*\***
+**Biblical Parallel: Jesus in the Margins**
 
-**\*\*Luke 7, John 4, Mark 5: Where Grace Goes First\*\***
+_Luke 7, John 4, Mark 5: Where Grace Goes First_
 
 He touched lepers.
 
@@ -1531,7 +1525,7 @@ He went to the broken.
 
 And He still does.
 
-**\*\*🕊️ Reflection:** \*\_The Margins Are Holy Ground\_**\*\*\***
+**Reflection: The Margins Are Holy Ground**
 
 We think holiness lives in sanctuaries.
 
@@ -1557,7 +1551,7 @@ You are not beyond grace.
 
 You are exactly where God wants you. Where He does His best work.
 
-**\*\*🙏 Invitation:** \*\_Build an Altar\_**\*\*\***
+**Invitation: Build an Altar**
 
 Where are your margins?
 
@@ -1587,7 +1581,7 @@ Because grace is already there.
 
 <a id="conclusion"></a>
 
-**## Conclusion: The Light That Remains**
+## Conclusion: The Light That Remains
 
 If you’ve made it this far, thank you.
 
