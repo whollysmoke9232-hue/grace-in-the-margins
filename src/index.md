@@ -26,10 +26,10 @@ layout: layout
 
  <section class="psalm-verse">
   <p style="font-size: 1.5rem; font-style: italic;">
-    "Thy word is a lamp unto my feet, and a light unto my path." -Psalm 119:105 (KJV)
+    "Thy word is a lamp unto my feet, and a light unto my path."      Psalm 119:105 (KJV)
   </p>
 </section>
-
+  
 <p class="squiggly">〰〰〰〰〰〰〰</p>
 <p class="detour-highlight" style="font-size:1.0rem;color:#d7263d;font-weight:bold;background:#fffbe6;text-align:center;padding:0.5em 0;border-radius:0.5em;">
   A space where God's presence meets life's detours.
