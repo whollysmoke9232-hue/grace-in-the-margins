@@ -25,24 +25,32 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  // 📚 Devotionals collection
+  // 📚 Devotionals collection (sorted newest first)
   eleventyConfig.addCollection("devotionals", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/devotionals/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/devotionals/*.md")
+      .sort((a, b) => b.date - a.date);
   });
 
-  // 📚 Reflections collection
+  // 📚 Reflections collection (sorted newest first)
   eleventyConfig.addCollection("reflections", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/reflections/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/reflections/*.md")
+      .sort((a, b) => b.date - a.date);
   });
 
-  // 📚 Stories collection
+  // 📚 Stories collection (sorted newest first)
   eleventyConfig.addCollection("stories", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/stories/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/stories/*.md")
+      .sort((a, b) => b.date - a.date);
   });
 
-  // 📚 Testimonies collection
+  // 📚 Testimonies collection (sorted newest first)
   eleventyConfig.addCollection("testimonies", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/testimonies/*.md");
+    return collectionApi
+      .getFilteredByGlob("./src/testimonies/*.md")
+      .sort((a, b) => b.date - a.date);
   });
 
   // 🏷️ Tag list collection
