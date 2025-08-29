@@ -1,5 +1,5 @@
 ---
-title: 🫀 *A Man After God’s Heart*
+title: A Man After God’s Heart
 date: 2025-08-02
 author: Ed Wilkins
 layout: default.njk
@@ -7,7 +7,7 @@ excerpt: David’s life teaches us that God’s standard isn’t perfection—it
 tags:
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“After He had removed him, He raised up David to be their king, concerning whom He also testified and said, ‘I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.’”_  
 > —Acts 13:22
@@ -20,7 +20,7 @@ tags:
 
 ---
 
-## 🔍 The Paradox of David
+## The Paradox of David
 
 “All My will?”
 
@@ -32,7 +32,7 @@ How can a man with such a checkered past be held up as the standard by God Himse
 
 ---
 
-## 💡 Divine Insight
+## Divine Insight
 
 And yet… God said David did _all_ His will.
 
@@ -50,7 +50,7 @@ God heard—and He restored.
 
 ---
 
-## 🧩 Grace in Weakness
+## Grace in Weakness
 
 God’s ways are consistent.
 
@@ -68,7 +68,7 @@ He crafted every aspect of our being—including what we perceive as our flaws o
 
 ---
 
-## 🃏 Playing Your Hand
+## Playing Your Hand
 
 It’s as if God has dealt us a hand of cards—some strong, some less so.  
 He knows every card in our hand.
@@ -89,7 +89,7 @@ allowing His grace to be perfected in our weakness.
 
 ---
 
-## 🔍 Reflection Questions
+## Reflection Questions
 
 1. How does understanding God's focus on the heart, rather than just outward actions, change your perception of your own struggles and imperfections?
 2. In what ways might you be "playing your hand" poorly by trying to hide your weaknesses from God or others?
@@ -97,7 +97,7 @@ allowing His grace to be perfected in our weakness.
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 Merciful Father, thank You for the profound truth that You look at our hearts.  
 Thank You that You know us completely, even our deepest weaknesses, and that Your grace is always sufficient.  

@@ -1,5 +1,5 @@
 ---
-title: "The Work of His Hands"
+title: The Work of His Hands
 date: 2025-08-09
 author: "Ed Wilkins"
 layout: default.njk

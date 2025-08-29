@@ -7,14 +7,14 @@ tags:
 excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies."
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“…I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there’ and it will move…”_  
 > —Matthew 17:20
 
 ---
 
-## ✨ Devotional: Mustard Seed Faith
+## Devotional: Mustard Seed Faith
 
 I used to think that verse was good news…  
 If I ever needed to move a mountain.
@@ -43,7 +43,7 @@ Then, as if to seal the moment, Jesus had each disciple collect a basket overflo
 
 ---
 
-## 🌊 Faith in the Storm
+## Faith in the Storm
 
 But just hours later, fear returned.  
 In the boat, the disciples trembled as Jesus walked toward them on the water.
@@ -61,7 +61,7 @@ They were a reminder:
 
 ---
 
-## 🙏 Prayer Reflection
+## Prayer Reflection
 
 _Lord, help us not despise the days of small faith.  
 Thank You for catching us when we sink.  

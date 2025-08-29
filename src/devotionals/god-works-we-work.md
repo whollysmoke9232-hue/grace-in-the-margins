@@ -7,7 +7,7 @@ tags:
 excerpt: Sanctification is our responsibility—but it’s also God’s activity. He works in us, so we can work it out. And when we do, it brings Him joy.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“Work out your own salvation with fear and trembling,  
 > for it is God who works in you, both to will and to work for His good pleasure.”_  
@@ -15,7 +15,7 @@ excerpt: Sanctification is our responsibility—but it’s also God’s activity
 
 ---
 
-## ✨ Devotional: God Works, So We Work
+## Devotional: God Works, So We Work
 
 There’s a beautiful mystery in the Christian life:  
 We are called to work—yet we are not alone in the work.  
@@ -37,7 +37,7 @@ He gives us both the will and the ability to do what pleases Him.
 
 ---
 
-## 🔍 Work Out, Not Work For
+## Work Out, Not Work For
 
 Notice Paul doesn’t say “work _for_ your salvation.”  
 He says “work _out_.”
@@ -51,7 +51,7 @@ Like a seed that grows into a tree, salvation planted in us by grace must be cul
 
 ---
 
-## 🎯 For His Good Pleasure
+## For His Good Pleasure
 
 Why do we do this?  
 Not for applause.  
@@ -63,7 +63,7 @@ When we walk in His will, we bring joy to His heart.
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Father, thank You for working in me.  
 Thank You for giving me both the desire and the strength to follow You.  
@@ -73,7 +73,7 @@ May everything I do bring pleasure to Your heart. Amen._
 
 ---
 
-## 💡 Takeaway Thought
+## Takeaway Thought
 
 Sanctification is your responsibility—  
 But it’s also God’s activity.  

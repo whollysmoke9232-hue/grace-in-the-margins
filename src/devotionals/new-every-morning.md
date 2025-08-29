@@ -1,5 +1,5 @@
 ---
-title: 🌅 *New Every Morning*
+title: New Every Morning
 date: 2025-08-02
 author: Ed Wilkins
 layout: default.njk
@@ -7,7 +7,7 @@ tags:
 excerpt: God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“The LORD’S lovingkindnesses indeed never cease,  
 > For His compassions never fail.  
@@ -17,7 +17,7 @@ excerpt: God’s mercies are not recycled—they’re freshly painted across eac
 
 ---
 
-## 🎨 A Mural of Mercy
+## A Mural of Mercy
 
 There is no end to the creative ways God reveals His love.  
 Just when I think He’s exhausted every method—**BOOM!** Another masterpiece of mercy.  
@@ -54,20 +54,20 @@ And I am always—_always_—held in His hands.
 
 ---
 
-## 🙏 A Breath of Praise
+## A Breath of Praise
 
-\*Lord, thank You for pursuing me endlessly,  
-for loving me creatively and faithfully.  
-Let my mornings greet Your mercy  
-and my nights rest in Your compassion.  
-And even when I don’t feel it—when my heart forgets—  
-remind me again, like sunrise after darkness,  
-that Your love has **never ceased.\***  
+_Lord, thank You for pursuing me endlessly,_
+_for loving me creatively and faithfully._
+_Let my mornings greet Your mercy_  
+_and my nights rest in Your compassion._  
+_And even when I don’t feel it—when my heart forgets—_  
+_remind me again, like sunrise after darkness,_  
+_that Your love has_ **never ceased.**  
 **Amen.**
 
 ---
 
-## 🔍 Reflection Questions
+## Reflection Questions
 
 1. In what specific, perhaps unexpected, ways have you seen God demonstrate His lovingkindness recently?
 2. How does the truth that God knows exactly how you feel bring you comfort in your current circumstances?

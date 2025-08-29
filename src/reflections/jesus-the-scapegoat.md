@@ -1,5 +1,5 @@
 ---
-title: "Jesus – The Scapegoat"
+title: Jesus – The Scapegoat
 date: 2025-08-09
 author: "Ed Wilkins"
 layout: default.njk
@@ -7,7 +7,7 @@ tags:
 excerpt: "A profound exploration of why God created us, the necessity of sacrifice, and how Jesus became our ultimate scapegoat—the one who carries our shame so we can walk in intimacy with the Father."
 ---
 
-# ✨ Jesus – The Scapegoat
+# Jesus – The Scapegoat
 
 Why did God create us?
 
@@ -31,7 +31,7 @@ Yet even then, God didn't give up. He already had a plan to restore what was los
 
 That's where Jesus enters the story—not just as a teacher or a healer, but as the scapegoat. The one who would carry our rejection, our shame, and our death so we could be brought back into the love we were created for.
 
-## 🩸 The Model: Covered by Grace
+## The Model: Covered by Grace
 
 After Adam and Eve chose to disobey, shame entered the world. They tried to cover themselves with fig leaves—makeshift garments stitched together by guilt and fear. But it wasn't enough.
 
@@ -53,7 +53,7 @@ But God didn't abandon His people. Through the blood of the covenant, He marked 
 
 And that model—of innocent blood covering guilty people—was pointing forward to something even more profound. A final sacrifice. A perfect Lamb.
 
-## ✝️ The Sin Offering: Once and for All
+## The Sin Offering: Once and for All
 
 For centuries, the people of Israel lived under a system of sacrifices. Some were offered every year—rituals of atonement that reminded them of their sin and their need for mercy. Others were performed only once, like the purification of the Tabernacle, marking sacred spaces with sacred blood.
 
@@ -79,7 +79,7 @@ Just grace.
 
 Through Jesus, we are no longer condemned. We are no longer defined by our failures. We are covered—once and for all—by the blood of the One who loved us enough to take our place.
 
-## 🔥 Dead Men See His Face
+## Dead Men See His Face
 
 There's a phrase that appears again and again in the Old Testament: _"a pleasing aroma to the Lord."_ It's used to describe burnt offerings—sacrifices made by fire. But what was it about the smell of burning flesh and hide that pleased God?
 

@@ -7,15 +7,15 @@ tags:
 excerpt: In the midst of suffering, this prayer turns the focus from self to God—declaring His glory, His redemption, and His worthiness.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
-> _“Because for Your sake I have borne reproach;  
-> Dishonor has covered my face.”_  
-> —Psalms 69:7
+_“Because for Your sake I have borne reproach;_
+_Dishonor has covered my face.”_
+_—Psalms 69:7_
 
 ---
 
-## 🧎‍♂️ A Meditation in Suffering
+## 🧎‍♂️ Meditation in Suffering
 
 _O God, this isn’t about me at all;_  
 _It is about You._  
@@ -44,7 +44,7 @@ _There is nowhere I would rather be._
 
 ---
 
-## 🙏 Reflection
+## Reflection
 
 This meditation is a surrender—not to suffering, but to the sovereignty of God.  
 It’s a declaration that even pain has purpose when it brings Him glory.  

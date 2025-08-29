@@ -1,5 +1,5 @@
 ---
-title: 🛠️ *The Work of His Hands*
+title: The Work of His Hands
 date: 2025-08-02
 author: Ed Wilkins
 layout: default
@@ -7,7 +7,7 @@ tags:
 excerpt: Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story.
 ---
 
-## 🪚 The Story
+## The Story
 
 Before a single piece of wood was cut, the pantry existed in my mind.  
 I knew its purpose, how it needed to function, and the beauty I envisioned for it.  
@@ -50,20 +50,24 @@ I will always see it as I first conceived it, its purpose far more important tha
 
 ---
 
-## 💖 Divine Perspective
+## Divine Perspective
 
 And isn't this how our Creator sees us?
 
 The psalmist David captures this divine perspective beautifully in Psalm 139:
 
-> _You have searched me, LORD, and you know me._  
-> _For you created my inmost being; you knit me together in my mother’s womb._  
-> _I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well._  
-> _My frame was not hidden from you when I was made in the secret place, when I was woven together in the depths of the earth._  
-> _Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be._  
-> _How precious to me are your thoughts, God! How vast is the sum of them!_  
-> _Were I to count them, they would outnumber the grains of sand—when I awake, I am still with you._  
-> —Psalm 139:1, 13–18 (NIV)
+_You have searched me, LORD, and you know me._
+_For you created my inmost being; you knit me together in_
+_my mother’s womb._
+_I praise you because I am fearfully and wonderfully made;_ _your works are wonderful, I know that full well._  
+_My frame was not hidden from you when I was made in the_ _secret place, when I was woven together in the depths of_
+_the earth._
+_Your eyes saw my unformed body; all the days ordained for_
+*me were written in your book before one of them came to
+*be.\*
+_How precious to me are your thoughts, God! How vast is the_ _sum of them!_
+_Were I to count them, they would outnumber the grains of_ _sand—when I awake, I am still with you._  
+_—Psalm 139:1, 13–18 (NIV)_
 
 Just as I see the pantry—not as a collection of flaws but as the fulfillment of a vision—so God sees us.  
 He sees the "dents and dings" we collect through life: our mistakes, our heartaches, and our failures.  
@@ -75,7 +79,7 @@ We are His children, His creation, brought forth from a vision of love deep in H
 
 ---
 
-## 🌧️ In the Hard Seasons
+## In the Hard Seasons
 
 You may be going through a season of hardship, pain, or disappointment.  
 In those times, it can be easy to think that God has become distant, or that He has somehow abandoned you.  
@@ -89,13 +93,13 @@ You were prepared for a purpose.
 
 ---
 
-## 🔍 Reflection
+## Reflection
 
 **How might your perspective of yourself change today if you truly saw yourself as God's beloved creation, designed with purpose, "dents and dings" included?**
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Heavenly Father, thank You for seeing us not for our flaws, but as Your wonderful work.  
 Help us to rest in the truth that we are fearfully and wonderfully made,  

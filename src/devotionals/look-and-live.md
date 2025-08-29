@@ -7,7 +7,7 @@ tags:
 excerpt: You don’t have to climb your way to God or fix yourself first. Just look to Jesus—and live.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,  
 > so that whoever believes will in Him have eternal life.”_  
@@ -15,7 +15,7 @@ excerpt: You don’t have to climb your way to God or fix yourself first. Just l
 
 ---
 
-## ✨ Devotional: Just Look and Live
+## Devotional: Just Look and Live
 
 In the wilderness, the Israelites were dying—bitten by serpents, the consequence of their rebellion.  
 But God, in His mercy, provided a way of healing: a bronze serpent lifted high on a pole.  
@@ -39,7 +39,7 @@ And the invitation remains the same:
 
 ---
 
-## 💭 Reflection
+## Reflection
 
 We often complicate grace.  
 We try to earn what can only be received.  
@@ -60,7 +60,7 @@ Will we turn toward it… or away?
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Lord Jesus, thank You for being lifted up for me.  
 I confess that I often try to earn what You’ve already given.  
@@ -72,7 +72,7 @@ I choose to live._
 
 ---
 
-## 💡 Takeaway Thought
+## Takeaway Thought
 
 You don’t have to climb your way to God.  
 You don’t have to fix yourself first.  

@@ -7,7 +7,7 @@ tags:
 excerpt: "A challenging reflection on our hunger for God's guidance while neglecting the clearest Voice He's given us—His Word."
 ---
 
-# 🕊️ Starved or Fed?
+# Starved or Fed?
 
 _Devotional Reflection by Steve Wilkins_
 
@@ -59,7 +59,7 @@ We study all the time.
 We're students by nature.
 The deeper question is: _What are we students of?_
 
-## 🪞 What do you long to have revealed to you each day?
+## What do you long to have revealed to you each day?
 
 Let Psalm 119:9–16 reorient your appetite:
 

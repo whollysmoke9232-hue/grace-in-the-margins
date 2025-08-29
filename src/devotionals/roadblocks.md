@@ -41,8 +41,9 @@ I'm reminded of a "Preacher's Story" I heard years ago:
 
 This powerful story echoes Jesus' words in the Parable of the Sower:
 
-> “Still others, like seed sown among thorns, hear the word; but the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful.”  
-> — Mark 4:18–19
+*“Still others, like seed sown among thorns, hear the word;*but the worries of this life, the deceitfulness of wealth\* _and the desires for other things come in and choke the_
+_word,making it unfruitful.”_
+_— Mark 4:18–19_
 
 Keep in mind: the “other things” aren’t bad in and of themselves.  
 They are just **not Him**.
@@ -76,7 +77,7 @@ And to receive it, I'm going to **get out of the way**.
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 **Lord,**  
 Pull up the thorns.  

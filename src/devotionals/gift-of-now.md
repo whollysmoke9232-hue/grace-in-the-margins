@@ -1,5 +1,5 @@
 ---
-title: "🌅 The Gift of 'Now': Don't Miss the Journey"
+title: "The Gift of 'Now': Don't Miss the Journey"
 date: 2025-08-02
 author: Ed Wilkins
 layout: default.njk
@@ -7,14 +7,14 @@ tags:
 excerpt: "Fixation on the future can rob us of the sacred beauty of the present moment. God is here, now."
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.”_  
 > —Matthew 6:34 (NIV)
 
 ---
 
-## ✨ The Story
+## The Story
 
 Several years ago, my wife and I embarked on an exciting adventure: our first cruise together.  
 The anticipation was electric. We spent nearly a year immersed in the details—poring over the ship's website, studying deck plans, memorizing meal options, and debating shore excursions.
@@ -38,7 +38,7 @@ The previous year, as far as truly meaningful, present-moment memories were conc
 
 ---
 
-## 🧠 A Deeper Question
+## A Deeper Question
 
 This realization sparked a deeper question:  
 How many other times had I been guilty of this same pattern?  
@@ -51,7 +51,7 @@ How empty that life would have been—always pursuing the award, rather than ful
 
 ---
 
-## 🌿 The Invitation
+## The Invitation
 
 _"Live in the moment,"_ was the gentle, yet profound advice I once received from my counselor.  
 It's an invitation to allow each event, each small experience of every day, to simply _be_.  
@@ -69,14 +69,14 @@ in the blessed gift of each present moment.
 
 ---
 
-## 📖 Supporting Scripture
+## Supporting Scripture
 
 > _“There is a time for everything, and a season for every activity under the heavens.”_  
 > —Ecclesiastes 3:1
 
 ---
 
-## 🔍 Reflection Questions
+## Reflection Questions
 
 1. Can you recall a time when you were so focused on a future event that you felt you missed out on the present? What did that experience teach you?
 2. What practical steps can you take today to be more present and "live in the moment"?

@@ -1,5 +1,5 @@
 ---
-title: 😢 *When Jesus Wept*
+title: When Jesus Wept
 date: 2025-08-02
 author: Ed Wilkins
 layout: default.njk
@@ -7,10 +7,10 @@ tags:
 excerpt: The shortest verse in the Bible reveals the depth of Christ’s love and grief over a broken world. Jesus wept—not out of weakness, but out of divine compassion.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
-> _“Jesus wept.”_  
-> —John 11:35
+_“Jesus wept.”_
+_—John 11:35_
 
 It’s the shortest verse in the Bible—just two words.  
 But those two words carry the weight of eternity.  
@@ -20,10 +20,10 @@ Why would the Son of God, who knew He was about to raise Lazarus from the dead, 
 
 ---
 
-## 🌍 Back to the Beginning
+## Back to the Beginning
 
-> _“God saw all that He had made, and it was very good.”_  
-> —Genesis 1:31
+_“God saw all that He had made, and it was very good.”_
+_—Genesis 1:31_
 
 In the beginning, there was no death.  
 No sorrow.  
@@ -33,8 +33,8 @@ Creation pulsed with harmony, beauty, and life.
 But then came the fall.  
 Sin entered the world through disobedience, and with it came the curse:
 
-> _“Cursed is the ground because of you…”_  
-> —Genesis 3:17
+_“Cursed is the ground because of you…”_
+_—Genesis 3:17_
 
 From that moment on, everything changed.  
 Sin infected not just human hearts, but the very fabric of creation.  
@@ -44,7 +44,7 @@ And the world began to groan under the weight of what was lost.
 
 ---
 
-## 💔 The Grief of God
+## The Grief of God
 
 So when Jesus stood at Lazarus’ tomb and saw Mary weeping, Scripture says He was “deeply moved in spirit and troubled.”  
 The Greek word used here suggests more than sadness—it implies indignation, even outrage.
@@ -56,7 +56,7 @@ At the pain, the loss, the distortion of what was once “very good.”
 
 ---
 
-## 🔎 Why Jesus Wept
+## Why Jesus Wept
 
 - Jesus wept because this was not how it was supposed to be.
 - He wept over the sting of death.
@@ -76,7 +76,7 @@ To His children.
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Lord Jesus, thank You for being a Savior who weeps.  
 Thank You for feeling the weight of our sorrow and the sting of our brokenness.  
@@ -87,7 +87,7 @@ May I live in the hope that You are making all things new._
 
 ---
 
-## 💡 Takeaway Thought
+## Takeaway Thought
 
 Jesus doesn’t just hate sin because it’s rebellion—  
 He hates it because it breaks what He loves.  

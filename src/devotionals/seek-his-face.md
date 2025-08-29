@@ -7,17 +7,17 @@ tags:
 excerpt: God desires to be desired—not for what He can give, but for who He is. Psalm 127 reminds us that striving without Him is empty, but seeking Him brings rest and blessing.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
-> _“Unless the Lord builds the house, the builders labor in vain.  
-> Unless the Lord watches over the city, the guards stand watch in vain.  
-> In vain you rise early and stay up late, toiling for food to eat—  
-> for He grants sleep to those He loves.”_  
-> —Psalm 127:1–2
+_“Unless the Lord builds the house, the builders labor in_ _vain._
+_Unless the Lord watches over the city, the guards stand_ watch in vain.\*
+_In vain you rise early and stay up late, toiling for food_ _to eat—_
+_for He grants sleep to those He loves.”_
+_—Psalm 127:1–2_
 
 ---
 
-## ✨ Devotional: Seek His Face, Not Just His Hand
+## Devotional: Seek His Face, Not Just His Hand
 
 God desires to be desired.  
 Not for what He can give, but for who He is.  
@@ -37,7 +37,7 @@ His blessings follow us—even in our sleep.
 
 ---
 
-## 🔄 Shift the Focus
+## Shift the Focus
 
 God doesn’t want to be a means to an end.  
 **He is the end.**  
@@ -50,7 +50,7 @@ We find purpose.
 
 ---
 
-## 🏹 A Picture of Blessing
+## A Picture of Blessing
 
 Psalm 127 goes on to describe children as arrows in the hand of a warrior.  
 They are a sign of strength, legacy, and divine favor.
@@ -70,7 +70,7 @@ Not because of what we have, but because of **who is with us**.
 
 ---
 
-## ⚖️ Facing the Gate
+## ⚖️Facing the Gate
 
 The psalm ends with a powerful image: standing before the “judges in the gate.”  
 These were the authorities, the decision-makers, the ones who could determine your fate.
@@ -83,7 +83,7 @@ you are held in the hand of the One who reigns above it all.
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Lord, forgive me for the times I’ve sought Your hand more than Your heart.  
 Teach me to desire You above all else.  
@@ -96,7 +96,7 @@ Be my pursuit, my portion, and my peace._
 
 ---
 
-## 📌 Takeaway Thought
+## Takeaway Thought
 
 When you seek His face, His hand will follow.  
 When you dwell in His presence, His blessings will find you—**even in your sleep.**

@@ -7,14 +7,14 @@ tags:
 excerpt: Worship isn’t just a song—it’s surrender. Like Enoch, may we walk so closely with God that heaven becomes the natural next step.
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _“Enoch walked faithfully with God; then he was no more, because God took him away.”_  
 > –Genesis 5:24
 
 ---
 
-## 🔥 The Broken Beginning
+## The Broken Beginning
 
 In 1999, we didn’t plan revival. We didn’t schedule an awakening.  
 We just reached the end of ourselves—and God showed up.
@@ -45,7 +45,7 @@ With praise. With worship. With intercession.
 
 ---
 
-## 💔 The Cost of Praise
+## The Cost of Praise
 
 Isaiah said, _“Woe is me...I am undone.”_  
 And that’s how I felt.  
@@ -66,7 +66,7 @@ I must die to image and awaken to intimacy.
 
 ---
 
-## 🌱 Legacy Through Worship
+## Legacy Through Worship
 
 Wayne Watson once sang:
 
@@ -82,7 +82,7 @@ His intimacy left a legacy—one that reached Noah, whose faith helped save mank
 
 ---
 
-## 🙏 Prayer
+## Prayer
 
 _Lord, I want to love You with all my heart, soul, mind, and strength.  
 Kill my pride.  
