@@ -1,5 +1,5 @@
 ---
-title: "🌳 A Holy Moment: The Unspoken Voice of Love"
+title: "A Holy Moment: The Unspoken Voice of Love"
 date: 2025-08-02
 author: Ed Wilkins
 layout: default.njk
@@ -7,14 +7,14 @@ excerpt: "In the silent sway of trees and the thunderous hush of mountains, God'
 tags:
 ---
 
-## 📖 Key Scripture
+## Key Scripture
 
 > _"The heavens declare the glory of God... They have no speech, they use no words; their voice is not heard."_  
 > —Psalm 19:1–3
 
 ---
 
-## 🌬️ A Morning Encounter
+## A Morning Encounter
 
 This morning, as I read Psalm 19—a passage that speaks of creation's silent, ceaseless worship—I found my gaze drifting out my window.  
 Beyond the fence line, a cluster of trees stood, their branches reaching skyward.  
@@ -43,7 +43,7 @@ The trees spoke without words, and my heart heard a message loud and clear:
 
 ---
 
-## 🔊 The Unspeakable Voice
+## The Unspeakable Voice
 
 As I reflect on this profound moment, I'm reminded of the Apostle John's struggle to describe the very voice of God in Revelation.  
 He grasped for human words to convey the divine, offering a series of astonishing comparisons:
@@ -63,7 +63,7 @@ Once again, cementing the truth of His love firmly within our spirits.
 
 ---
 
-## 💖 Eternal Message
+## Eternal Message
 
 Oh, how He loves us.  
 His voice may be perceived in countless ways,  
