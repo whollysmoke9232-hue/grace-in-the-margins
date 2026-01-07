@@ -137,3 +137,24 @@ body.home .main-page {
   margin-left: auto;
   margin-right: auto;
 }
+/* Start Here link (homepage) */
+.start-here-wrapper {
+  text-align: center;
+  margin: 1.25rem 0;
+}
+
+.start-here-link {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.2s ease;
+}
+
+.start-here-link:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}

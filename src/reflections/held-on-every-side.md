@@ -1,5 +1,5 @@
 ---
-title: "Surrounded By God"
+title: "Held on Every Side"
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people—corporately and personally—now and forever."
 tags: [psalms, presence-of-God, security, community, trust]
 date: 2026-01-03

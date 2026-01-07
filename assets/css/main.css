@@ -52,20 +52,3 @@ a:hover {
   /* depth without harshness */
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.10);
 }
-.explore-bubbles a,
-.button,
-a.button {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-
-  background-color: var(--site-blue);
-  color: #ffffff;
-
-  border-radius: 999px;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-
-
-

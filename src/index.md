@@ -4,21 +4,34 @@ layout: layout
 ---
 
 
-    <!-- TOP LINKS removed — kept navigation in header/footer and bottom only -->
+<!-- START HERE OPTION -->
+<nav class="explore-bubbles" aria-label="Start Here">
+  <a href="/start-here/">
+    For reading path suggestions, start here →
+  </a>
+</nav>
 
-    <!-- DUPLICATE LINK BUBBLES (above image, inside border) -->
-    <nav class="explore-bubbles" aria-label="Explore">
-      <a href="/devotionals/">Devotionals</a>
-      <a href="/reflections/">Reflections</a>
-      <a href="/stories/">Stories</a>
-      <a href="/testimonies/">Testimonies</a>
-    </nav>
+<p class="explore-own">
+  Or, if you prefer to explore on your own…
+</p>
 
-    <div style="text-align: center; margin-top: 0.5rem;">
-      <nav class="explore-bubbles" aria-label="About">
-        <a href="/about/">Why This Place Exists</a>
-      </nav>
-    </div>
+
+<nav class="explore-bubbles" aria-label="Explore">
+  <a href="/devotionals/">Devotionals</a>
+  <a href="/reflections/">Reflections</a>
+  <a href="/stories/">Stories</a>
+  <a href="/testimonies/">Testimonies</a>
+</nav>
+
+<div style="text-align: center; margin-top: 0.5rem;">
+  <nav class="explore-bubbles" aria-label="About">
+    <a href="/about/">Why This Place Exists</a>
+  </nav>
+</div>
+
+
+
+
 
     <img src="/images/heavens-declare.png" alt="The heavens declare the glory of God" style="max-width: 100%; margin: 1rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 
