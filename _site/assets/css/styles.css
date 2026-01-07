@@ -39,9 +39,13 @@ header h1 {
   letter-spacing: 0.02em;
   color: #5a3e2b;
   text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
 
 .site-title:hover {
+  color: #9d7553;
+  opacity: 0.85;
   text-decoration: none;
 }
 
