@@ -1,0 +1,89 @@
+.devotional h1 {
+  font-family: "Georgia", serif;
+  font-size: 2.2em;
+  color: #4c3f91;
+  margin-bottom: 0.2em;
+}
+
+.devotional .meta {
+  font-size: 0.9em;
+  color: #777;
+  margin-bottom: 2em;
+}
+
+.devotional blockquote {
+  font-style: italic;
+  background: #f6f5f9;
+  border-left: 4px solid #b3a4d4;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+.devotional h2 {
+  font-family: "Lora", serif;
+  font-size: 1.4em;
+  margin-top: 2em;
+  color: #2e294e;
+}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}Grace in the Margins{% endblock %}</title>
+    <link rel="stylesheet" href="/styles/main.css" />
+    <style>
+      :root {
+        --font-body: 'Georgia', serif;
+        --font-headings: 'Playfair Display', serif;
+        --bg-color: #fdfcf9;
+        --text-color: #2e2a24;
+        --accent-color: #a48f7e;
+      }
+
+      body {
+        font-family: var(--font-body);
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        line-height: 1.7;
+        margin: 0;
+        padding: 2rem;
+        max-width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+      }
+
+      h1, h2, h3 {
+        font-family: var(--font-headings);
+        color: var(--accent-color);
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+      }
+
+      blockquote {
+        font-style: italic;
+        background: #f3f0eb;
+        padding: 1rem 1.5rem;
+        border-left: 4px solid var(--accent-color);
+        margin: 1.5rem 0;
+      }
+
+      footer {
+        margin-top: 3rem;
+        font-size: 0.9rem;
+        text-align: center;
+        color: #7b7268;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Grace in the Margins</h1>
+    </header>
+    <main>
+      {% block content %}{% endblock %}
+    </main>
+    <footer>
+      <p>&copy; {{ "now" | date: "%Y" }} Steve Wilkins. Rooted in grace. Written with purpose.</p>
+    </footer>
+  </body>

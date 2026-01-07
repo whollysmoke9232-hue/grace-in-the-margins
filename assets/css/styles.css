@@ -1,0 +1,155 @@
+/* 🌤️ Background and base styles */
+body {
+  background-color: #e6f7ff; /* Light blue background */
+  color: #3a2f2f;
+  font-family: "Georgia", serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* 📦 Content container */
+.container {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 2rem;
+
+  /* the reading surface */
+  background-color: #f9f4e8; /* pale yellow */
+  border: 1px solid #c6bfae;
+  border-radius: 12px;
+
+  /* gentle separation */
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+
+/* 🏷️ Header styling */
+header {
+  padding-top: 2rem; /* ✅ Adds space below browser chrome */
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #5a3e2b;
+  margin: 0; /* Remove default margin */
+}
+
+.site-title {
+  font-size: 3rem;          /* makes it clearly dominant */
+  font-weight: normal;      /* keeps it elegant, not shouty */
+  letter-spacing: 0.02em;
+  color: #5a3e2b;
+  text-decoration: none;
+}
+
+.site-title:hover {
+  text-decoration: none;
+}
+
+/* 📖 Main content */
+main {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-top: 1.5rem; /* ✅ Adds breathing room below header */
+}
+
+/* 🪶 Footer */
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+}
+/* 🌿 Tagline styling */
+.tagline p {
+  font-style: italic;
+  text-align: center;
+  color: #4a3c2a;
+  margin-top: 1rem;
+  line-height: 1.5;
+}
+
+/* 🪨 Mission statement */
+.mission p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #3a2f2f;
+  margin-top: 1.5rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
+
+/* ✨ Invitation */
+.invitation p {
+  text-align: center;
+  font-size: 1rem;
+  color: #5a3e2b;
+  margin-top: 1rem;
+  font-family: "Georgia", serif;
+}
+.cta-message p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #3b2f1e;
+  background-color: #e6f2ff;
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.homepage-intro ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.homepage-intro li {
+  margin: 0;
+  padding: 0;
+}
+
+/* End of restored stylesheet */
+/* Homepage centering and explore-bubbles */
+.homepage-wrapper {
+  max-width: none;
+  width: auto;
+  margin: 0;
+}
+
+.explore-bubbles {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+  margin: 0.75rem 0;
+}
+
+.explore-bubbles a {
+  display: inline-block;
+
+  /* ONLY vertical change */
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+
+  /* restore original width */
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+
+  background: #e6f7ff;
+  color: #000000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  text-decoration: none;
+  border-radius: 999px;
+  font-weight: 525;
+}
+
+
+
+.explore-bubbles a:hover {
+  background: #d6ecff;
+}
+

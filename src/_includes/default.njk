@@ -1,0 +1,35 @@
+---
+layout: layout.njk
+---
+
+<header class="site-header">
+  <h1>{{ title }}</h1>
+
+  {% if excerpt %}
+    <p><em>{{ excerpt }}</em></p>
+  {% endif %}
+
+  {% if author %}
+    <p><strong>By {{ author }}</strong></p>
+  {% endif %}
+
+  {% if date %}
+    <p><time datetime="{{ date }}">{{ date | readableDate }}</time></p>
+  {% endif %}
+
+  <hr />
+</header>
+
+<main class="main-page">
+  {{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <div style="text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Return">
+      <a href="/">Home</a>
+    </nav>
+  </div>
+  <hr />
+  <p><small>&copy; {{ author }} — Grace in the Margins</small></p>
+</footer>

@@ -1,0 +1,139 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Georgia", serif;
+  background-color: #e6f2ff; /* Light blue */
+}
+
+/* 🟠 Main content box (Homepage & Devotional) */
+main,
+.page-main {
+  background-color: #fff7e6; /* Light orange inside the border */
+  border: 2px solid #99ccff;
+  border-radius: 8px;
+  padding: 2rem;
+  max-width: 800px;
+  width: 90%;
+  margin: 2rem auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Homepage centers text, devotionals use default left align */
+main {
+  text-align: center;
+}
+.page-main {
+  text-align: left;
+}
+
+/* ✍️ Homepage intro styles */
+.homepage-intro {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-top: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #ccc;
+  color: #333;
+}
+
+/* 🏷️ Title */
+.site-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #5a3e2b;
+  margin-bottom: 1rem;
+}
+
+/* Homepage centering and explore-bubbles (only styling; does not alter content) */
+.homepage-wrapper {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.explore-bubbles {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+  margin: 0.75rem 0;
+}
+.explore-bubbles a {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  color: #7a4c2f;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.explore-bubbles a:hover { background: #f0f8ff; }
+
+/* Hide navigation links that appear outside the main bordered area */
+.site-header .site-nav,
+.site-footer .site-nav {
+  display: none;
+}
+
+/* 🌿 Tagline block */
+.tagline blockquote {
+  font-style: italic;
+  text-align: center;
+  color: #4a3c2a;
+  margin: 1rem auto;
+  padding: 1rem;
+  background-color: #fdf6f0;
+  border-left: 4px solid #d8a56f;
+  border-radius: 4px;
+}
+
+/* 📌 Header & Footer */
+.site-header,
+.site-footer {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+/* 🧭 Navigation section */
+.navigation {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.navigation h2 {
+  font-size: 1.5rem;
+  color: #5a3e2b;
+  margin-bottom: 1rem;
+}
+
+.navigation ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navigation li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+  color: #004999;
+}
+.homepage-content {
+  width: 100%;
+}
+/* Force homepage to match inner page width and centering */
+body.home .main-page {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
