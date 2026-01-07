@@ -17,7 +17,7 @@ and reminds us that He is always at work.
   {% for item in collections.stories | reverse %}
     {% if item.url != '/stories/' %}
       <li class="story-list-item">
-        <a href="{{ item.url }}">
+        <a href="{{ item.url }}?from=stories">
           <strong>{{ item.data.title }}</strong>
         </a>
 

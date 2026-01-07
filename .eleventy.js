@@ -38,6 +38,10 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("./src/reflections/*.md");
   });
 
+  eleventyConfig.addCollection("meditations", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/meditations/*.md");
+  });
+
   eleventyConfig.addCollection("stories", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/stories/*.md");
   });
@@ -63,10 +67,9 @@ module.exports = function (eleventyConfig) {
   // - src/assets -> _site/assets
   // - project-root images -> _site/images
   // - project-root assets/css -> _site/assets/css   (this is the big missing piece for many “unstyled” previews)
-  eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
-  eleventyConfig.addPassthroughCopy({ "images": "images" });
-  eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
-  eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
+ eleventyConfig.addPassthroughCopy({ "assets/css": "assets/css" });
+eleventyConfig.addPassthroughCopy({ "src/assets/js": "assets/js" });
+eleventyConfig.addPassthroughCopy({ "images": "images" });
 
 
   // 📁 Directory structure

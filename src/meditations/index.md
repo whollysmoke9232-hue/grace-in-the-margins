@@ -14,10 +14,10 @@ They are meant to help us notice where God is already at work.
 ---
 
 <ul class="reflection-list">
-  {% for item in collections.reflections | reverse %}
-    {% if item.url != '/reflections/' %}
+  {% for item in collections.meditations | reverse %}
+    {% if item.url != '/meditations/' %}
       <li class="reflection-list-item">
-        <a href="{{ item.url }}">
+        <a href="{{ item.url }}?from=meditations">
           <strong>{{ item.data.title }}</strong>
         </a>
 

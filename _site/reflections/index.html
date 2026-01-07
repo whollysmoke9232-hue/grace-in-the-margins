@@ -36,8 +36,6 @@
   
 
   
-
-  <hr />
 </header>
 
 <main class="main-page">
@@ -49,7 +47,7 @@ They are meant to help us notice where God is already at work.</p>
 <hr>
 <ul class="reflection-list">
 <p><li class="reflection-list-item">
-<a href="/reflections/roadblocks/">
+<a href="/reflections/roadblocks/?from=reflections">
 <strong>Roadblocks</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -60,7 +58,7 @@ Reflecting on how we can unknowingly step out of alignment with what God is alre
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/faith-from-beginning-to-end/">
+<a href="/reflections/faith-from-beginning-to-end/?from=reflections">
 <strong>Faith from Beginning to End</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -71,7 +69,7 @@ Righteousness isn’t earned—it’s credited by faith. From salvation to sanct
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/from-it-or-through-it/">
+<a href="/reflections/from-it-or-through-it/?from=reflections">
 <strong>From It or Through It</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -82,7 +80,7 @@ Trusting God’s sovereignty when deliverance comes differently than we expect�
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/held-on-every-side/">
+<a href="/reflections/held-on-every-side/?from=reflections">
 <strong>Held on Every Side</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -93,7 +91,7 @@ As mountains encircle Jerusalem, God’s presence surrounds His people—corpora
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/what-are-you-feeding/">
+<a href="/reflections/what-are-you-feeding/?from=reflections">
 <strong>What Are You Feeding?</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -104,7 +102,7 @@ What we consume shapes what we become—and the Word of God is meant to be our d
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/whats-in-a-name/">
+<a href="/reflections/whats-in-a-name/?from=reflections">
 <strong>What’s in a Name?</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -115,7 +113,7 @@ Discovering how identity shapes destiny—and how God’s name over us changes e
 </p></p>
 <p></li></p>
 <p><li class="reflection-list-item">
-<a href="/reflections/working-from-grace/">
+<a href="/reflections/working-from-grace/?from=reflections">
 <strong>Working From Grace</strong>
 </a></p>
 <p><div class="reflection-meta">
@@ -130,6 +128,13 @@ Sanctification is not passive drifting or self-reliance, but faithful obedience 
 </main>
 
 <footer class="site-footer">
+  <!-- Next article navigation for guided paths -->
+  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Continue Reading Path">
+      <a id="next-article-link" href="#">Next in this path →</a>
+    </nav>
+  </div>
+  
   <div style="text-align: center; margin: 1rem 0;">
     <nav class="explore-bubbles" aria-label="Return">
       <a href="/">Home</a>
@@ -138,6 +143,95 @@ Sanctification is not passive drifting or self-reliance, but faithful obedience 
   <hr />
   <p><small>&copy;  — Grace in the Margins</small></p>
 </footer>
+
+<!-- Guided Path Navigation Script -->
+<script>
+  (function() {
+    // Define the reading paths
+    const paths = {
+      suffering: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' }
+      ],
+      sin: [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      numb: [
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' }
+      ],
+      identity: [
+        { url: '/reflections/whats-in-a-name/', title: "What's In A Name" },
+        { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/reflections/working-from-grace/', title: 'Working from Grace' }
+      ],
+      story: [
+        { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
+        { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/stories/fractured-light/', title: 'Fractured Light' }
+      ]
+    };
+
+    // Collection names for back navigation
+    const collections = {
+      devotionals: 'Devotionals',
+      reflections: 'Reflections',
+      meditations: 'Meditations',
+      stories: 'Stories',
+      testimonies: 'Testimonies'
+    };
+
+    // Get URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const pathName = urlParams.get('path');
+    const currentStep = parseInt(urlParams.get('step'));
+    const fromCollection = urlParams.get('from');
+
+    // Handle guided path navigation
+    if (pathName && currentStep && paths[pathName]) {
+      const pathArticles = paths[pathName];
+      const nextStep = currentStep + 1;
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      if (nextStep <= pathArticles.length) {
+        // Show next article button
+        const nextArticle = pathArticles[nextStep - 1];
+        nextLink.href = nextArticle.url + '?path=' + pathName + '&step=' + nextStep;
+        nextLink.textContent = 'Next: ' + nextArticle.title + ' →';
+        navDiv.style.display = 'block';
+      } else if (currentStep === pathArticles.length) {
+        // Last article in path - show return to Start Here button
+        nextLink.href = '/start-here/';
+        nextLink.textContent = '← Return to Start Here';
+        navDiv.style.display = 'block';
+      }
+    }
+    // Handle collection back navigation
+    else if (fromCollection && collections[fromCollection]) {
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      nextLink.href = '/' + fromCollection + '/';
+      nextLink.textContent = '← Back to ' + collections[fromCollection];
+      navDiv.style.display = 'block';
+    }
+  })();
+</script>
+
 
       </div>
 

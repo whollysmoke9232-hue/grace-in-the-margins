@@ -44,8 +44,6 @@
   
     <p><time datetime="Fri Aug 01 2025 20:00:00 GMT-0400 (Eastern Daylight Time)">August 2, 2025</time></p>
   
-
-  <hr />
 </header>
 
 <main class="main-page">
@@ -79,6 +77,13 @@ so that whoever believes will in Him have eternal life.”</em><br>
 </main>
 
 <footer class="site-footer">
+  <!-- Next article navigation for guided paths -->
+  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Continue Reading Path">
+      <a id="next-article-link" href="#">Next in this path →</a>
+    </nav>
+  </div>
+  
   <div style="text-align: center; margin: 1rem 0;">
     <nav class="explore-bubbles" aria-label="Return">
       <a href="/">Home</a>
@@ -87,6 +92,95 @@ so that whoever believes will in Him have eternal life.”</em><br>
   <hr />
   <p><small>&copy; Steve Wilkins — Grace in the Margins</small></p>
 </footer>
+
+<!-- Guided Path Navigation Script -->
+<script>
+  (function() {
+    // Define the reading paths
+    const paths = {
+      suffering: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' }
+      ],
+      sin: [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      numb: [
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' }
+      ],
+      identity: [
+        { url: '/reflections/whats-in-a-name/', title: "What's In A Name" },
+        { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/reflections/working-from-grace/', title: 'Working from Grace' }
+      ],
+      story: [
+        { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
+        { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/stories/fractured-light/', title: 'Fractured Light' }
+      ]
+    };
+
+    // Collection names for back navigation
+    const collections = {
+      devotionals: 'Devotionals',
+      reflections: 'Reflections',
+      meditations: 'Meditations',
+      stories: 'Stories',
+      testimonies: 'Testimonies'
+    };
+
+    // Get URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const pathName = urlParams.get('path');
+    const currentStep = parseInt(urlParams.get('step'));
+    const fromCollection = urlParams.get('from');
+
+    // Handle guided path navigation
+    if (pathName && currentStep && paths[pathName]) {
+      const pathArticles = paths[pathName];
+      const nextStep = currentStep + 1;
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      if (nextStep <= pathArticles.length) {
+        // Show next article button
+        const nextArticle = pathArticles[nextStep - 1];
+        nextLink.href = nextArticle.url + '?path=' + pathName + '&step=' + nextStep;
+        nextLink.textContent = 'Next: ' + nextArticle.title + ' →';
+        navDiv.style.display = 'block';
+      } else if (currentStep === pathArticles.length) {
+        // Last article in path - show return to Start Here button
+        nextLink.href = '/start-here/';
+        nextLink.textContent = '← Return to Start Here';
+        navDiv.style.display = 'block';
+      }
+    }
+    // Handle collection back navigation
+    else if (fromCollection && collections[fromCollection]) {
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      nextLink.href = '/' + fromCollection + '/';
+      nextLink.textContent = '← Back to ' + collections[fromCollection];
+      navDiv.style.display = 'block';
+    }
+  })();
+</script>
+
 
       </div>
 

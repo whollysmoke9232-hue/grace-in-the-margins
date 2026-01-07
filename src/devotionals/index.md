@@ -14,7 +14,7 @@ surrender, and trust in the God who meets us in the margins.
   {% for item in collections.devotionals | reverse %}
     {% if item.url != '/devotionals/' %}
       <li class="devotional-list-item">
-        <a href="{{ item.url }}">
+        <a href="{{ item.url }}?from=devotionals">
           <strong>{{ item.data.title }}</strong>
         </a>
 

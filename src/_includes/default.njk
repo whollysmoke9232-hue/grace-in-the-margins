@@ -16,8 +16,6 @@ layout: layout.njk
   {% if date %}
     <p><time datetime="{{ date }}">{{ date | readableDate }}</time></p>
   {% endif %}
-
-  <hr />
 </header>
 
 <main class="main-page">
@@ -25,6 +23,13 @@ layout: layout.njk
 </main>
 
 <footer class="site-footer">
+  <!-- Next article navigation for guided paths -->
+  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Continue Reading Path">
+      <a id="next-article-link" href="#">Next in this path →</a>
+    </nav>
+  </div>
+  
   <div style="text-align: center; margin: 1rem 0;">
     <nav class="explore-bubbles" aria-label="Return">
       <a href="/">Home</a>
@@ -33,3 +38,5 @@ layout: layout.njk
   <hr />
   <p><small>&copy; {{ author }} — Grace in the Margins</small></p>
 </footer>
+
+{% include "path-navigation-script.njk" %}

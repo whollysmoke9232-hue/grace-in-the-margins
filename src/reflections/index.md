@@ -16,7 +16,7 @@ They are meant to help us notice where God is already at work.
   {% for item in collections.reflections | reverse %}
     {% if item.url != '/reflections/' %}
       <li class="reflection-list-item">
-        <a href="{{ item.url }}">
+        <a href="{{ item.url }}?from=reflections">
           <strong>{{ item.data.title }}</strong>
         </a>
 

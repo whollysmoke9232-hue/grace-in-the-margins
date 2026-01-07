@@ -10,14 +10,12 @@ body {
 header,
 footer {
   text-align: center;
-  border-bottom: 1px solid #d6cfbf;
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
+  padding-bottom: 0.25rem;
+  margin-bottom: 0.5rem;
 }
 
 footer {
   border-top: 1px solid #d6cfbf;
-  border-bottom: none;
   margin-top: 2rem;
   padding-top: 1rem;
 }

@@ -16,7 +16,7 @@ and that redemption is still at work.
   {% for item in collections.testimonies | reverse %}
     {% if item.url != '/testimonies/' %}
       <li class="testimony-list-item">
-        <a href="{{ item.url }}">
+        <a href="{{ item.url }}?from=testimonies">
           <strong>{{ item.data.title }}</strong>
         </a>
 
