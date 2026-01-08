@@ -1,6 +1,21 @@
 const { DateTime } = require("luxon");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function (eleventyConfig) {
+
+  // 🔗 Configure markdown to add anchor IDs to headings
+  const markdownLibrary = markdownIt({
+    html: true,
+    breaks: false,
+    linkify: true
+  }).use(markdownItAnchor, {
+    permalink: false,
+    level: [1, 2, 3, 4],
+    slugify: (s) => s.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')
+  });
+  
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   // 📅 Date formatting filter (robust: works with Date, ISO string, or undefined)
   eleventyConfig.addFilter("readableDate", (dateValue) => {
