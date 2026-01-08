@@ -46,7 +46,10 @@ header h1 {
 .site-title:hover {
   color: #9d7553;
   opacity: 0.85;
-  text-decoration: none;
+  text-decoration: underline;
+  background-color: #fff3cd;
+  padding: 2px 8px;
+  border-radius: 3px;
 }
 
 /* 📖 Main content */
