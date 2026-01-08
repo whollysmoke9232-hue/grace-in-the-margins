@@ -30,10 +30,14 @@ h2 {
 a {
   color: #7a4c2f;
   text-decoration: none;
+  transition: background-color 0.2s ease, text-decoration 0.2s ease;
 }
 
 a:hover {
   text-decoration: underline;
+  background-color: #fff3cd;
+  padding: 2px 4px;
+  border-radius: 3px;
 }
 .container {
   max-width: 720px;
