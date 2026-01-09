@@ -1457,3 +1457,18 @@ Because the light that remains is not your own.
 It's His.
 
 And it's enough.
+
+<br>
+<br>
+
+
+I will leave you with a reflection written during my incarceration:
+
+<div style="font-family: 'Caveat', cursive; font-size: 1.5em;">
+
+**The thought of my suffering and homelessness is bitter beyond words. I will never forget this awful time as I grieve over my loss. Yet I still dare to hope when I remember:**
+
+ ***“The faithful love of the Lord never ends! His mercies never cease. Great is his faithfulness; His mercies begin afresh each morning. I say to myself, ‘The Lord is my inheritance; therefore I will hope in him’” –Lamentations 3:22-24 (NLT)***
+
+ </div>
+

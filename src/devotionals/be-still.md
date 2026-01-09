@@ -1,6 +1,6 @@
 ---
 title: "Be Still"
-date: 2025-07-30
+date: 2024-07-30
 layout: default.njk
 tags:
   - devotionals

@@ -1,7 +1,7 @@
 ---
 title: "Purify My Heart"
 excerpt: "A prayer of surrender and longing—for a clean heart that desires God alone and seeks His presence above all else."
-date: 2026-01-04
+date: 2024-01-29
 layout: default.njk
 author: "Steve Wilkins"
 tags: [prayer, purity, surrender, holiness, spiritual-growth, longing-for-God]
