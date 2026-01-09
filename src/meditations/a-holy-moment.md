@@ -2,7 +2,7 @@
 title: "A Holy Moment"
 excerpt: "In the silent sway of trees and the thunderous hush of mountains, God’s love speaks without words."
 tags: [psalm-19, revelation, creation, divine-love, spiritual-growth]
-date: 2025-08-02
+date: 2024-06-19
 author: "Steve Wilkins"
 layout: default.njk
 ---

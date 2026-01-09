@@ -1,27 +1,36 @@
 ---
 title: "Fractured Light"
-excerpt: "Stories of Brokenness and Redemption"
-tags: [stories]
-date: 2026-01-03
+excerpt: "Stories of brokenness and redemption—written from the margins where grace meets collapse, surrender, and quiet faith."
+tags:
+  - memoir
+  - testimony
+  - addiction
+  - grace
+  - redemption
+  - suffering
+  - faith
+  - margins
+date: 2026-01-08
 layout: default.njk
 author: "Steve Wilkins"
 ---
 
+
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Chapter 1: The Beginning](#chapter-1-the-beginning)
-- [Chapter 2: The Hook](#chapter-2-the-hook)
-- [Chapter 3: The Spiral](#chapter-3-the-spiral)
-- [Chapter 4: The Altar](#chapter-4-the-altar)
-- [Chapter 5: The Lie of Marriage](#chapter-5-the-lie-of-marriage)
-- [Chapter 6: The Thorn](#chapter-6-the-thorn)
-- [Chapter 7: The Collapse](#chapter-7-the-collapse)
-- [Chapter 8: The Surrender](#chapter-8-the-surrender)
-- [Chapter 9: The Arrest](#chapter-9-the-arrest)
-- [Chapter 10: Still Standing](#chapter-10-still-standing)
-- [Chapter 11: Margins](#chapter-11-margins)
-- [Conclusion: The Light That Remains](#conclusion-the-light-that-remains)
+- Introduction
+- Chapter 1: The Beginning
+- Chapter 2: The Hook
+- Chapter 3: The Spiral
+- Chapter 4: The Altar
+- Chapter 5: The Lie of Marriage
+- Chapter 6: The Thorn
+- Chapter 7: The Collapse
+- Chapter 8: The Surrender
+- Chapter 9: The Arrest
+- Chapter 10: Still Standing
+- Chapter 11: Margins
+- Conclusion: The Light That Remains
 
 ---
 

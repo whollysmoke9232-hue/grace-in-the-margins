@@ -1,7 +1,7 @@
 ---
 title: "In the Margins"
 excerpt: "A reflection on Scripture, time, and the holy space before the beginning—where God already knew every moment of our lives."
-date: 2025-08-06
+date: 2024-03-26
 layout: default.njk
 author: "Steve Wilkins"
 tags:
