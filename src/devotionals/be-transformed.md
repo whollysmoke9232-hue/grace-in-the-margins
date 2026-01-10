@@ -108,3 +108,8 @@ I yield my will, my ambitions, and my ways to You.
 Transform me—not for my glory, but for Yours.
 
 Amen.
+
+
+---
+
+*Written in confinement.*
