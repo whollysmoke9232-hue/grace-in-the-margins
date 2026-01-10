@@ -7,7 +7,7 @@ tags:
   - Transformation
   - Worship
   - Mind Renewal
-date: 2023-08-21
+date: 2023-08-26
 layout: default.njk
 author: "Steve Wilkins"
 ---
@@ -109,12 +109,10 @@ Transform me—not for my glory, but for Yours.
 
 Amen.
 
-
 ---
 
 <br>
 <br>
-
 
 <span style="font-size: 0.85em;">
 *Written in confinement.*
