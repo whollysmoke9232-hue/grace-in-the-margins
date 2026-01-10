@@ -29,7 +29,6 @@ To be transformed is to move *across* and *beyond* the forms of this world—to 
 That transformation happens through **the renewing of the mind.**  
 This is nothing more—and nothing less—than serious, in-depth formation. A growing mastery of the Word of God. Lives change when minds change. We are called to have the mind of Christ.
 
----
 
 ## Justified and Being Transformed
 
@@ -46,7 +45,6 @@ At the same time, He took the sign that bore His perfect obedience and placed it
 > *“He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him.”*  
 > —2 Corinthians 5:21
 
----
 
 ## The Evidence of True Faith
 
@@ -67,7 +65,6 @@ Righteousness is the goal. And righteous people are known by their fruit:
 > —Galatians 5:22–23
 
 
-
 ## The Cost of Worship
 
 True worship requires death—death to self.
@@ -79,7 +76,6 @@ It means submitting to the mind-renewing work of the Holy Spirit.
 
 Only then can our thinking be transformed.  
 Only then can we discern and embrace God’s good, pleasing, and perfect will—for our lives and for the world.
-
 
 
 ## Reflection
