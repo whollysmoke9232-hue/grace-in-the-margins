@@ -11,7 +11,7 @@ permalink: /devotionals/be-transformed-v2/
 ---
 
 
-## Be Transformed  
+### Be Transformed  
 **Romans 12:1–2**
 
 > *“Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind…”*  
