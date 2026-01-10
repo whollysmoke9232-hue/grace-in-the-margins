@@ -66,5 +66,9 @@ God speaks in countless ways, but His message never changes.
 **You are loved.**
 
 ---
+<br>
+<br>
 
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

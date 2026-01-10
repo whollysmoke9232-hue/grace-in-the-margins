@@ -85,4 +85,9 @@ Whether from it or through it, **He is faithful.**
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

@@ -60,4 +60,9 @@ Suffering becomes worship when it is surrendered to the sovereignty of God.
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

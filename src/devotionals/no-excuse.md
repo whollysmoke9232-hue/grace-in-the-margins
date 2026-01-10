@@ -65,4 +65,9 @@ _Lord, thank You for revealing Yourself so clearly—in the skies above, in the 
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

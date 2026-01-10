@@ -43,4 +43,9 @@ Faith itself is a gift—given by the Holy Spirit.
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

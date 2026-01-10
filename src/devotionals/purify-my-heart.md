@@ -65,4 +65,9 @@ A pure heart longs for God above all else.
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

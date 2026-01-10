@@ -101,4 +101,9 @@ And one day, He will wipe away every tear…
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

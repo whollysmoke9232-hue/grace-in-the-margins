@@ -99,4 +99,9 @@ Being “after God’s heart” is not about flawless obedience, but about a hea
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

@@ -201,3 +201,12 @@ The God who stands before the beginning also stands with us here.
 
 > **“I AM Who I AM.”**  
 > —Exodus 3:14
+
+---
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>

@@ -67,4 +67,9 @@ _Lord, help us not despise the days of small faith. Thank You for catching us wh
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

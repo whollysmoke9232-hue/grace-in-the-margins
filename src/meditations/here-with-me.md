@@ -7,7 +7,7 @@ tags:
   - Wonder
   - Creation
   - Confinement
-date: 2026-01-09
+date: 2024-11-09
 layout: default.njk
 author: "Steve Wilkins"
 ---
@@ -32,4 +32,9 @@ The sun, the moon, stars in the sky
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>

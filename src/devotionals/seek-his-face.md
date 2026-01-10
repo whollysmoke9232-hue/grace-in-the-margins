@@ -84,4 +84,9 @@ When you dwell in His presence, His blessings will find you—**even in your sle
 
 ---
 
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
 *Written in confinement.*
+</span>
