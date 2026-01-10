@@ -103,10 +103,11 @@ _Lord, forgive me for trusting in my own strength. I confess that I am weak and 
 
 **God is not waiting for you to become strong enough—He meets you when you finally stop striving.**
 
+---
+
 <br>
 <br>
 
----
 <span style="font-size: 0.85em;">
 *Written in confinement.*
 </span>
