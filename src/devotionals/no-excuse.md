@@ -63,7 +63,7 @@ _Lord, thank You for revealing Yourself so clearly—in the skies above, in the 
 
 **God has not hidden Himself—the only question is whether we will listen and respond.**
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

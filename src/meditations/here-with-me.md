@@ -30,7 +30,7 @@ How can I know
 The sun, the moon, stars in the sky  
 &nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

@@ -43,7 +43,7 @@ Now new life I’ve found
 &nbsp;&nbsp;&nbsp;&nbsp;in the palm of His hand  
 &nbsp;&nbsp;&nbsp;&nbsp;in His love I’ve found a new start
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

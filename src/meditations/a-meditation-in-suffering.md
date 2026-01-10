@@ -58,7 +58,7 @@ Be glorified in me, even here._
 
 Suffering becomes worship when it is surrendered to the sovereignty of God.
 
----
+<!-- end-of-article -->
 
 <br>
 <br>
@@ -66,3 +66,4 @@ Suffering becomes worship when it is surrendered to the sovereignty of God.
 <span style="font-size: 0.85em;">
 *Written in confinement.*
 </span>
+

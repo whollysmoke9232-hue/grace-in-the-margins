@@ -65,7 +65,8 @@ God speaks in countless ways, but His message never changes.
 
 **You are loved.**
 
----
+<!-- end-of-article -->
+
 <br>
 <br>
 

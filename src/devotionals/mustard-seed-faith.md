@@ -65,7 +65,7 @@ _Lord, help us not despise the days of small faith. Thank You for catching us wh
 
 **Faith doesn’t have to be big—it just has to be pointed toward Jesus.**
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

@@ -2,7 +2,7 @@
 title: "I Wanna Dance Like Enoch Danced"
 excerpt: "A longing to walk so closely with God that worship becomes intimacy—and intimacy becomes eternity."
 tags: [worship, intimacy-with-God, surrender, testimony, Genesis]
-date: 2026-01-03
+date: 2020-07-09
 layout: default.njk
 author: "Steve Wilkins"
 ---

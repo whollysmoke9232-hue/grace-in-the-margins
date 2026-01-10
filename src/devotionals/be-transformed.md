@@ -109,11 +109,9 @@ Transform me—not for my glory, but for Yours.
 
 Amen.
 
----
-
 <br>
 <br>
 
 <span style="font-size: 0.85em;">
-*Written in confinement.* <!-- v2 -->
+*Written in confinement.*
 </span>

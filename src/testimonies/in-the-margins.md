@@ -202,7 +202,7 @@ The God who stands before the beginning also stands with us here.
 > **“I AM Who I AM.”**  
 > —Exodus 3:14
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

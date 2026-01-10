@@ -82,7 +82,7 @@ Be my pursuit, my portion, and my peace._
 When you seek His face, His hand will follow.  
 When you dwell in His presence, His blessings will find you—**even in your sleep.**
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

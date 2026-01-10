@@ -83,7 +83,7 @@ but He never abandons us in it.
 Whether from it or through it, **He is faithful.**
 
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

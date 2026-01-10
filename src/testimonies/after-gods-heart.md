@@ -97,7 +97,7 @@ _Merciful Father, thank You that You look beyond outward appearances and see the
 
 Being “after God’s heart” is not about flawless obedience, but about a heart that keeps turning back to Him—again and again—resting in grace rather than hiding in shame.
 
----
+<!-- end-of-article -->
 
 <br>
 <br>

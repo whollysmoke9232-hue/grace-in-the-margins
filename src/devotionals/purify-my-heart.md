@@ -63,7 +63,7 @@ for I long to see more of You.
 Purity is not about restraint alone—it is about **clarity of desire**.  
 A pure heart longs for God above all else.
 
----
+<!-- end-of-article -->
 
 <br>
 <br>
