@@ -1,14 +1,17 @@
 ---
-title: "Be Transformed (Version 2)"
+title: "Be Transformed"
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."
 tags:
-  - Devotionals
   - Romans
-date: 2026-01-09
+  - Sanctification
+  - Transformation
+  - Worship
+  - Mind Renewal
+date: 2023-08-26
 layout: default.njk
 author: "Steve Wilkins"
-permalink: /devotionals/be-transformed-v2/
 ---
+
 
 
 ### Be Transformed  
