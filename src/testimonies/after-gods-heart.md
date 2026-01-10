@@ -1,7 +1,7 @@
 ---
 title: "After God’s Heart"
 excerpt: "David’s life reveals that being ‘after God’s heart’ is not about sinless perfection, but about a heart that repents, returns, and rests in God’s sufficient grace."
-date: 2026-01-04
+date: 2024-05-04
 layout: default.njk
 author: "Steve Wilkins"
 tags: [David, repentance, grace, heart, weakness, sanctification]
@@ -96,3 +96,7 @@ _Merciful Father, thank You that You look beyond outward appearances and see the
 ## Takeaway Thought
 
 Being “after God’s heart” is not about flawless obedience, but about a heart that keeps turning back to Him—again and again—resting in grace rather than hiding in shame.
+
+---
+
+*Written in confinement.*

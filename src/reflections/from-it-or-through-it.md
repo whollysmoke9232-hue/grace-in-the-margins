@@ -7,7 +7,7 @@ tags:
   - trust
   - daniel
   - perseverance
-date: 2026-01-03
+date: 2024-10-03
 layout: default.njk
 author: "Steve Wilkins"
 ---
@@ -81,3 +81,8 @@ Your presence is our greatest promise._
 God does not always remove the fire—  
 but He never abandons us in it.  
 Whether from it or through it, **He is faithful.**
+
+
+---
+
+*Written in confinement.*

@@ -98,3 +98,7 @@ He hates it because it breaks what He loves.
 
 And one day, He will wipe away every tear…  
 **because He wept first.**
+
+---
+
+*Written in confinement.*

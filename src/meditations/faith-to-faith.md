@@ -39,3 +39,8 @@ By faith, our lives are gradually transformed into the image of Christ Jesus, as
 And even this faith is not self-generated.
 
 Faith itself is a gift—given by the Holy Spirit.
+
+
+---
+
+*Written in confinement.*

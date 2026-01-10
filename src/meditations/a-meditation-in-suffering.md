@@ -57,3 +57,7 @@ Be glorified in me, even here._
 ## Takeaway Thought
 
 Suffering becomes worship when it is surrendered to the sovereignty of God.
+
+---
+
+*Written in confinement.*

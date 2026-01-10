@@ -1,0 +1,35 @@
+---
+title: "Here With Me"
+excerpt: "A meditation on God’s nearness—written in confinement, in awe of a presence that remains personal amid infinite scale."
+tags:
+  - Meditation
+  - Presence of God
+  - Wonder
+  - Creation
+  - Confinement
+date: 2026-01-09
+layout: default.njk
+author: "Steve Wilkins"
+---
+
+## Here With Me
+
+Millions of people calling Your Name  
+&nbsp;&nbsp;&nbsp;&nbsp;every face You see  
+Oh, my God, how can it be  
+&nbsp;&nbsp;&nbsp;&nbsp;that You would be here with me  
+
+The sun, the moon, stars in the sky  
+&nbsp;&nbsp;&nbsp;&nbsp;each set in place by Thee  
+their light and course maintained by You  
+&nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
+
+How can I know  
+&nbsp;&nbsp;&nbsp;&nbsp;or can it be known  
+&nbsp;&nbsp;&nbsp;&nbsp;the how’s and why’s of Your plan  
+The sun, the moon, stars in the sky  
+&nbsp;&nbsp;&nbsp;&nbsp;and yet, You’re here with me  
+
+---
+
+*Written in confinement.*

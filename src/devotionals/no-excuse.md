@@ -2,7 +2,7 @@
 title: "No Excuse"
 excerpt: "God’s revelation is not hidden—it’s everywhere. Creation declares His power, and conscience confirms His nature. The question is not whether He’s spoken, but whether we’ll respond."
 tags: [romans, creation, conscience, divine-revelation, spiritual-growth]
-date: 2025-08-02
+date: 2024-06-10
 layout: default.njk
 author: "Steve Wilkins"
 ---
@@ -62,3 +62,7 @@ _Lord, thank You for revealing Yourself so clearly—in the skies above, in the 
 ## Takeaway Thought
 
 **God has not hidden Himself—the only question is whether we will listen and respond.**
+
+---
+
+*Written in confinement.*

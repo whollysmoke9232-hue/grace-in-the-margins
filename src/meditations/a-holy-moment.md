@@ -64,3 +64,7 @@ Yet the message is always the same.
 God speaks in countless ways, but His message never changes.
 
 **You are loved.**
+
+---
+
+*Written in confinement.*

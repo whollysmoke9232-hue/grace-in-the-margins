@@ -2,7 +2,7 @@
 title: "Mustard Seed Faith"
 excerpt: "Even little faith is powerful when pointed toward Jesus. Mustard seed faith moves mountains—and multiplies miracles."
 tags: [faith, miracles, trust, spiritual-growth, discipleship, matthew-17]
-date: 2025-08-02
+date: 2024-08-22
 layout: default.njk
 author: "Steve Wilkins"
 ---
@@ -64,3 +64,7 @@ _Lord, help us not despise the days of small faith. Thank You for catching us wh
 ## Takeaway Thought
 
 **Faith doesn’t have to be big—it just has to be pointed toward Jesus.**
+
+---
+
+*Written in confinement.*
