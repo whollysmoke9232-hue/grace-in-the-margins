@@ -111,6 +111,8 @@ Transform me—not for my glory, but for Yours.
 
 Amen.
 
+<!-- end-of-article -->
+
 <br>
 <br>
 
