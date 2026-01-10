@@ -92,7 +92,6 @@ True worship costs more than attendance or agreement. It requires surrender—da
 
 Am I willing to be transformed, or do I merely want to be affirmed?
 
----
 
 ## Prayer
 
