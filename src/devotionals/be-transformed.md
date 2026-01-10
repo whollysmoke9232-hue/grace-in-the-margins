@@ -66,7 +66,7 @@ Righteousness is the goal. And righteous people are known by their fruit:
 > *“The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.”*  
 > —Galatians 5:22–23
 
----
+
 
 ## The Cost of Worship
 
@@ -80,7 +80,7 @@ It means submitting to the mind-renewing work of the Holy Spirit.
 Only then can our thinking be transformed.  
 Only then can we discern and embrace God’s good, pleasing, and perfect will—for our lives and for the world.
 
----
+
 
 ## Reflection
 
