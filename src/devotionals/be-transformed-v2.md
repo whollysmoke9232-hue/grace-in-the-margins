@@ -1,5 +1,5 @@
 ---
-title: "Be Transformed"
+title: "Be Transformed version 2"
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."
 tags:
   - Romans
