@@ -4,7 +4,13 @@ excerpt: "David’s life reveals that being ‘after God’s heart’ is not abo
 date: 2024-05-04
 layout: default.njk
 author: "Steve Wilkins"
-tags: [David, repentance, grace, heart, weakness, sanctification]
+tags:
+  - Grace
+  - Repentance
+  - Weakness
+  - Sanctification
+  - Restoration
+
 ---
 
 ## Key Scripture

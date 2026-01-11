@@ -2,14 +2,11 @@
 title: "Fractured Light"
 excerpt: "Stories of brokenness and redemption—written from the margins where grace meets collapse, surrender, and quiet faith."
 tags:
-  - memoir
-  - testimony
-  - addiction
-  - grace
-  - redemption
-  - suffering
-  - faith
-  - margins
+  - Grace
+  - Weakness
+  - Suffering
+  - Redemption
+
 date: 2026-01-08
 layout: default.njk
 author: "Steve Wilkins"

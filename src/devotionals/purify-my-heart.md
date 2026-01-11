@@ -4,7 +4,12 @@ excerpt: "A prayer of surrender and longing—for a clean heart that desires God
 date: 2024-01-29
 layout: default.njk
 author: "Steve Wilkins"
-tags: [prayer, purity, surrender, holiness, spiritual-growth, longing-for-God]
+tags:
+  - Repentance
+  - Holiness
+  - Intimacy with God
+  - Psalms
+
 ---
 
 ## A Prayer

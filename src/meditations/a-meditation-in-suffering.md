@@ -1,7 +1,11 @@
 ---
 title: "A Meditation In Suffering"
 excerpt: "When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise."
-tags: [suffering, surrender, worship, sovereignty-of-god, psalms]
+tags:
+  - Suffering
+  - Presence of God
+  - Hope
+
 date: 2023-10-15
 layout: default.njk
 author: "Steve Wilkins"

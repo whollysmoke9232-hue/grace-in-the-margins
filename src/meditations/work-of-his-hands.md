@@ -2,11 +2,10 @@
 title: "The Work of His Hands"
 excerpt: "Like a craftsman with a vision, God sees us not for our flaws but for the purpose He lovingly designed. Even our dents and dings are part of the story."
 tags:
-  - identity-in-christ
-  - psalm-139
-  - creation
-  - purpose
-  - spiritual-growth
+  - Creation
+  - Identity in Christ
+  - Divine Love
+
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

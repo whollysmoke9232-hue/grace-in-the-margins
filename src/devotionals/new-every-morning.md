@@ -1,7 +1,12 @@
 ---
 title: "New Every Morning"
 excerpt: "God’s mercies are not recycled—they’re freshly painted across each sunrise. His faithfulness is the rhythm behind every breath."
-tags: [lamentations, mercy, faithfulness, spiritual-growth, morning-devotional]
+tags:
+  - Grace
+  - Hope
+  - Restoration
+  - Psalms
+
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

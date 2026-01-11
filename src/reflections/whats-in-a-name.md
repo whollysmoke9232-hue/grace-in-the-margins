@@ -1,7 +1,12 @@
 ---
 title: "What’s in a Name?"
 excerpt: "Discovering how identity shapes destiny—and how God’s name over us changes everything."
-tags: [identity-in-Christ, Daniel, spiritual-formation, truth-and-lies, discipleship]
+tags:
+  - Identity in Christ
+  - Truth
+  - Obedience
+  - Daniel
+
 date: 1996-07-19
 layout: default.njk
 author: "Steve Wilkins"

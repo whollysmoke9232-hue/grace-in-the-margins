@@ -2,11 +2,12 @@
 title: "The Gospel in the Grass"
 excerpt: "Creation proclaims God’s provision, beauty, and care—inviting us to trust the One who tends both the earth and our lives."
 tags:
-  - creation
-  - trust
-  - provision
-  - presence-of-God
-  - grace
+  - Creation
+  - Divine Love
+  - Trust
+  - Gospel
+  - Psalms
+
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

@@ -2,11 +2,11 @@
 title: "Faith to Faith"
 excerpt: "The righteousness that saves us is credited by God, received by faith, and lived out by faith—from beginning to end."
 tags:
-  - Romans
   - Faith
-  - Justification
+  - Grace
   - Sanctification
-  - Righteousness
+  - Romans
+
 date: 2023-09-28
 
 layout: default.njk

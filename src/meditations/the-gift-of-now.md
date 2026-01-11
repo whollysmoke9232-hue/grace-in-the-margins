@@ -2,11 +2,10 @@
 title: "The Gift of Now"
 excerpt: "We often rush past the present while waiting for something better. This devotional invites us to receive the current moment as God’s gift, where His presence is already at work."
 tags:
-  - presence-of-god
-  - spiritual-growth
-  - matthew
-  - ecclesiastes
-  - holy-spirit
+  - Time
+  - Stillness
+  - Presence of God
+
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

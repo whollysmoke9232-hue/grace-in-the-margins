@@ -2,10 +2,10 @@
 title: "The Work of Your Fingers"
 excerpt: "When we look up at the vastness of creation, we are confronted with a humbling question—why does God care for us at all?"
 tags:
-  - creation
-  - identity-in-christ
-  - humility
-  - grace
+  - Creation
+  - Awe
+  - Psalms
+
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

@@ -1,7 +1,13 @@
 ---
 title: "The Bitter Harvest of Sin"
 excerpt: "Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest—yet grace still invites us into life."
-tags: [sin, repentance, Romans, grace, freedom]
+tags:
+  - Sin
+  - Repentance
+  - Freedom
+  - Grace
+  - Romans
+
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

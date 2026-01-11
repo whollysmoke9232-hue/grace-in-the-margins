@@ -1,7 +1,10 @@
 ---
 title: "Just Look and Live"
 excerpt: "You don’t have to climb your way to God or fix yourself first. Just look to Jesus—and live."
-tags: [grace, salvation, gospel, faith, simplicity, john-3]
+tags:
+  - Faith
+  - Salvation
+  - Gospels
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

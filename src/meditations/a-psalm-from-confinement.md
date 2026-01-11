@@ -2,11 +2,10 @@
 title: "A Psalm From Confinement"
 excerpt: "A meditation of confession, grace, and longing—written when hope felt distant and mercy refused to let go."
 tags:
-  - Meditation
-  - Psalm
-  - Lament
-  - Repentance
-  - Grace
+  - Suffering
+  - Waiting
+  - Psalms
+
 date: 2024-06-01
 layout: default.njk
 author: "Steve Wilkins"

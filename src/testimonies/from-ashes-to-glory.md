@@ -5,12 +5,11 @@ date: 2025-08-06
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - restoration
-  - holiness
-  - repentance
-  - spiritual-growth
-  - identity-in-christ
-  - temple
+  - Restoration
+  - Repentance
+  - Holiness
+  - Identity in Christ
+
 ---
 
 ## Key Scripture

@@ -5,12 +5,11 @@ date: 2024-03-26
 layout: default.njk
 author: "Steve Wilkins"
 tags:
-  - scripture
-  - meditation
-  - margins
-  - sovereignty-of-god
-  - bible-reading
-  - reflection
+  - Scripture
+  - Sovereignty of God
+  - Time
+  - Presence of God
+
 ---
 
 What is your favorite place in the Bible?

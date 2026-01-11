@@ -76,6 +76,44 @@ These readings invite imagination and reflection, allowing meaning to surface ge
 
 ---
 
+## If You Are Learning to Sit With God
+
+There are seasons when words feel unnecessary and striving has grown thin.
+These readings invite you to slow down, remain present, and rediscover that God does not withdraw when nothing seems to be happening.
+
+- [Be Still](/devotionals/be-still/?path=stillness&step=1)
+- [The Gift of Now](/meditations/the-gift-of-now/?path=stillness&step=2)
+- [A Holy Moment](/meditations/a-holy-moment/?path=stillness&step=3)
+- [Here With Me](/meditations/here-with-me/?path=stillness&step=4)
+- [The Work of Your Fingers](/meditations/the-work-of-your-fingers/?path=stillness&step=5)
+
+---
+
+## If You Are Relearning Grace
+
+When faith has become effortful and obedience feels heavy, these readings return to grace as the starting place—not the reward.
+They are offered to help loosen the grip of self-reliance and restore rest to your walk with God.
+
+- [Working From Grace](/reflections/working-from-grace/?path=grace&step=1)
+- [Faith, From Beginning to End](/reflections/faith-from-beginning-to-end/?path=grace&step=2)
+- [Mustard Seed Faith](/devotionals/mustard-seed-faith/?path=grace&step=3)
+- [From It or Through It](/reflections/from-it-or-through-it/?path=grace&step=4)
+- [In the Margins](/testimonies/in-the-margins/?path=grace&step=5)
+
+---
+
+## If You Are Seeking Wisdom Without Noise
+
+These readings are for those who want clarity without pressure and wisdom without spectacle.
+They attend to Scripture's quieter guidance, where discernment grows slowly and faith is formed through attention rather than urgency.
+
+- [The House That Calls to the Simple](/stories/the-house-that-calls-to-the-simple/?path=wisdom&step=1)
+- [Roadblocks](/reflections/roadblocks/?path=wisdom&step=2)
+- [What Are You Feeding?](/reflections/what-are-you-feeding/?path=wisdom&step=3)
+- [Psalm 119](/reflections/psalm-119/?path=wisdom&step=4)
+
+---
+
 <nav class="explore-bubbles" aria-label="Return to Home">
   <a href="/">← Return to Home</a>
 </nav>

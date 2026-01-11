@@ -29,6 +29,12 @@ module.exports = function (eleventyConfig) {
     return dt.isValid ? dt.toFormat("MMMM d, yyyy") : String(dateValue);
   });
 
+  // 🔗 Slug filter
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) return "";
+    return String(str).toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+  });
+
   // 🧠 extractBlock filter
   eleventyConfig.addFilter("extractBlock", function (content, heading) {
     if (!content || !heading) return "";
@@ -72,7 +78,10 @@ module.exports = function (eleventyConfig) {
       if (item.data && Array.isArray(item.data.tags)) {
         item.data.tags
           .filter((tag) => tag && tag !== "devotionals")
-          .forEach((tag) => tagSet.add(String(tag).trim().toLowerCase()));
+          .forEach((tag) => {
+            const slugified = String(tag).toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+            tagSet.add(slugified);
+          });
       }
     });
     return [...tagSet];

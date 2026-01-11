@@ -1,7 +1,11 @@
 ---
 title: "Held on Every Side"
 excerpt: "As mountains encircle Jerusalem, God’s presence surrounds His people—corporately and personally—now and forever."
-tags: [psalms, presence-of-God, security, community, trust]
+tags:
+  - Weakness
+  - Grace
+  - Perseverance
+
 date: 2026-01-03
 layout: default.njk
 author: "Steve Wilkins"

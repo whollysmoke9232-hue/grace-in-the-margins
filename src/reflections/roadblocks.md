@@ -3,10 +3,10 @@ title: "Roadblocks"
 date: 2025-07-30
 layout: default.njk
 tags:
-  - devotionals
-  - spiritual-growth
-  - surrender
-  - grace
+  - Waiting
+  - Trust
+  - Obedience
+
 excerpt: "Reflecting on how we can unknowingly step out of alignment with what God is already doing—and what surrender truly looks like."
 author: "Steve Wilkins"
 ---

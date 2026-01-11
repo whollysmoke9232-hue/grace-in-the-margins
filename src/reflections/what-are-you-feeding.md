@@ -1,7 +1,11 @@
 ---
 title: "What Are You Feeding?"
 excerpt: "What we consume shapes what we become—and the Word of God is meant to be our daily bread."
-tags: [scripture, spiritual-formation, hunger-for-God, psalms, discipleship]
+tags:
+  - Sanctification
+  - Discernment
+  - Transformation
+
 date: 2025-02-07
 layout: default.njk
 author: "Steve Wilkins"

@@ -3,16 +3,10 @@ title: "Be Still"
 date: 2024-07-30
 layout: default.njk
 tags:
-  - devotionals
-  - spiritual-growth
-  - surrender
-  - grace
-  - identity-in-christ
-  - faith-and-trust
-  - scripture-reflection
-  - romans-5
-  - ephesians-2
-  - psalms-46
+  - Stillness
+  - Presence of God
+  - Trust
+  - Psalms
 excerpt: "We chase holiness like a performance, but God meets us in surrender. In the margins of our striving, His grace whispers strength. This devotional invites you to lay down self-effort and discover the power of being still before God."
 author: "Steve Wilkins"
 ---

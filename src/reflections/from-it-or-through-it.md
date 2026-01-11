@@ -2,11 +2,10 @@
 title: "From It or Through It"
 excerpt: "Trusting God’s sovereignty when deliverance comes differently than we expect—and discovering His presence in the fire."
 tags:
-  - suffering
-  - sovereignty
-  - trust
-  - daniel
-  - perseverance
+  - Suffering
+  - Sovereignty of God
+  - Trust
+
 date: 2024-10-03
 layout: default.njk
 author: "Steve Wilkins"

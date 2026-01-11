@@ -2,11 +2,10 @@
 title: "Be Transformed"
 excerpt: "True worship is not conformity to the world, but transformation through a renewed mind shaped by the righteousness of Christ."
 tags:
-  - Romans
   - Sanctification
-  - Transformation
   - Worship
   - Mind Renewal
+  - Romans
 date: 2023-08-26
 layout: default.njk
 author: "Steve Wilkins"
@@ -111,7 +110,7 @@ Transform me—not for my glory, but for Yours.
 
 Amen.
 
-<!-- end-of-article -->
+---
 
 <br>
 <br>

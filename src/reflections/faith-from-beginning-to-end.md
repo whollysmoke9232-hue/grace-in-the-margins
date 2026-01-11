@@ -2,12 +2,14 @@
 title: "Faith from Beginning to End"
 excerpt: "Righteousness isn’t earned—it’s credited by faith. From salvation to sanctification, the entire journey is a gift of grace, received through faith from beginning to end."
 tags:
-  - faith
-  - righteousness
-  - romans
-  - grace
-  - spiritual-growth
-  - gospel
+  - Faith
+  - Grace
+  - Righteousness
+  - Sanctification
+  - Romans
+  - Gospel
+
+
 date: 2025-08-02
 layout: default.njk
 author: "Steve Wilkins"

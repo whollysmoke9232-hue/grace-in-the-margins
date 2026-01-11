@@ -2,11 +2,10 @@
 title: "Meditation #1"
 excerpt: "A meditation of surrender—looking back on flight, self-reliance, and the quiet persistence of grace."
 tags:
-  - Meditation
-  - Surrender
-  - Grace
   - Repentance
-  - New Life
+  - Surrender
+  - Presence of God
+
 date: 2024-09-20
 layout: default.njk
 author: "Steve Wilkins"
