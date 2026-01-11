@@ -1,0 +1,187 @@
+/* 🌤️ Background and base styles */
+body {
+  background-color: #e6f7ff; /* Light blue background */
+  color: #3a2f2f;
+  font-family: "Georgia", serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* 📦 Content container */
+.container {
+  max-width: 720px;
+  margin: 1rem auto;
+  padding: 2rem;
+
+  background-color: #f9f4e8; /* pale yellow */
+  border: 1px solid #c6bfae;
+  border-radius: 12px;
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* 🏷️ Header styling */
+header {
+  padding-top: 0.5rem;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #5a3e2b;
+  margin: 0;
+}
+
+.site-title {
+  font-size: 3rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  color: #5a3e2b;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.site-title:hover {
+  color: #9d7553;
+  opacity: 0.85;
+  text-decoration: underline;
+  background-color: #fff3cd;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+/* 📖 Main content */
+main {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+/* 🪶 Footer */
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+/* 🌿 Tagline styling */
+.tagline p {
+  font-style: italic;
+  text-align: center;
+  color: #4a3c2a;
+  margin-top: 1rem;
+}
+
+/* 🪨 Mission statement */
+.mission p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #3a2f2f;
+  margin-top: 1.5rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
+
+/* ✨ Invitation */
+.invitation p {
+  text-align: center;
+  font-size: 1rem;
+  color: #5a3e2b;
+  margin-top: 1rem;
+}
+
+/* 📌 CTA */
+.cta-message p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #3b2f1e;
+  background-color: #e6f2ff;
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+/* Homepage intro lists */
+.homepage-intro ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.homepage-intro li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Homepage wrapper */
+.homepage-wrapper {
+  max-width: none;
+  width: auto;
+  margin: 0;
+}
+
+/* 🔵 Explore bubbles (authoritative) */
+.explore-bubbles {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+  margin: 0.75rem 0;
+}
+
+.explore-bubbles a {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  background: #e6f7ff;
+  color: #000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  text-decoration: none;
+  border-radius: 999px;
+  font-weight: 525;
+}
+
+.explore-bubbles a:hover {
+  background: #d6ecff;
+}
+
+/* Gentle permission text under Start Here */
+.explore-own {
+  text-align: center;
+  margin: 0.35rem 0 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #4a3c2a;
+  font-style: italic;
+}
+
+/* 💬 Chatbot bubble styling - add title on hover */
+#chatbase-bubble-button {
+  position: relative;
+}
+
+#chatbase-bubble-button::before {
+  content: "Faith Companion";
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  background: #3a2f2f;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+#chatbase-bubble-button:hover::before {
+  opacity: 1;
+}
