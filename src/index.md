@@ -59,6 +59,7 @@ layout: layout
     <!-- BOTTOM LINKS (inside border) -->
     <nav class="explore-bubbles" aria-label="Explore">
       <a href="/devotionals/">Devotionals</a>
+      <a href="/meditations/">Meditations</a>
       <a href="/reflections/">Reflections</a>
       <a href="/stories/">Stories</a>
       <a href="/testimonies/">Testimonies</a>
