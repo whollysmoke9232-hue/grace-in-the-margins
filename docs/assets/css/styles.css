@@ -159,7 +159,20 @@ footer {
   font-style: italic;
 }
 
-/* 💬 Chatbot bubble styling - add title on hover */
+/* � Mobile responsive - stack buttons vertically on small screens */
+@media (max-width: 768px) {
+  .explore-bubbles {
+    flex-direction: column;
+    align-items: center;
+  }
+  .explore-bubbles a {
+    width: 90%;
+    max-width: 350px;
+    text-align: center;
+  }
+}
+
+/* �💬 Chatbot bubble styling - add title on hover */
 #chatbase-bubble-button {
   position: relative;
 }
