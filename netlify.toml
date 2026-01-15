@@ -1,3 +1,2 @@
 [build]
   publish = "docs"
-  command = "npx @11ty/eleventy"
