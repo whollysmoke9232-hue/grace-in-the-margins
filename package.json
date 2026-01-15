@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "node_modules/.bin/eleventy"
+    "build": "npx @11ty/eleventy",
+    "push": "npm run build && git add docs/ && git diff --cached --quiet || git commit -m \"Auto-build: Update site files\" && git push"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

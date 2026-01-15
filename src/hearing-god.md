@@ -47,7 +47,7 @@ When God speaks quietly, or not at all
 
 - [When Jesus Wept](/devotionals/when-jesus-wept/?path=hearing-god&step=11)
 - [A Meditation in Suffering](/meditations/a-meditation-in-suffering/?path=hearing-god&step=12)
-- [If You Are Suffering or Waiting](/start-here/#if-you-are-suffering-or-waiting)
+- [Related Reading Path If You Are Suffering or Waiting](/start-here/#if-you-are-suffering-or-waiting)
 
 ---
 

@@ -10,6 +10,8 @@ If you’re not sure where to begin, these guided reading paths are offered as *
 Choose the path that best reflects where you are right now.  
 There is no right order. There is no rush.
 
+Some readings appear in more than one path because certain truths meet us in many seasons.
+
 ---
 
 ## If You Are Suffering or Waiting
