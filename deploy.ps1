@@ -18,7 +18,7 @@ if (-not $status) {
     } else {
         Write-Host "You have $ahead unpushed commit(s). Pushing now..." -ForegroundColor Yellow
         git push
-        Write-Host "`n✓ Successfully pushed to GitHub!" -ForegroundColor Green
+        Write-Host "`nSuccessfully pushed to GitHub!" -ForegroundColor Green
         exit 0
     }
 }
@@ -31,11 +31,11 @@ Write-Host "`n=== Building site ===" -ForegroundColor Cyan
 npx @11ty/eleventy
 
 if ($LASTEXITCODE -ne 0) {
-    Write-Host "`n✗ Build failed! Please fix errors before deploying." -ForegroundColor Red
+    Write-Host "`nBuild failed! Please fix errors before deploying." -ForegroundColor Red
     exit 1
 }
 
-Write-Host "`n✓ Build successful" -ForegroundColor Green
+Write-Host "`nBuild successful" -ForegroundColor Green
 
 # Stage all changes
 Write-Host "`n=== Staging changes ===" -ForegroundColor Cyan
@@ -51,9 +51,9 @@ Write-Host "`n=== Pushing to GitHub ===" -ForegroundColor Cyan
 git push
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "`n✓✓✓ SUCCESS! Your changes are now live on GitHub." -ForegroundColor Green
+    Write-Host "`nSUCCESS! Your changes are now live on GitHub." -ForegroundColor Green
     Write-Host "Netlify will deploy them within 1-2 minutes." -ForegroundColor Cyan
 } else {
-    Write-Host "`n✗ Push failed. Please check the error above." -ForegroundColor Red
+    Write-Host "`nPush failed. Please check the error above." -ForegroundColor Red
     exit 1
 }
