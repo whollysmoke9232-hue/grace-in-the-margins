@@ -14,6 +14,13 @@ module.exports = function (eleventyConfig) {
     level: [1, 2, 3, 4],
     slugify: (s) => s.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')
   });
+
+  eleventyConfig.addCollection("marginsBook", function (collectionApi) {
+  return collectionApi
+    .getFilteredByGlob("src/books/margins-where-god-begins/chapters/*.md")
+    .sort((a, b) => a.data.order - b.data.order);
+});
+
   
   eleventyConfig.setLibrary("md", markdownLibrary);
 

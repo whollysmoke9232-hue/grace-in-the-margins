@@ -1,0 +1,64 @@
+---
+title: "Margins: Where God Begins"
+layout: default.njk
+eleventyExcludeFromCollections: true
+---
+
+<p><strong>Before the first word of Scripture was written, God already knew the story.</strong></p>
+
+<hr />
+
+<h2>Table of Contents</h2>
+
+<ul style="list-style: none; padding-left: 0;">
+  <li><a href="#order-0"><strong>Foreword</strong></a></li>
+  <li><a href="#order-1"><strong>Introduction</strong></a></li>
+  <li><br></li>
+  <li><strong>Part 1: The Eternal Margin</strong></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-2">Part 1: The Eternal Margin</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-3">Chapter 1: The Margin Before Genesis</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-4">Interlude: God's Plan</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-5">Chapter 2: The God Who Knows</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-6">Interlude: Not a Remodel</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-7">Chapter 3: The Tapestry of Time</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-8">Interlude: It's About You</a></li>
+  <li><br></li>
+  <li><strong>Part 2: The Unfolding Margin</strong></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-9">Part 2: The Unfolding Margin</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-10">Chapter 4: The Word Before the Word</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-11">Interlude: A Holy Moment</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-12">Chapter 5: The Power of the Pause</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-13">Interlude: Mustard Seed Faith</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-14">Chapter 6: The Big Picture</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-15">Interlude: Righteousness</a></li>
+  <li><br></li>
+  <li><strong>Part 3: The Living Margin</strong></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-16">Part 3: The Living Margin</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-17">Chapter 7: The Word of God</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-18">Interlude: A Starter Plan for Daily Bible Reading</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-19">Chapter 8: Living in the Margin</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-20">Interlude: It Is Finished</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-21">Chapter 9: The Final Margin</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-22">Interlude: A Prayer</a></li>
+  <li style="margin-left: 1.5rem;"><a href="#order-23">Chapter 10: Invitation to Wonder</a></li>
+  <li><br></li>
+  <li><a href="#order-24">Postlude: If God Is Everywhere…</a></li>
+  <li><a href="#order-25">Appendix</a></li>
+  <li><a href="#order-26">About the Author</a></li>
+</ul>
+
+<hr />
+
+{% for item in collections.marginsBook %}
+  <div id="order-{{ item.data.order }}" style="margin-top: 3rem; margin-bottom: 3rem;">
+    {% if "Interlude" in item.data.title or "Postlude" in item.data.title %}
+      <h2 style="text-align: center;">{{ item.data.title }}</h2>
+    {% else %}
+      <h2>{{ item.data.title }}</h2>
+    {% endif %}
+    {{ item.templateContent | safe }}
+  </div>
+  <hr style="margin: 2rem 0;" />
+{% endfor %}
+
+<p style="text-align: center; margin-top: 3rem;"><a href="/books/">← Back to Books</a></p>

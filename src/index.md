@@ -25,6 +25,7 @@ layout: layout
   <a href="/reflections/">Reflections</a>
   <a href="/stories/">Stories</a>
   <a href="/testimonies/">Testimonies</a>
+  <a href="/books/">Books</a>
 </nav>
 
 <div style="text-align: center; margin-top: 0.5rem;">
@@ -63,7 +64,7 @@ layout: layout
       <a href="/reflections/">Reflections</a>
       <a href="/stories/">Stories</a>
       <a href="/testimonies/">Testimonies</a>
-      
+      <a href="/books/">Books</a>
     </nav>
 
     <div style="text-align: center; margin-top: 0.5rem;">

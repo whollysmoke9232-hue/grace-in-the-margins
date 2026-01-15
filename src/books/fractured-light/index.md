@@ -51,5 +51,7 @@ It is a story about mercy.
 
 ## The Book
 
-*(Full manuscript presented below)*
+[Read the complete Fractured Light →](/stories/fractured-light/)
+
+---
 

@@ -198,3 +198,7 @@ footer {
 #chatbase-bubble-button:hover::before {
   opacity: 1;
 }
+
+.book-section {
+  margin-bottom: 4rem;
+}
