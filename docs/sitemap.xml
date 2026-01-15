@@ -251,12 +251,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://graceinmargins.com/meditations/until-i-came-into-the=sanctuary/</loc>
+    <loc>https://graceinmargins.com/meditations/until-i-came-into-the-sanctuary/</loc>
     <lastmod>January 13, 2026</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://graceinmargins.com/reflections/npt-dubdued/</loc>
+    <loc>https://graceinmargins.com/reflections/not-subdued/</loc>
     <lastmod>January 14, 2026</lastmod>
     <priority>0.8</priority>
   </url>
@@ -268,6 +268,11 @@
   <url>
     <loc>https://graceinmargins.com/reflections/the-power-of-presence/</loc>
     <lastmod>January 14, 2026</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://graceinmargins.com/reflections/cart-or-horse/</loc>
+    <lastmod>January 15, 2026</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
