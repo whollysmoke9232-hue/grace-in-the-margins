@@ -14,6 +14,10 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
+<div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">
+  <a href="/stories/fractured-light/" style="color: #999; text-decoration: none; border-bottom: 1px dashed #ccc;">Prefer continuous reading?</a>
+</div>
+
 ## About the Book
 
 There are stories that are told from a distance.  
@@ -49,9 +53,21 @@ It is a story about mercy.
 
 ---
 
-## The Book
+## Table of Contents
 
-[Read the complete Fractured Light →](/stories/fractured-light/)
+- [Introduction](/books/fractured-light/introduction/)
+- [Chapter 1: The Beginning](/books/fractured-light/chapter-1/)
+- [Chapter 2: The Hook](/books/fractured-light/chapter-2/)
+- [Chapter 3: The Spiral](/books/fractured-light/chapter-3/)
+- [Chapter 4: The Altar](/books/fractured-light/chapter-4/)
+- [Chapter 5: The Lie of Marriage](/books/fractured-light/chapter-5/)
+- [Chapter 6: The Thorn](/books/fractured-light/chapter-6/)
+- [Chapter 7: The Collapse](/books/fractured-light/chapter-7/)
+- [Chapter 8: The Surrender](/books/fractured-light/chapter-8/)
+- [Chapter 9: The Arrest](/books/fractured-light/chapter-9/)
+- [Chapter 10: Still Standing](/books/fractured-light/chapter-10/)
+- [Chapter 11: Margins](/books/fractured-light/chapter-11/)
+- [Conclusion: The Light That Remains](/books/fractured-light/conclusion/)
 
 ---
 

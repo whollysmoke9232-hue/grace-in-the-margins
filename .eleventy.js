@@ -21,6 +21,24 @@ module.exports = function (eleventyConfig) {
     .sort((a, b) => a.data.order - b.data.order);
 });
 
+  // 📖 Fractured Light book collection
+  eleventyConfig.addCollection("fracturedLight", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("src/books/fractured-light/chapters/*.md")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
+  // 🔄 Collection navigation filters
+  eleventyConfig.addFilter("getPreviousCollectionItem", function(collection, page) {
+    const index = collection.findIndex(item => item.url === page.url);
+    return index > 0 ? collection[index - 1] : null;
+  });
+
+  eleventyConfig.addFilter("getNextCollectionItem", function(collection, page) {
+    const index = collection.findIndex(item => item.url === page.url);
+    return index < collection.length - 1 ? collection[index + 1] : null;
+  });
+
   
   eleventyConfig.setLibrary("md", markdownLibrary);
 

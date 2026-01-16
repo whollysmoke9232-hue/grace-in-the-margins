@@ -12,6 +12,10 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
+<div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">
+  <a href="/books/fractured-light/" style="color: #999; text-decoration: none; border-bottom: 1px dashed #ccc;">Prefer chapters?</a>
+</div>
+
 
 ## Table of Contents
 
