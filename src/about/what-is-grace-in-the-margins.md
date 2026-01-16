@@ -3,8 +3,6 @@ layout: default.njk
 permalink: /about/
 ---
 
-## Grace in the Margins
-
 This site exists because faith does not always grow in clean places.
 
 Some people meet God in sanctuaries, with steady lives and predictable rhythms.  
