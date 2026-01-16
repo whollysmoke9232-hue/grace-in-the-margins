@@ -1,6 +1,11 @@
 ---
 title: "Interlude: Mustard Seed Faith"
+layout: book-chapter.njk
 order: 13
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/interlude-mustard-seed-faith/"
 ---
 
 <div style="text-align: center; font-style: italic;">

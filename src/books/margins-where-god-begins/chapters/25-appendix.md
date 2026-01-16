@@ -1,6 +1,11 @@
 ---
 title: "Appendix"
+layout: book-chapter.njk
 order: 25
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/appendix/"
 ---
 
 ## Daily Psalms / Proverbs Reading Schedule

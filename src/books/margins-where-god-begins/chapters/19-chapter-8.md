@@ -1,6 +1,11 @@
 ---
 title: "Chapter 8: Living in the Margin"
+layout: book-chapter.njk
 order: 19
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-8/"
 ---
 
 If the margin before Genesis 1:1 is where God’s plan begins,  

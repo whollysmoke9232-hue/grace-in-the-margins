@@ -1,6 +1,11 @@
 ---
 title: "Interlude: Righteousness: A Gift from First to Last"
+layout: book-chapter.njk
 order: 15
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/interlude-righteousness/"
 ---
 
 <div style="text-align: center; font-style: italic;">

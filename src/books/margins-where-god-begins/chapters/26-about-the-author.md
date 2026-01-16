@@ -1,6 +1,11 @@
 ---
 title: "About the Author"
+layout: book-chapter.njk
 order: 26
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/about-the-author/"
 ---
 
 Steve Wilkins is a follower of Jesus, a lifelong student of Scripture, and a storyteller shaped by grace.

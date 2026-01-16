@@ -1,6 +1,11 @@
 ---
 title: "Chapter 4: The Word Before the Word"
+layout: book-chapter.njk
 order: 10
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-4/"
 ---
 
 Before there was light, there was the Word.  

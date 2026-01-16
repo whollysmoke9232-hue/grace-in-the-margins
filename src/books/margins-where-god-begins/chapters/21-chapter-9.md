@@ -1,6 +1,11 @@
 ---
 title: "Chapter 9: The Final Margin"
+layout: book-chapter.njk
 order: 21
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-9/"
 ---
 
 If there was a margin before the beginning,  

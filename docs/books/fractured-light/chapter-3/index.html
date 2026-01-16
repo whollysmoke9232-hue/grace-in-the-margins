@@ -65,11 +65,11 @@
   }
 
   .book-content {
-    animation: fadeIn 0.5s ease-out;
+    animation: fadeIn 0.7s ease-in-out;
   }
 
   .book-content.page-exit {
-    animation: fadeOut 0.3s ease-in;
+    animation: fadeOut 0.5s ease-in-out;
   }
 
   /* Respect user's motion preferences */
@@ -177,6 +177,14 @@
 </style>
 
 <div class="book-content">
+  
+  
+  
+  
+  
+  
+  
+
   <!-- Reading mode toggle -->
   <div class="reading-mode-toggle">
     <a href="/stories/fractured-light/">Prefer continuous reading?</a>
@@ -184,6 +192,9 @@
 
   <!-- Book header with TOC link -->
   <header class="book-header">
+    <p style="margin: 0 0 0.5rem 0; font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em;">
+      <a href="/books/fractured-light/" style="color: inherit; text-decoration: none;">Fractured Light</a>
+    </p>
     <h1 class="chapter-title">
       <a href="/books/fractured-light/toc/">Chapter 3: The Spiral</a>
     </h1>
@@ -307,7 +318,7 @@
         
         setTimeout(() => {
           window.location.href = link.href;
-        }, 300);
+        }, 500);
       } else {
         window.location.href = link.href;
       }

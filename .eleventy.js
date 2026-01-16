@@ -16,15 +16,15 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("marginsBook", function (collectionApi) {
-  return collectionApi
-    .getFilteredByGlob("src/books/margins-where-god-begins/chapters/*.md")
-    .sort((a, b) => a.data.order - b.data.order);
-});
+    return collectionApi
+      .getFilteredByTag("margins-where-god-begins")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
 
   // 📖 Fractured Light book collection
   eleventyConfig.addCollection("fracturedLight", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("src/books/fractured-light/chapters/*.md")
+      .getFilteredByTag("fractured-light")
       .sort((a, b) => a.data.order - b.data.order);
   });
 

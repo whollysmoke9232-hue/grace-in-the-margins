@@ -1,6 +1,11 @@
 ---
 title: "Chapter 7: The Word of God"
+layout: book-chapter.njk
 order: 17
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-7/"
 ---
 
 People often ask, “What is God’s will for my life?”

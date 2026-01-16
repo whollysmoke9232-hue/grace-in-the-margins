@@ -1,6 +1,11 @@
 ---
 title: "Postlude: If God Is Everywhere…"
+layout: book-chapter.njk
 order: 24
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/postlude/"
 ---
 
 <div style="text-align: center; font-style: italic;">

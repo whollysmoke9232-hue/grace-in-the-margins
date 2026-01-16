@@ -1,6 +1,11 @@
 ---
 title: "Chapter 5: The Power of the Pause"
+layout: book-chapter.njk
 order: 12
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-5/"
 ---
 
 We tend to measure life by movement.  

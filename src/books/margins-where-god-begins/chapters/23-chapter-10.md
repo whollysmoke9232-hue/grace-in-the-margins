@@ -1,6 +1,11 @@
 ---
 title: "Chapter 10: Invitation to Wonder"
+layout: book-chapter.njk
 order: 23
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-10/"
 ---
 
 You’ve walked with me through the margins—  

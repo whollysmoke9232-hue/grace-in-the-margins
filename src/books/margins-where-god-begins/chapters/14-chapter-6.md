@@ -1,6 +1,11 @@
 ---
 title: "Chapter 6: The Big Picture"
+layout: book-chapter.njk
 order: 14
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-6/"
 ---
 
 ## What Job Didn’t Know

@@ -1,6 +1,11 @@
 ---
 title: "Part 3: The Living Margin"
+layout: book-chapter.njk
 order: 16
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/part-3/"
 ---
 
 If the eternal margin reveals who God is,  

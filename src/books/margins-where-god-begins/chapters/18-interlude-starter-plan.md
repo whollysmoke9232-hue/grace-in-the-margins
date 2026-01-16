@@ -1,6 +1,11 @@
 ---
 title: "Interlude: A Starter Plan for Daily Bible Reading"
+layout: book-chapter.njk
 order: 18
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/interlude-starter-plan/"
 ---
 
 **“God still speaks.”**

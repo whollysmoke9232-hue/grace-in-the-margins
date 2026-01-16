@@ -1,6 +1,11 @@
 ---
 title: "Foreword"
+layout: book-chapter.njk
 order: 0
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/foreword/"
 ---
 
 There are books that explain Scripture, and there are books that invite you to enter it.  

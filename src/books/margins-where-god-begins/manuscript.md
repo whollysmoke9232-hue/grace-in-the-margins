@@ -1,3 +1,18 @@
+---
+title: "Margins: Where God Begins"
+layout: default.njk
+permalink: "/books/margins-where-god-begins/manuscript/"
+---
+
+<div style="text-align: center; margin: 2rem 0; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
+  <p style="margin: 0 0 0.5rem 0; font-size: 0.95rem; color: #666;">
+    Prefer chapter-by-chapter reading?
+  </p>
+  <a href="/books/margins-where-god-begins/toc/" style="color: #4a90e2; text-decoration: none; font-weight: 500;">
+    View Table of Contents →
+  </a>
+</div>
+
 Table of Contents:
 Forward
 Introduction

@@ -10,13 +10,10 @@ tags:
   - Suffering
   - Hope
 date: 2026-01-15
-layout: default.njk
+layout: book-index.njk
 author: "Steve Wilkins"
+continuousReadingUrl: /stories/fractured-light/
 ---
-
-<div style="text-align: center; margin: 0.5rem 0; padding: 0.5rem; font-size: 0.85rem; color: #888;">
-  <a href="/stories/fractured-light/" style="color: #999; text-decoration: none; border-bottom: 1px dashed #ccc;">Prefer continuous reading?</a>
-</div>
 
 ## About the Book
 
@@ -68,6 +65,3 @@ It is a story about mercy.
 - [Chapter 10: Still Standing](/books/fractured-light/chapter-10/)
 - [Chapter 11: Margins](/books/fractured-light/chapter-11/)
 - [Conclusion: The Light That Remains](/books/fractured-light/conclusion/)
-
----
-

@@ -1,6 +1,11 @@
 ---
 title: "Introduction"
+layout: book-chapter.njk
 order: 1
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/introduction/"
 ---
 
 What’s your favorite place in the Bible?

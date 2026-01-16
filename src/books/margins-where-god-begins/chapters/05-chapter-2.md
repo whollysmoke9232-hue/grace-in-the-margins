@@ -1,6 +1,11 @@
 ---
 title: "Chapter 2: The God Who Knows"
+layout: book-chapter.njk
 order: 5
+tags:
+  - margins-where-god-begins
+author: "Steve Wilkins"
+permalink: "/books/margins-where-god-begins/chapter-2/"
 ---
 
 Before the first word of creation was spoken, God already knew – or better, God already knows.
