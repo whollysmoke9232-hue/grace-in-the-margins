@@ -20,8 +20,6 @@ author: "Steve Wilkins"
 
 ---
 
-## The House That Calls to the Simple
-
 Just as Proverbs 5 dissects the anatomy of temptation, Proverbs 9 presents the final, ultimate choice between two competing invitations. The chapter first describes the call of Lady Wisdom, who has built her house, prepared her feast, and sent out her servants to invite the simple to life.  
 
 In stark contrast, the closing section introduces her counterfeit counterpart: Madam Folly.

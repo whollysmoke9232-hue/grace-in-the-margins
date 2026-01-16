@@ -22,8 +22,6 @@ author: "Steve Wilkins"
 
 ---
 
-## New Every Morning
-
 There is no end to the creative ways God reveals His love. Just when I think He’s exhausted every method—**BOOM**—another masterpiece of mercy. A sunset. A flower. A memory. A smile from a stranger, or even a whispered correction. Each one becomes a brushstroke in His eternal mural of compassion.
 
 > **“The LORD’S lovingkindnesses indeed never cease.”**

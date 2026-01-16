@@ -20,8 +20,6 @@ author: "Steve Wilkins"
 
 ---
 
-## The Bitter Harvest
-
 The Apostle Paul pulls back the curtain on a harsh truth about sin—one we often learn the hard way. He asks a piercing question:
 
 *What benefit did you reap at that time from the things you are now ashamed of?*

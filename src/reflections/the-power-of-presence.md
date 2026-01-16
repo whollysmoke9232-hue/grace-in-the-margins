@@ -13,8 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## The Power of Presence
-
 > *For by their own sword they did not possess the land,  
 And their own arm did not save them,  
 But Your right hand and Your arm and the light of Your presence,  

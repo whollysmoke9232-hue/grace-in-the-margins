@@ -20,8 +20,6 @@ layout: default.njk
 
 ---
 
-## When Jesus Wept
-
 It’s the shortest verse in the Bible—just two words. And yet, those two words carry the weight of eternity.
 
 **“Jesus wept.”**

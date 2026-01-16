@@ -13,8 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## The Cart or the Horse
-
 > **“O LORD, who may abide in Your tent?  
 > Who may dwell on Your holy hill?”**  
 > —Psalm 15:1

@@ -19,8 +19,6 @@ author: "Steve Wilkins"
 
 ---
 
-## No Excuse
-
 God doesn’t whisper His identity into the cosmos—He shouts it.
 
 Have you ever looked up at a starlit sky and felt an overwhelming sense of wonder? Or marveled at the intricate design of a tiny flower, or the precision of the human eye? According to the Apostle Paul, these moments are more than awe-inspiring—they are revelation.

@@ -11,8 +11,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Meditation #1
-
 I’ve run from You  
 &nbsp;&nbsp;&nbsp;&nbsp;from Your call to live  
 &nbsp;&nbsp;&nbsp;&nbsp;I’ve embraced the trap of sin.  

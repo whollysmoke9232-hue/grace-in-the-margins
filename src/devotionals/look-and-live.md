@@ -18,8 +18,6 @@ author: "Steve Wilkins"
 
 ---
 
-## Just Look and Live
-
 In the wilderness, the Israelites were dying—bitten by serpents, the consequence of their rebellion. But God, in His mercy, provided a way of healing: a bronze serpent lifted high on a pole. There was no ritual, no sacrifice, no work required. Just one thing: **look**—and **live**.
 
 That moment in Israel’s history was more than a rescue; it was a foreshadowing. Jesus pointed back to it when He said, _“Even so must the Son of Man be lifted up.”_ Just as the bronze serpent was raised for healing, Christ would be lifted on the cross for our salvation.

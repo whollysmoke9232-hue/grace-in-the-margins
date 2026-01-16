@@ -12,7 +12,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Learning to Want God More  
 **Psalm 42:1–2**
 
 > *“As the deer pants for the water brooks,  

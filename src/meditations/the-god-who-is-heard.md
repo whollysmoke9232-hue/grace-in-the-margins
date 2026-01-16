@@ -13,7 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## The God Who Is Heard  
 *Five Short Meditations*
 
 ---

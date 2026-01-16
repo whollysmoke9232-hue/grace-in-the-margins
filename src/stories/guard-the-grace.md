@@ -13,7 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Guard the Grace  
 **On Sexual Sin, Confession, and the Cost of Belonging**
 
 **Author’s Note**  

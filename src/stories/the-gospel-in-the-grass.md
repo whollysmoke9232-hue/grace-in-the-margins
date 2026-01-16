@@ -24,8 +24,6 @@ author: "Steve Wilkins"
 
 ---
 
-## The Gospel in the Grass
-
 Have you ever paused to consider the wonder of the world around us?
 
 Ants gather food for the survival of the colony. Squirrels store nuts for leaner times. Animals fatten up in summer to endure the winter. Birds fly south to escape the cold and return when the seasons shift. Wolves hunt in packs. Gazelles—though slower than cheetahs—survive most encounters. None of these creatures worry about tomorrow. They simply do what God created them to do.

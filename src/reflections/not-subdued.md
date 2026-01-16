@@ -13,8 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Not Subdued
-
 > *Turn Your footsteps toward the perpetual ruins;  
 The enemy has damaged everything within the sanctuary.  
 Your adversaries have roared in the midst of Your meeting place;  

@@ -19,8 +19,6 @@ author: "Steve Wilkins"
 
 ---
 
-## From It or Through It
-
 Imagine the scene: three teenagers—Shadrach, Meshach, and Abednego—standing before King Nebuchadnezzar, the most powerful man in the known world. Their crime was refusing to bow before his golden statue. Facing certain, agonizing death in a superheated furnace, their response was not a plea for mercy, but a declaration of faith.
 
 Their surrender was not to the flame, but to the sovereignty of God.

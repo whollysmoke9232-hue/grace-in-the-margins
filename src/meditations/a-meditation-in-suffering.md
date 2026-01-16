@@ -19,8 +19,6 @@ author: "Steve Wilkins"
 
 ---
 
-## A Meditation In Suffering
-
 O God, this isn’t about me at all.  
 It is about You.  
 It has always been about You.  

@@ -13,8 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Sons of Brokenness
-
 As a result of *Korah’s Rebellion*, the entire families of Dathan and Abiram—along with their livestock and possessions—were swallowed by the earth. Scripture tells us that **not all of Korah’s family was destroyed** as a result of his rebellion. Some of his children were spared. I find myself wondering why.
 
 God is not capricious. His judgments are just. And make no mistake—no one is innocent. It is God’s grace alone that allows any of us to live. But this story invites us to look deeper. To ask, *why?*

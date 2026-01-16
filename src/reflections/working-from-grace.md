@@ -20,8 +20,6 @@ author: "Steve Wilkins"
 
 ---
 
-## Working From Grace
-
 There is a beautiful mystery at the heart of the Christian life. We are called to work—yet we are never left to work alone. We are called to obey—yet even our obedience is fueled by grace.
 
 Paul reminds us that sanctification is not passive. We do not drift into holiness. We pursue it. We “work out” our salvation—not to earn it, but to **express what God has already done within us**.

@@ -22,8 +22,6 @@ layout: default.njk
 
 ---
 
-## Seek His Face, Not Just His Hand
-
 God desires to be desired—not for what He can give, but for who He is. He longs for us to seek His face, not merely His hand.
 
 Too often, our prayers are filled with requests for provision, protection, and promotion. And while God is a generous Father who delights in blessing His children, He never intended for His gifts to replace His presence.

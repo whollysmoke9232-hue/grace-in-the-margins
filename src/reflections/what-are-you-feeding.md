@@ -21,8 +21,6 @@ author: "Steve Wilkins"
 
 ---
 
-## What Are You Feeding?
-
 We ask big questions.
 
 What is God’s will for my life?  

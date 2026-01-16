@@ -19,8 +19,6 @@ author: "Steve Wilkins"
 
 ---
 
-## I Wanna Dance Like Enoch Danced
-
 Enoch didn’t perform for God.  
 He didn’t impress God.  
 He **walked** with God.

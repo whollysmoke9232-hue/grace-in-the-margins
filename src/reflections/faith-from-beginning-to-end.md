@@ -22,8 +22,6 @@ author: "Steve Wilkins"
 
 ---
 
-## Faith from Beginning to End
-
 Have you ever felt the weight of trying to be “good enough”?  
 The relentless striving. The constant measuring. The quiet fear that you never quite measure up.
 

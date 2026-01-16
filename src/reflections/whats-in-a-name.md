@@ -18,8 +18,6 @@ author: "Steve Wilkins"
 
 ---
 
-## What’s in a Name?
-
 ### Names Then and Now
 
 In our modern culture, names often function as little more than labels. They distinguish us on a roster or a form, but they rarely carry deep meaning. I remember a season when it seemed like every other girl was named “Linda”—a popular name, but not one tied to destiny.

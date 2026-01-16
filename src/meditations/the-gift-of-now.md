@@ -18,8 +18,6 @@ author: "Steve Wilkins"
 
 ---
 
-## The Gift of Now
-
 Several years ago, my wife and I embarked on an exciting adventure: our first cruise together. The anticipation was electric. We spent nearly a year immersed in the details—poring over the ship's website, studying deck plans, memorizing meal options, and debating shore excursions.
 
 The excitement was so consuming that I downloaded a countdown clock on my phone, checking it countless times a day: “214 days, 7 hours, and 5 minutes until departure!” It was, quite simply, all I could think about.

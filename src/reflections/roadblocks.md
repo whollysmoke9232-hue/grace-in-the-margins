@@ -11,8 +11,6 @@ excerpt: "Reflecting on how we can unknowingly step out of alignment with what G
 author: "Steve Wilkins"
 ---
 
-## Roadblocks: Getting Out of Our Own Way
-
 Why is it so hard to get out of our own way?
 
 If a runaway dump truck were barreling toward us, every fiber of our being would scream, _“Get out of the way!”_ And we would.  

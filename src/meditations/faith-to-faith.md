@@ -13,7 +13,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Faith to Faith  
 **Romans 1:17**
 
 > *“For in it the righteousness of God is revealed from faith to faith…”*  

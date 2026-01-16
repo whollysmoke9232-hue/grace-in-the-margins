@@ -11,8 +11,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## A Psalm From Confinement
-
 Conceived in trouble  
 Brought forth in pain  
 Delivered in hope  

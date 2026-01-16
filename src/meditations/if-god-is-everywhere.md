@@ -19,8 +19,6 @@ author: "Steve Wilkins"
 
 ---
 
-## If God Is Everywhere All The Time…
-
 If God is everywhere, then I do not merely walk with Him—I exist within Him. I breathe in His presence, and He breathes through mine.
 
 If God is everywhere, then “as far as the east is from the west” is still within His embrace. There is no exile from His love, no distance from His gaze.

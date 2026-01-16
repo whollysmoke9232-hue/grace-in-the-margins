@@ -18,8 +18,6 @@ author: "Steve Wilkins"
 
 ---
 
-## Mustard Seed Faith
-
 I used to think that verse was good news—if I ever needed to move a mountain.
 
 But then I began to notice the kind of faith so many displayed when Jesus walked among them. It wasn’t flashy or loud. It was persistent, expectant, and deeply rooted:

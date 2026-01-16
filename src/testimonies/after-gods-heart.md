@@ -23,8 +23,6 @@ tags:
 
 ---
 
-## After God’s Heart
-
 ### The Paradox of David
 
 “All My will?”

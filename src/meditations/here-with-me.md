@@ -11,8 +11,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Here With Me
-
 Millions of people calling Your Name  
 &nbsp;&nbsp;&nbsp;&nbsp;every face You see  
 Oh, my God, how can it be  
