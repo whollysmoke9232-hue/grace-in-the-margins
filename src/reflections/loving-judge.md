@@ -12,8 +12,6 @@ layout: default.njk
 author: "Steve Wilkins"
 ---
 
-## Loving Judge
-
 **“Let my judgment come forth from Your presence.”**  
 —Psalm 17:2
 
@@ -36,7 +34,7 @@ He had a fierce confidence in the righteousness of the God who always answered t
 You have tested me and You find nothing.”**  
 —Psalm 17:3
 
-David discovered an aspect of God’s nature that we routinely miss. God loves us and desires to see us become the best versions of ourselves. He is not sitting on His throne on high, waiting for an adequate reason to smite us. No—He is leaning in toward us, calling us to trust His heart, confess our sin, and return to a loving relationship.
+David discovered an aspect of God’s nature that we routinely miss. God loves us and desires to see us become the best versions of ourselves. He is not sitting on His throne on high, waiting for an adequate reason to smite us. **NO!** — He is leaning in toward us, calling us to trust His heart, confess our sin, and return to a loving relationship.
 
 That is why David can pray again, without fear:
 

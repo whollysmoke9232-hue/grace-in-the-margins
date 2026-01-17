@@ -22,7 +22,7 @@ Abuse.
 Addiction.  
 Arrest.  
 Jail.  
-Estrangement from my children.  
+Estrangement from my family.  
 Homelessness.  
 Doors closed by background checks—for housing, for work, for stability.
 
@@ -97,7 +97,7 @@ who has never stopped being there.
 
 ### Prayer
 
-O Lord, when my prayers are reduced to *How long?*, teach me not to stop praying.  
+O Lord, when my prayers are reduced to *How long?*, teach me to not stop praying.  
 When my eyes grow dim, enlighten them again with Your light and truth.  
 Lead me—not merely out of trouble, but into Your presence.  
 When outcomes remain uncertain and restoration feels distant,  

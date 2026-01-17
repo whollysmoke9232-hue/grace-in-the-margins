@@ -25,9 +25,9 @@ John says these beings “…never cease to say, ‘HOLY, HOLY, HOLY…’” (R
 
 As they continually observe, they seem continually compelled to declare what they see. I imagine one becoming aware of an aspect of God’s holiness it had never perceived before, crying out to the others, *“If you could only see what I just saw—HOLY!”* And as one calls out, another sees something new and answers in kind. This never ends. There is no exhaustion of God’s holiness, no final revelation that closes the song.
 
-As the scene unfolds, the twenty-four crowned elders—seated on thrones surrounding God’s throne—respond. As they witness and hear the ceaseless declaration of God’s holiness, they seem suddenly aware of the utter inappropriateness of the crowns on their own heads. They fall down and cast their crowns before Him, saying, in essence, *These are not ours. Only You are worthy.*
+As the scene unfolds, the twenty-four crowned elders—seated on thrones surrounding God’s throne—respond. As they witness and hear the ceaseless declaration of God’s holiness, they seem suddenly aware of the utter inappropriateness of sitting on thrones in God's presence with the crowns on their own heads. They fall down and cast their crowns before Him, saying, in essence, *These are not ours. Only You are worthy.*
 
-This is the scene I imagine when the Psalmist says, *“Until I came into the sanctuary of God.”* An instant in God’s presence changes everything. It reorders my view of God, my life, my circumstances, and how it all fits together. I may not be able to articulate exactly what has changed, but I know that something has—and that it is real.
+This is the scene I imagine when the Psalmist says, *“Until I came into the sanctuary of God.”* An instant in God’s presence changes everything. It reorders my view of God, my life, my circumstances, and how it all fits together. In those moments, I may not be able to articulate exactly what has changed, but I know that something has—and that it is real.
 
 Those moments in His presence are far too rare.
 
