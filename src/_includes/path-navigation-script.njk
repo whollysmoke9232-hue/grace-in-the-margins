@@ -1,0 +1,198 @@
+<!-- Guided Path Navigation Script -->
+<script>
+  (function() {
+    // Define the reading paths
+    const paths = {
+      suffering: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' }
+      ],
+      sin: [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      numb: [
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' }
+      ],
+      identity: [
+        { url: '/reflections/whats-in-a-name/', title: "What's In A Name" },
+        { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/reflections/working-from-grace/', title: 'Working from Grace' }
+      ],
+      story: [
+        { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
+        { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/stories/fractured-light/', title: 'Fractured Light' }
+      ],
+      stillness: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/a-holy-moment/', title: 'A Holy Moment' },
+        { url: '/meditations/here-with-me/', title: 'Here With Me' },
+        { url: '/meditations/the-work-of-your-fingers/', title: 'The Work of Your Fingers' }
+      ],
+      grace: [
+        { url: '/reflections/working-from-grace/', title: 'Working From Grace' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/reflections/from-it-or-through-it/', title: 'From It or Through It' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      wisdom: [
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/reflections/roadblocks/', title: 'Roadblocks' },
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/reflections/psalm-119/', title: 'Psalm 119' }
+      ],
+      'hearing-god': [
+        { url: '/meditations/the-god-who-is-heard/', title: 'The God Who Is Heard' },
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' },
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' }
+      ],
+      'bondage-and-release': [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/books/fractured-light/chapter-3/', title: 'Fractured Light — "The Spiral"' },
+        { url: '/reflections/deliver-me/', title: 'Deliver Me' },
+        { url: '/reflections/not-even-one/', title: 'Not Even One' },
+        { url: '/books/fractured-light/chapter-7/', title: 'Fractured Light — "The Collapse"' },
+        { url: '/reflections/working-from-grace/', title: 'Working From Grace' }
+      ],
+      'hurt-and-restoration': [
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/testimonies/after-gods-heart/', title: 'After God\'s Heart' },
+        { url: '/books/fractured-light/chapter-9/', title: 'Fractured Light — "The Arrest"' },
+        { url: '/reflections/the-power-of-presence/', title: 'The Power of Presence' },
+        { url: '/reflections/sons-of-brokenness/', title: 'Sons of Brokenness' },
+        { url: '/reflections/sticks-and-stones/', title: 'Sticks and Stones' },
+        { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' }
+      ],
+      'weariness-and-renewal': [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/devotionals/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' }
+      ],
+      'about-the-author': [
+        { url: '/testimonies/from-exile-to-eden/', title: 'From Exile to Eden' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/books/fractured-light/chapter-4/', title: 'Fractured Light — “The Altar” (excerpt)' },
+        { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm from Confinement' },
+        { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
+      ]
+    };
+
+    // Collection names for back navigation
+    const collections = {
+      devotionals: 'Devotionals',
+      reflections: 'Reflections',
+      meditations: 'Meditations',
+      stories: 'Stories',
+      testimonies: 'Testimonies'
+    };
+
+    // Get URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const pathName = urlParams.get('path');
+    const currentStep = parseInt(urlParams.get('step'));
+    const fromCollection = urlParams.get('from');
+
+    // Articles that should return to Hearing God page (end of sections)
+    const hearingGodSectionEnds = [4, 7, 10]; // If God Is Everywhere, In the Margins, New Every Morning
+
+    // Handle guided path navigation
+    if (pathName && currentStep && paths[pathName]) {
+      const pathArticles = paths[pathName];
+      const nextStep = currentStep + 1;
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      // Check if this is a Hearing God section end
+      const isHearingGodSectionEnd = pathName === 'hearing-god' && hearingGodSectionEnds.includes(currentStep);
+      
+      if (isHearingGodSectionEnd) {
+        // End of a Hearing God section - return to Hearing God page
+        nextLink.href = '/hearing-god/';
+        nextLink.textContent = '← Return to Hearing God';
+        navDiv.style.display = 'block';
+      } else if (currentStep === 5 && (pathName === 'bondage-and-release' || pathName === 'hurt-and-restoration')) {
+        // End of "Explore This Path" section - return to path landing page
+        if (pathName === 'bondage-and-release') {
+          nextLink.href = '/bondage-and-release/';
+          nextLink.textContent = '← Back to Bondage and Release';
+        } else if (pathName === 'hurt-and-restoration') {
+          nextLink.href = '/hurt-and-restoration/';
+          nextLink.textContent = '← Back to Hurt and Restoration';
+        }
+        navDiv.style.display = 'block';
+      } else if (nextStep <= pathArticles.length) {
+        // Show next article button
+        const nextArticle = pathArticles[nextStep - 1];
+        nextLink.href = nextArticle.url + '?path=' + pathName + '&step=' + nextStep;
+        nextLink.textContent = 'Next: ' + nextArticle.title + ' →';
+        navDiv.style.display = 'block';
+      } else if (currentStep === pathArticles.length) {
+        // Last article in path - show return to path home
+        if (pathName === 'hearing-god') {
+          nextLink.href = '/hearing-god/';
+          nextLink.textContent = '← Return to Hearing God';
+        } else if (pathName === 'bondage-and-release') {
+          nextLink.href = '/bondage-and-release/';
+          nextLink.textContent = '← Back to Bondage and Release';
+        } else if (pathName === 'hurt-and-restoration') {
+          nextLink.href = '/hurt-and-restoration/';
+          nextLink.textContent = '← Back to Hurt and Restoration';
+        } else if (pathName === 'weariness-and-renewal') {
+          nextLink.href = '/weariness-and-renewal/';
+          nextLink.textContent = '← Back to Weariness and Renewal';
+        } else if (pathName === 'about-the-author') {
+          nextLink.href = '/about-the-author/';
+          nextLink.textContent = '← Back to About the Author';
+        } else {
+          nextLink.href = '/start-here/';
+          nextLink.textContent = '← Return to Start Here';
+        }
+        navDiv.style.display = 'block';
+      }
+    }
+    // Handle collection back navigation
+    else if (fromCollection && collections[fromCollection]) {
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      nextLink.href = '/' + fromCollection + '/';
+      nextLink.textContent = '← Back to ' + collections[fromCollection];
+      navDiv.style.display = 'block';
+    }
+  })();
+</script>

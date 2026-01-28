@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% if title == "Grace in the Margins" %}{{ title }}{% else %}{{ title }} | Grace in the Margins{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="zjT6r4w2LKP-Q9uys3sD5532k4WSE8VzPkNCKQarrmA" />
+
+  <link rel="stylesheet" href="/assets/css/main.css?v=3">
+  <link rel="stylesheet" href="/assets/css/styles.css?v=3">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+  
+  <!-- Plausible Analytics - Privacy-friendly analytics -->
+  <script defer data-domain="graceinmargins.com" src="https://plausible.io/js/script.js"></script>
+</head>
+
+<body class="
+  {% if page.url == '/' %}home{% endif %}
+  {% if page.url != '/' %}article-page{% endif %}
+">
+
+  <header class="site-header">
+    <div class="site-brand">
+      <a class="site-title" href="/">Grace in the Margins</a>
+      <p class="site-tagline">A space where God's presence meets life's detours</p>
+    </div>
+    <div id="category-navigation-placeholder"></div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+
+
+
+      <div class="article-content">
+        {{ content | safe }}
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <!-- footer content can go here -->
+  </footer>
+
+  <!-- Chatbase Chatbot Embed (kept) -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
+
+</body>
+</html>

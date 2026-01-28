@@ -1,0 +1,127 @@
+---
+layout: layout.njk
+---
+
+{% set pathParts = page.filePathStem.split('/') %}
+{% set category = '' %}
+{% set categoryUrl = '' %}
+{% if pathParts[1] == 'devotionals' %}
+  {% set category = 'Devotionals' %}
+  {% set categoryUrl = '/devotionals/' %}
+{% elif pathParts[1] == 'meditations' %}
+  {% set category = 'Meditations' %}
+  {% set categoryUrl = '/meditations/' %}
+{% elif pathParts[1] == 'testimonies' %}
+  {% set category = 'Testimonies' %}
+  {% set categoryUrl = '/testimonies/' %}
+{% elif pathParts[1] == 'reflections' %}
+  {% set category = 'Reflections' %}
+  {% set categoryUrl = '/reflections/' %}
+{% elif pathParts[1] == 'stories' %}
+  {% set category = 'Stories' %}
+  {% set categoryUrl = '/stories/' %}
+{% endif %}
+
+<script>
+(function() {
+  // Insert category navigation into header
+  const placeholder = document.getElementById('category-navigation-placeholder');
+  if (placeholder) {
+    const pathParts = window.location.pathname.split('/').filter(p => p);
+    const categories = {
+      'devotionals': { title: 'Devotionals', url: '/devotionals/' },
+      'meditations': { title: 'Meditations', url: '/meditations/' },
+      'testimonies': { title: 'Testimonies', url: '/testimonies/' },
+      'reflections': { title: 'Reflections', url: '/reflections/' },
+      'stories': { title: 'Stories', url: '/stories/' }
+    };
+    
+    let category = '{{ category }}';
+    let categoryUrl = '{{ categoryUrl }}';
+    
+    // Check if we came from a structured reading path
+    const urlParams = new URLSearchParams(window.location.search);
+    const pathName = urlParams.get('path');
+    
+    if (pathName) {
+      const pathNames = {
+        'hearing-god': { title: 'Hearing God', url: '/hearing-god/' },
+        'suffering': { title: 'If You Are Suffering or Waiting', url: '/start-here/#if-you-are-suffering-or-waiting' },
+        'sin': { title: 'If You Are Wrestling With Sin, Failure, or Shame', url: '/start-here/#if-you-are-wrestling-with-sin-failure-or-shame' },
+        'numb': { title: 'If You Feel Spiritually Numb, Dry, or Disconnected', url: '/start-here/#if-you-feel-spiritually-numb-dry-or-disconnected' },
+        'identity': { title: 'If You Long to Know Who You Really Are', url: '/start-here/#if-you-long-to-know-who-you-really-are' },
+        'story': { title: 'If You Learn Best Through Story and Image', url: '/start-here/#if-you-learn-best-through-story-and-image' },
+        'stillness': { title: 'If You Are Learning to Sit With God', url: '/start-here/#if-you-are-learning-to-sit-with-god' },
+        'grace': { title: 'If You Are Relearning Grace', url: '/start-here/#if-you-are-relearning-grace' },
+        'wisdom': { title: 'If You Are Seeking Wisdom Without Noise', url: '/start-here/#if-you-are-seeking-wisdom-without-noise' }
+      };
+      
+      if (pathNames[pathName]) {
+        category = pathNames[pathName].title;
+        categoryUrl = pathNames[pathName].url;
+      }
+    }
+    
+    if (category) {
+      placeholder.innerHTML = '<div style="text-align: center; padding: 0.5rem 0;"><a href="' + categoryUrl + '" style="text-decoration: none; color: #000; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500;">' + category + '</a></div>';
+    }
+  }
+})();
+</script>
+
+<header class="site-header">
+  <h1>{{ title }}</h1>
+
+  {% if excerpt %}
+    <p><em>{{ excerpt }}</em></p>
+  {% endif %}
+
+  {% if author %}
+    <p><strong>By {{ author }}</strong></p>
+  {% endif %}
+
+  {% if date %}
+    <p><time datetime="{{ date }}">{{ date | readableDate }}</time></p>
+  {% endif %}
+</header>
+
+<main class="main-page">
+  {{ content | safe }}
+</main>
+
+{% if tags %}
+<div class="article-tags" style="margin: 2rem 0; padding-top: 1rem; border-top: 1px solid #e0e0e0;">
+  <p style="margin-bottom: 0.5rem; font-size: 0.9rem; color: #666;">Tagged:</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+    {% for tag in tags %}
+    <a href="/tags/{{ tag | slug }}/" style="display: inline-block; padding: 0.25rem 0.75rem; background: #f5f5f5; border-radius: 3px; text-decoration: none; color: #555; font-size: 0.85rem; transition: background 0.2s;">{{ tag }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<footer class="site-footer">
+  <!-- Next article navigation for guided paths -->
+  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Continue Reading Path">
+      <a id="next-article-link" href="#">Next in this path →</a>
+    </nav>
+  </div>
+  
+  <div style="text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Return">
+      <a href="/">Home</a>
+    </nav>
+    <div id="return-to-library-link" style="margin-top:0.7rem;"></div>
+    <script>
+      // Show 'Return to Library' if user came from /library/
+      if (document.referrer && document.referrer.match(/\/library\/?$/)) {
+        document.getElementById('return-to-library-link').innerHTML = '<a href="/library/" style="font-size:1.08rem; color:#6b4f2c; text-decoration:underline; font-weight:bold; letter-spacing:0.02em;">&larr; Return to Library</a>';
+      }
+    </script>
+  </div>
+  <hr />
+  <p><small>&copy; {{ author }} — Grace in the Margins</small></p>
+</footer>
+
+{% include "path-navigation-script.njk" %}

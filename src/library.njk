@@ -1,0 +1,136 @@
+
+{# Library Landing Page - Nunjucks Template #}
+
+<header style="text-align:center; margin-top:2.5rem; margin-bottom:1.5rem;">
+  <h1 style="font-size:2.2rem; letter-spacing:0.04em; margin-bottom:0.5rem;">
+    <a href="/" style="color:#6b4f2c; text-decoration:none; transition:color 0.2s;">Grace in the Margins</a>
+  </h1>
+  <div style="font-size:1.25rem; color:#7a6a4f; margin-bottom:1.5rem;">Library</div>
+</header>
+
+<style>
+.library-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 2rem 1.5rem;
+  margin: 2.5rem 0 2rem 0;
+}
+.library-group {
+  padding: 0 0.5rem;
+}
+.library-group h2 {
+  text-align: center;
+  font-size: 1.18rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #e0d6c3;
+  padding-bottom: 0.5rem;
+}
+.library-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.library-list li {
+  margin-bottom: 0.7rem;
+  position: relative;
+}
+.library-list a {
+  text-decoration: underline;
+  color: #6b4f2c;
+  cursor: pointer;
+}
+.library-list a:hover + .library-excerpt,
+.library-list a:focus + .library-excerpt {
+  display: block;
+}
+.library-excerpt {
+  display: none;
+  position: absolute;
+  left: 105%;
+  top: 0;
+  width: 260px;
+  background: #fffbe9;
+  color: #3a2a13;
+  border: 1px solid #e0d6c3;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0.7rem 1rem;
+  z-index: 10;
+  font-size: 0.98rem;
+}
+</style>
+
+<div class="library-grid">
+  <div class="library-group">
+    <h2>Devotionals</h2>
+    <ul class="library-list">
+      {% for item in collections.devotionals | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Meditations</h2>
+    <ul class="library-list">
+      {% for item in collections.meditations | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Reflections</h2>
+    <ul class="library-list">
+      {% for item in collections.reflections | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Stories</h2>
+    <ul class="library-list">
+      {% for item in collections.stories | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Testimonies</h2>
+    <ul class="library-list">
+      {% for item in collections.testimonies | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="library-group">
+    <h2>Books</h2>
+    <ul class="library-list">
+      {% for item in collections.books | sort(attribute='data.title') %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% if item.data.excerpt %}<span class="library-excerpt">{{ item.data.excerpt }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<p style="text-align:center; margin-top:2.5rem; font-size:1.05rem; color:#7a6a4f;">Hover over any article title to see a short excerpt.</p>
+
+<div style="text-align:center; margin-top:2.5rem;">
+  <a href="/" style="display:inline-block; background:#6b4f2c; color:#fffbe9; padding:0.7rem 2.2rem; border-radius:6px; font-size:1.08rem; text-decoration:none; box-shadow:0 2px 8px rgba(0,0,0,0.07); transition:background 0.2s;">Home</a>
+</div>

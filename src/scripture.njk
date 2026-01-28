@@ -1,0 +1,107 @@
+---
+title: Scripture Index
+layout: default.njk
+permalink: /scripture/index.html
+eleventyExcludeFromCollections: true
+---
+
+<style>
+  .scripture-intro {
+    margin-bottom: 2rem;
+    color: #555;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  .scripture-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .scripture-list li {
+    padding: 0.75rem 1rem;
+    background: #f9f9f9;
+    border-left: 3px solid #8b7355;
+    transition: background 0.2s ease;
+  }
+
+  .scripture-list li:hover {
+    background: #f0f0f0;
+  }
+
+  .scripture-list a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+  }
+
+  .scripture-list a:hover {
+    color: #8b7355;
+  }
+
+  .book-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .book-section h2 {
+    color: #8b7355;
+    border-bottom: 2px solid #8b7355;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .scripture-count {
+    color: #888;
+    font-size: 0.9rem;
+    font-weight: normal;
+    margin-left: 0.5rem;
+  }
+</style>
+
+<div class="scripture-intro">
+  <p>All scripture references cited throughout Grace in the Margins, organized by book of the Bible.</p>
+</div>
+
+{% set bookOrder = [
+  "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
+  "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings",
+  "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+  "Job", "Psalm", "Psalms", "Proverbs", "Ecclesiastes", "Song",
+  "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
+  "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum",
+  "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi",
+  "Matthew", "Mark", "Luke", "John", "Acts",
+  "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians",
+  "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians",
+  "1 Timothy", "2 Timothy", "Titus", "Philemon",
+  "Hebrews", "James", "1 Peter", "2 Peter",
+  "1 John", "2 John", "3 John", "Jude", "Revelation"
+] %}
+
+{% for book in bookOrder %}
+  {% set bookScriptures = [] %}
+  {% for scripture in collections.scriptureList %}
+    {% if scripture.startsWith(book + ' ') or scripture == book %}
+      {% set bookScriptures = (bookScriptures.push(scripture), bookScriptures) %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if bookScriptures.length > 0 %}
+    <div class="book-section">
+      <h2>{{ book }} <span class="scripture-count">({{ bookScriptures.length }})</span></h2>
+      <ul class="scripture-list">
+        {% for scripture in bookScriptures %}
+          <li>
+            <a href="/scripture/{{ scripture | slugify }}/">{{ scripture }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<nav class="explore-bubbles" aria-label="Return" style="margin-top: 2rem;">
+  <a href="/">← Home</a>
+</nav>

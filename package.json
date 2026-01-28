@@ -1,0 +1,17 @@
+{
+  "name": "grace-in-the-margins-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "push": "npm run build && git add docs/ && git diff --cached --quiet || git commit -m \"Auto-build: Update site files\" && git push"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0"
+  },
+  "dependencies": {
+    "markdown-it-anchor": "^9.2.0"
+  }
+}

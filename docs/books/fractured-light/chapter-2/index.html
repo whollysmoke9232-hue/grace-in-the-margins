@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chapter 2: The Hook | Grace in the Margins</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="zjT6r4w2LKP-Q9uys3sD5532k4WSE8VzPkNCKQarrmA" />
+
+  <link rel="stylesheet" href="/assets/css/main.css?v=3">
+  <link rel="stylesheet" href="/assets/css/styles.css?v=3">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+  
+  <!-- Plausible Analytics - Privacy-friendly analytics -->
+  <script defer data-domain="graceinmargins.com" src="https://plausible.io/js/script.js"></script>
+</head>
+
+<body class="
+  
+  article-page
+">
+
+  <header class="site-header">
+    <div class="site-brand">
+      <a class="site-title" href="/">Grace in the Margins</a>
+      <p class="site-tagline">A space where God's presence meets life's detours</p>
+    </div>
+    <div id="category-navigation-placeholder"></div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+
+
+
+      <div class="article-content">
+        
+<style>
+  /* Page transition animation - v2 */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateX(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+  }
+
+  .book-content {
+    animation: fadeIn 0.7s ease-in-out;
+  }
+
+  .book-content.page-exit {
+    animation: fadeOut 0.5s ease-in-out;
+  }
+
+  /* Respect user's motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    .book-content,
+    .book-content.page-exit {
+      animation: none;
+    }
+  }
+
+  /* Book header styles */
+  .book-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+    padding-bottom: 1rem;
+    padding-top: 0;
+    border-bottom: 2px solid #e0e0e0;
+  }
+
+  .chapter-title {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+  }
+
+  .chapter-title a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .chapter-title a:hover {
+    color: #4a90e2;
+  }
+
+  .chapter-subtitle {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 0.5rem;
+  }
+
+  .reading-mode-toggle {
+    text-align: center;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    font-size: 0.85rem;
+    color: #888;
+  }
+
+  .reading-mode-toggle a {
+    color: #999;
+    text-decoration: none;
+    border-bottom: 1px dashed #ccc;
+  }
+
+  .reading-mode-toggle a:hover {
+    color: #666;
+    border-bottom-color: #666;
+  }
+
+  /* Chapter navigation */
+  .chapter-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #e0e0e0;
+    gap: 1rem;
+  }
+
+  .chapter-nav-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #4a90e2;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    text-align: center;
+  }
+
+  .chapter-nav-btn:hover {
+    transform: scale(1.1);
+    background: #357abd;
+  }
+
+  .chapter-nav-disabled {
+    background: #ccc;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+
+  @media (max-width: 768px) {
+    .chapter-nav-container {
+      flex-direction: column;
+    }
+    .chapter-nav-btn {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="book-content">
+  
+  
+  
+  
+  
+  
+  
+
+  <!-- Reading mode toggle -->
+  <div class="reading-mode-toggle">
+    <a href="/stories/fractured-light/">Prefer continuous reading?</a>
+  </div>
+
+  <!-- Book header with TOC link -->
+  <header class="book-header">
+    <p style="margin: 0 0 0.5rem 0; font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.05em;">
+      <a href="/books/fractured-light/" style="color: inherit; text-decoration: none;">Fractured Light</a>
+    </p>
+    <h1 class="chapter-title">
+      <a href="/books/fractured-light/toc/">Chapter 2: The Hook</a>
+    </h1>
+    
+      <p class="chapter-subtitle">When Innocence Meets the Spiral</p>
+    
+  </header>
+
+  <!-- Main chapter content -->
+  <main class="main-page">
+    <p>I was nine years old when the hook was set.</p>
+<p>It didn't feel like sin. It felt like curiosity. My friend and I were just exploring—two kids, spending long afternoons together. We didn't know what &quot;sex&quot; was. We just wanted to look, to touch, to discover. And so we did.</p>
+<p>That's when Satan learned what bait would keep me coming back.</p>
+<p>I didn't understand the weight of it then. I just knew I didn't want to get caught. My mom was a church organist, and I'd been in church since infancy. I knew the difference between right and wrong. But I didn't know why this felt wrong. I didn't know what part of it was broken. I just knew it had to stay secret.</p>
+<p>Years passed. The visits slowed. The exploring stopped. But the spiral had begun.</p>
+<p>By eleven, I was rubbing myself on bed sheets. One day, there was an emission. It scared me. I thought I'd broken something. But it also introduced a new kind of pleasure. And Satan sank the hook deeper.</p>
+<p>That summer, I was raped—repeatedly—by an adult camp leader. I didn't know it then, but my life had just been rerouted. My understanding of sex, safety, and self was shattered. And I didn't tell anyone.</p>
+<p>Later that summer, I discovered men's magazines. The images intensified the pleasure from the sheets. I couldn't get enough. Fantasy and masturbation became my refuge. My routine. My prison.</p>
+<p>I was hooked. And I would stay hooked for decades.</p>
+<h2 id="biblical-parallel-adam-and-eve" tabindex="-1">Biblical Parallel: Adam and Eve</h2>
+<p><strong>Genesis 3: The First Fall</strong></p>
+<p>They were naked and unashamed. Innocent. Curious. Free.</p>
+<p>Then came the whisper: &quot;Did God really say…?&quot;</p>
+<p>Then came the bite.</p>
+<p>Then came the shame.</p>
+<p>Adam and Eve didn't know what sin was. They just knew they weren't supposed to eat. But the fruit looked good. Pleasing. Desirable. So they reached. They tasted. And everything changed.</p>
+<p>They hid. They covered themselves. They felt exposed.</p>
+<p>And when God came walking in the garden, they didn't run to Him. They ran from Him.</p>
+<p>It wasn't just disobedience—it was disconnection.</p>
+<p>The hook was set.</p>
+<p>And humanity has been spiraling ever since.</p>
+<h2 id="reflection-the-lie-of-secrecy" tabindex="-1">Reflection: The Lie of Secrecy</h2>
+<p>Sin thrives in secrecy. It doesn't need full understanding—it just needs silence.</p>
+<p>That's how it grows. That's how it hooks. That's how it hides.</p>
+<p>Like Adam and Eve, I didn't know what I was doing. But I knew I didn't want to be seen.</p>
+<p>And that's the first lie sin tells us: &quot;If they see you, they'll reject you.&quot;</p>
+<p>But God's first question in the garden wasn't &quot;What did you do?&quot;</p>
+<p>It was &quot;Where are you?&quot;</p>
+<p>He wasn't hunting them. He was pursuing them.</p>
+<p>He wasn't angry. He was heartbroken.</p>
+<p>He didn't come to punish. He came to restore.</p>
+<p>Even in the first fall, grace was already moving.</p>
+<h2 id="invitation-where-are-you" tabindex="-1">Invitation: Where Are You?</h2>
+<p>If you're hiding—behind shame, behind secrecy, behind silence—God is still asking the same question:</p>
+<p>&quot;Where are you?&quot;</p>
+<p>Not to condemn.</p>
+<p>To connect.</p>
+<p>Take a moment.</p>
+<p>Write down what you're hiding from.</p>
+<p>Name the hook.</p>
+<p>Then ask God to meet you there.</p>
+<p>Because He will.</p>
+<p>He always does.</p>
+
+  </main>
+
+  <!-- Chapter navigation -->
+  <nav class="chapter-nav-container" aria-label="Chapter Navigation">
+    <div>
+      
+        
+        
+          <a href="/books/fractured-light/chapter-1/" class="chapter-nav-btn" id="prev-chapter-link">
+            ← Chapter 1: The Beginning
+          </a>
+        
+      
+    </div>
+
+    <div>
+      
+        
+        
+          <a href="/books/fractured-light/chapter-3/" class="chapter-nav-btn" id="next-chapter-link">
+            Chapter 3: The Spiral →
+          </a>
+        
+      
+    </div>
+  </nav>
+</div>
+
+<script>
+  // Add smooth page transition on navigation
+  document.addEventListener('DOMContentLoaded', function() {
+    const nextLink = document.getElementById('next-chapter-link');
+    const prevLink = document.getElementById('prev-chapter-link');
+    
+    // Smooth transition function
+    function smoothTransition(link) {
+      if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        const content = document.querySelector('.book-content');
+        content.classList.add('page-exit');
+        
+        setTimeout(() => {
+          window.location.href = link.href;
+        }, 500);
+      } else {
+        window.location.href = link.href;
+      }
+    }
+    
+    // Click handlers with animation
+    if (nextLink) {
+      nextLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        smoothTransition(nextLink);
+      });
+    }
+    
+    if (prevLink) {
+      prevLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        smoothTransition(prevLink);
+      });
+    }
+    
+    // Keyboard shortcuts (arrow keys)
+    document.addEventListener('keydown', function(e) {
+      // Left arrow = previous chapter
+      if (e.key === 'ArrowLeft' && prevLink) {
+        e.preventDefault();
+        smoothTransition(prevLink);
+      }
+      // Right arrow = next chapter
+      if (e.key === 'ArrowRight' && nextLink) {
+        e.preventDefault();
+        smoothTransition(nextLink);
+      }
+    });
+  });
+</script>
+
+<footer class="site-footer">
+  <!-- Path navigation for guided reading paths -->
+  <div id="path-navigation" style="display: none; text-align: center; margin: 1rem 0;">
+    <nav class="explore-bubbles" aria-label="Continue Reading Path">
+      <a id="next-article-link" href="#">Next in this path →</a>
+    </nav>
+  </div>
+  
+  <div style="text-align: center; margin: 2rem 0 1rem;">
+    <nav class="explore-bubbles" aria-label="Return">
+      <a href="/">Home</a>
+    </nav>
+  </div>
+  <hr />
+  <p><small>&copy; Steve Wilkins — Grace in the Margins</small></p>
+</footer>
+
+<!-- Guided Path Navigation Script -->
+<script>
+  (function() {
+    // Define the reading paths
+    const paths = {
+      suffering: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' }
+      ],
+      sin: [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/from-ashes-to-glory/', title: 'From Ashes to Glory' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      numb: [
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' }
+      ],
+      identity: [
+        { url: '/reflections/whats-in-a-name/', title: "What's In A Name" },
+        { url: '/testimonies/after-gods-heart/', title: "After God's Heart" },
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/reflections/working-from-grace/', title: 'Working from Grace' }
+      ],
+      story: [
+        { url: '/stories/the-gospel-in-the-grass/', title: 'The Gospel in the Grass' },
+        { url: '/stories/dance-like-enoch/', title: 'I Wanna Dance Like Enoch Danced' },
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/stories/fractured-light/', title: 'Fractured Light' }
+      ],
+      stillness: [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/a-holy-moment/', title: 'A Holy Moment' },
+        { url: '/meditations/here-with-me/', title: 'Here With Me' },
+        { url: '/meditations/the-work-of-your-fingers/', title: 'The Work of Your Fingers' }
+      ],
+      grace: [
+        { url: '/reflections/working-from-grace/', title: 'Working From Grace' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/reflections/from-it-or-through-it/', title: 'From It or Through It' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' }
+      ],
+      wisdom: [
+        { url: '/stories/the-house-that-calls-to-the-simple/', title: 'The House That Calls to the Simple' },
+        { url: '/reflections/roadblocks/', title: 'Roadblocks' },
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/reflections/psalm-119/', title: 'Psalm 119' }
+      ],
+      'hearing-god': [
+        { url: '/meditations/the-god-who-is-heard/', title: 'The God Who Is Heard' },
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/meditations/if-god-is-everywhere/', title: 'If God Is Everywhere' },
+        { url: '/devotionals/seek-his-face/', title: 'Seek His Face, Not Just His Hand' },
+        { url: '/reflections/what-are-you-feeding/', title: 'What Are You Feeding?' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/devotionals/mustard-seed-faith/', title: 'Mustard Seed Faith' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/reflections/faith-from-beginning-to-end/', title: 'Faith, From Beginning to End' },
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' }
+      ],
+      'bondage-and-release': [
+        { url: '/testimonies/bitter-harvest-of-sin/', title: 'The Bitter Harvest of Sin' },
+        { url: '/testimonies/jesus-the-scapegoat/', title: 'Jesus – The Scapegoat' },
+        { url: '/devotionals/purify-my-heart/', title: 'Purify My Heart' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/books/fractured-light/chapter-3/', title: 'Fractured Light — "The Spiral"' },
+        { url: '/reflections/deliver-me/', title: 'Deliver Me' },
+        { url: '/reflections/not-even-one/', title: 'Not Even One' },
+        { url: '/books/fractured-light/chapter-7/', title: 'Fractured Light — "The Collapse"' },
+        { url: '/reflections/working-from-grace/', title: 'Working From Grace' }
+      ],
+      'hurt-and-restoration': [
+        { url: '/reflections/held-on-every-side/', title: 'Held on Every Side' },
+        { url: '/devotionals/when-jesus-wept/', title: 'When Jesus Wept' },
+        { url: '/meditations/a-meditation-in-suffering/', title: 'A Meditation in Suffering' },
+        { url: '/testimonies/after-gods-heart/', title: 'After God\'s Heart' },
+        { url: '/books/fractured-light/chapter-9/', title: 'Fractured Light — "The Arrest"' },
+        { url: '/reflections/the-power-of-presence/', title: 'The Power of Presence' },
+        { url: '/reflections/sons-of-brokenness/', title: 'Sons of Brokenness' },
+        { url: '/reflections/sticks-and-stones/', title: 'Sticks and Stones' },
+        { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm From Confinement' }
+      ],
+      'weariness-and-renewal': [
+        { url: '/devotionals/be-still/', title: 'Be Still' },
+        { url: '/devotionals/the-gift-of-now/', title: 'The Gift of Now' },
+        { url: '/devotionals/new-every-morning/', title: 'New Every Morning' },
+        { url: '/devotionals/look-and-live/', title: 'Look and Live' },
+        { url: '/meditations/the-gift-of-now/', title: 'The Gift of Now' }
+      ],
+      'about-the-author': [
+        { url: '/testimonies/from-exile-to-eden/', title: 'From Exile to Eden' },
+        { url: '/testimonies/in-the-margins/', title: 'In the Margins' },
+        { url: '/books/fractured-light/chapter-4/', title: 'Fractured Light — “The Altar” (excerpt)' },
+        { url: '/meditations/a-psalm-from-confinement/', title: 'A Psalm from Confinement' },
+        { url: '/reflections/the-big-picture/', title: 'The Big Picture' }
+      ]
+    };
+
+    // Collection names for back navigation
+    const collections = {
+      devotionals: 'Devotionals',
+      reflections: 'Reflections',
+      meditations: 'Meditations',
+      stories: 'Stories',
+      testimonies: 'Testimonies'
+    };
+
+    // Get URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    const pathName = urlParams.get('path');
+    const currentStep = parseInt(urlParams.get('step'));
+    const fromCollection = urlParams.get('from');
+
+    // Articles that should return to Hearing God page (end of sections)
+    const hearingGodSectionEnds = [4, 7, 10]; // If God Is Everywhere, In the Margins, New Every Morning
+
+    // Handle guided path navigation
+    if (pathName && currentStep && paths[pathName]) {
+      const pathArticles = paths[pathName];
+      const nextStep = currentStep + 1;
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      // Check if this is a Hearing God section end
+      const isHearingGodSectionEnd = pathName === 'hearing-god' && hearingGodSectionEnds.includes(currentStep);
+      
+      if (isHearingGodSectionEnd) {
+        // End of a Hearing God section - return to Hearing God page
+        nextLink.href = '/hearing-god/';
+        nextLink.textContent = '← Return to Hearing God';
+        navDiv.style.display = 'block';
+      } else if (currentStep === 5 && (pathName === 'bondage-and-release' || pathName === 'hurt-and-restoration')) {
+        // End of "Explore This Path" section - return to path landing page
+        if (pathName === 'bondage-and-release') {
+          nextLink.href = '/bondage-and-release/';
+          nextLink.textContent = '← Back to Bondage and Release';
+        } else if (pathName === 'hurt-and-restoration') {
+          nextLink.href = '/hurt-and-restoration/';
+          nextLink.textContent = '← Back to Hurt and Restoration';
+        }
+        navDiv.style.display = 'block';
+      } else if (nextStep <= pathArticles.length) {
+        // Show next article button
+        const nextArticle = pathArticles[nextStep - 1];
+        nextLink.href = nextArticle.url + '?path=' + pathName + '&step=' + nextStep;
+        nextLink.textContent = 'Next: ' + nextArticle.title + ' →';
+        navDiv.style.display = 'block';
+      } else if (currentStep === pathArticles.length) {
+        // Last article in path - show return to path home
+        if (pathName === 'hearing-god') {
+          nextLink.href = '/hearing-god/';
+          nextLink.textContent = '← Return to Hearing God';
+        } else if (pathName === 'bondage-and-release') {
+          nextLink.href = '/bondage-and-release/';
+          nextLink.textContent = '← Back to Bondage and Release';
+        } else if (pathName === 'hurt-and-restoration') {
+          nextLink.href = '/hurt-and-restoration/';
+          nextLink.textContent = '← Back to Hurt and Restoration';
+        } else if (pathName === 'weariness-and-renewal') {
+          nextLink.href = '/weariness-and-renewal/';
+          nextLink.textContent = '← Back to Weariness and Renewal';
+        } else if (pathName === 'about-the-author') {
+          nextLink.href = '/about-the-author/';
+          nextLink.textContent = '← Back to About the Author';
+        } else {
+          nextLink.href = '/start-here/';
+          nextLink.textContent = '← Return to Start Here';
+        }
+        navDiv.style.display = 'block';
+      }
+    }
+    // Handle collection back navigation
+    else if (fromCollection && collections[fromCollection]) {
+      const navDiv = document.getElementById('path-navigation');
+      const nextLink = document.getElementById('next-article-link');
+      
+      nextLink.href = '/' + fromCollection + '/';
+      nextLink.textContent = '← Back to ' + collections[fromCollection];
+      navDiv.style.display = 'block';
+    }
+  })();
+</script>
+
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <!-- footer content can go here -->
+  </footer>
+
+  <!-- Chatbase Chatbot Embed (kept) -->
+  <script>
+    (function(){
+      if(!window.chatbase || window.chatbase("getState") !== "initialized"){
+        window.chatbase = (...args) => {
+          if(!window.chatbase.q){ window.chatbase.q = [] }
+          window.chatbase.q.push(args)
+        };
+        window.chatbase = new Proxy(window.chatbase, {
+          get(target, prop){
+            if(prop === "q"){ return target.q }
+            return (...args) => target(prop, ...args)
+          }
+        });
+      }
+      const onLoad = function(){
+        const script = document.createElement("script");
+        script.src = "https://www.chatbase.co/embed.min.js";
+        script.id = "ZmJVwhmGVLah9bOvLWaRS";
+        script.domain = "www.chatbase.co";
+        document.body.appendChild(script);
+      };
+      if(document.readyState === "complete"){ onLoad() }
+      else { window.addEventListener("load", onLoad) }
+    })();
+  </script>
+
+</body>
+</html>
