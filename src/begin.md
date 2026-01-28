@@ -87,3 +87,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
   <a href="/books/">Books</a><br>
   <a href="/scripture/">Scripture Index</a>
 </div>
+
+<div style="text-align: center; margin-top: 1.2rem;">
+  <a href="/youre-not-alone/" title="You're Not Alone">If pornography or sexual compulsion has been part of your story, there’s a place here for you too.</a>
+</div>
