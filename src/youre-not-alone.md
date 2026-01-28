@@ -1,5 +1,5 @@
 ---
-title: You're Not Alone
+title: You Are Not Alone
 layout: layout.njk
 description: A quiet place for those struggling with pornography or sexual compulsion—written from lived experience, not formulas or fixes.
 ---
