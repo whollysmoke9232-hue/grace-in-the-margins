@@ -62,7 +62,7 @@ This library is offered as it is, not as instruction, but as witness — in the 
   </div>
   <div>
     <a href="/about-the-author/" title="About the Author">
-      <img src="/images/margins-selfie.jpg" alt="About the Author" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <img src="/images/steve-pic.jpeg" alt="About the Author" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </a>
   </div>
 </div>
