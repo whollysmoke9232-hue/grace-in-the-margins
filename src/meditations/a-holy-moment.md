@@ -1,3 +1,21 @@
+<div class="yna-next-link" style="margin-top:2.5em; text-align:right; display:none;">
+  <a href="/meditations/a-meditation-in-suffering/?from=youre-not-alone" style="font-weight:bold;">Next: A Meditation in Suffering &rarr;</a>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-next-link');
+    if (el) el.style.display = 'block';
+  }
+</script>
+<div class="yna-next-link" style="margin-top:2.5em; text-align:right; display:none;">
+  <a href="/meditations/a-meditation-in-suffering/?from=youre-not-alone" style="font-weight:bold;">Next: A Meditation in Suffering &rarr;</a>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-next-link');
+    if (el) el.style.display = 'block';
+  }
+</script>
 ---
 title: "A Holy Moment"
 excerpt: "In the silent sway of trees and the thunderous hush of mountains, God’s love speaks without words."

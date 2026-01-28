@@ -1,3 +1,12 @@
+<div class="yna-next-link" style="margin-top:2.5em; text-align:right; display:none;">
+  <a href="/testimonies/bitter-harvest-of-sin/?from=youre-not-alone" style="font-weight:bold;">Next: The Bitter Harvest of Sin &rarr;</a>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-next-link');
+    if (el) el.style.display = 'block';
+  }
+</script>
 ---
 title: "From Knowing to Surrender"
 layout: default.njk

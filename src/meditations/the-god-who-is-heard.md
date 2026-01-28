@@ -1,3 +1,27 @@
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/the-gift-of-now/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: The Gift of Now</a>
+    <a href="/meditations/the-work-of-your-fingers/?from=youre-not-alone" style="font-weight:bold;">Next: The Work of Your Fingers &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/the-gift-of-now/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: The Gift of Now</a>
+    <a href="/meditations/the-work-of-your-fingers/?from=youre-not-alone" style="font-weight:bold;">Next: The Work of Your Fingers &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
 ---
 title: "The God Who Is Heard"
 excerpt: "From Sinai’s thunder to the whisper of the Spirit, God has always chosen voice over image—inviting us not to behold Him, but to listen."

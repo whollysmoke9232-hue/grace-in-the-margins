@@ -54,3 +54,20 @@ _Lord, expand my awareness of Your nearness. Help me to rest in the truth that I
 ## Takeaway Thought
 
 When God is everywhere, you are never lost—you are already held.
+
+When God is everywhere, you are never lost—you are already held.
+
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/here-with-me/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: Here With Me</a>
+    <a href="/meditations/meditation-1/?from=youre-not-alone" style="font-weight:bold;">Next: Meditation 1 &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
+
+When God is everywhere, you are never lost—you are already held.

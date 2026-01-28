@@ -1,3 +1,15 @@
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/testimonies/from-knowing-to-surrender/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: From Knowing to Surrender</a>
+    <a href="/devotionals/when-jesus-wept/?from=youre-not-alone" style="font-weight:bold;">Next: When Jesus Wept &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
 ---
 title: "The Bitter Harvest of Sin"
 excerpt: "Sin promises satisfaction but delivers shame. What once felt thrilling leaves a bitter harvest—yet grace still invites us into life."
@@ -78,3 +90,4 @@ Give me the courage to turn from foolishness and walk in freedom._
 
 Sin always promises more than it can give.  
 Grace always gives more than we expect.
+

@@ -1,3 +1,36 @@
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/a-holy-moment/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: A Holy Moment</a>
+    <a href="/meditations/a-psalm-from-confinement/?from=youre-not-alone" style="font-weight:bold;">Next: A Psalm from Confinement &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
+<!-- Navigation Links -->
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/a-holy-moment/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: A Holy Moment</a>
+    <a href="/meditations/a-psalm-from-confinement/?from=youre-not-alone" style="font-weight:bold;">Next: A Psalm from Confinement &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
+<!-- end-of-article -->
+
+<br>
+<br>
+
+<span style="font-size: 0.85em;">
+*Written in confinement.*
+</span>
 ---
 title: "A Meditation In Suffering"
 excerpt: "When pain strips away understanding, surrender becomes worship. This meditation offers suffering back to God as an act of trust and praise."

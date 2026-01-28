@@ -51,16 +51,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/meditations/faith-to-faith/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/meditations/a-meditation-in-suffering/</loc>
-    <lastmod>2023-10-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/devotionals/purify-my-heart/</loc>
     <lastmod>2024-01-29</lastmod>
     <priority>0.8</priority>
@@ -76,11 +66,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/meditations/a-psalm-from-confinement/</loc>
-    <lastmod>2024-06-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/devotionals/no-excuse/</loc>
     <lastmod>2024-06-10</lastmod>
     <priority>0.8</priority>
@@ -88,11 +73,6 @@
   <url>
     <loc>https://www.marginsdevotionals.com/devotionals/when-jesus-wept/</loc>
     <lastmod>2024-06-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/meditations/a-holy-moment/</loc>
-    <lastmod>2024-06-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -151,11 +131,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/testimonies/bitter-harvest-of-sin/</loc>
-    <lastmod>2025-08-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/testimonies/jesus-the-scapegoat/</loc>
     <lastmod>2025-08-02</lastmod>
     <priority>0.8</priority>
@@ -166,17 +141,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/meditations/the-god-who-is-heard/</loc>
-    <lastmod>2025-12-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.marginsdevotionals.com/meditations/if-god-is-everywhere/</loc>
-    <lastmod>2026-01-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.marginsdevotionals.com/meditations/the-gift-of-now/</loc>
     <lastmod>2026-01-03</lastmod>
     <priority>0.8</priority>
   </url>
@@ -586,7 +551,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.marginsdevotionals.com/meditations/a-holy-moment/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/a-meditation-in-suffering/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/a-psalm-from-confinement/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/faith-to-faith/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.marginsdevotionals.com/meditations/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/the-gift-of-now/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/meditations/the-god-who-is-heard/</loc>
     <lastmod>2026-01-27</lastmod>
     <priority>0.8</priority>
   </url>
@@ -606,13 +601,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/testimonies/</loc>
+    <loc>https://www.marginsdevotionals.com/testimonies/bitter-harvest-of-sin/</loc>
     <lastmod>2026-01-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.marginsdevotionals.com/testimonies/from-knowing-to-surrender/</loc>
-    <lastmod>2026-01-28</lastmod>
+    <loc>https://www.marginsdevotionals.com/testimonies/</loc>
+    <lastmod>2026-01-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -642,6 +637,11 @@
   </url>
   <url>
     <loc>https://www.marginsdevotionals.com/weariness-and-renewal/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.marginsdevotionals.com/testimonies/from-knowing-to-surrender/</loc>
     <lastmod>2026-01-28</lastmod>
     <priority>0.8</priority>
   </url>

@@ -41,6 +41,20 @@ Now new life I’ve found
 
 <!-- end-of-article -->
 
+
+<div class="yna-nav-links" style="margin-top:2.5em; display:none;">
+  <div style="display:flex; justify-content:space-between;">
+    <a href="/meditations/if-god-is-everywhere/?from=youre-not-alone" style="font-weight:bold;">&larr; Previous: If God Is Everywhere</a>
+    <a href="/meditations/the-god-who-is-heard/?from=youre-not-alone" style="font-weight:bold;">Next: The God Who Is Heard &rarr;</a>
+  </div>
+</div>
+<script>
+  if (window && window.location.search.includes('from=youre-not-alone')) {
+    var el = document.querySelector('.yna-nav-links');
+    if (el) el.style.display = 'block';
+  }
+</script>
+
 <br>
 <br>
 

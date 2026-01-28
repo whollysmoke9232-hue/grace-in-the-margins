@@ -43,6 +43,8 @@ He moves us from one place to another – leading us, teaching us, breaking us, 
 
 So we are left to live out our faith with nothing more than faith in His Word, and the assurance that whatever we are experiencing – whether laughter or tears; joy or pain; wealth or want; success or failure – God is painting on a canvas that is bigger than we can see.
 
+
 He is in control. And He is never surprised by what happens in our lives.
 
 I pray that this truth will soak into your soul and usher into your spirit the peace that surpasses understanding.
+

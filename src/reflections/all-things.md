@@ -31,4 +31,6 @@ There is much to learn from David’s example here. My waiting for God to work i
 
 This is not the story of my perseverance, but of the God who begins, carries, heals, and completes what concerns me—from beginning to end.
 
-“For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus” —Philippians 1:6
+
+"For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus” —Philippians 1:6
+
