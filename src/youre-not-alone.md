@@ -1,11 +1,8 @@
 ---
 title: You're Not Alone
 layout: default.njk
----
-
 
 # You’re Not Alone
-
 <div style="font-style: italic; color: #6a5d4d; margin-bottom: 1.5rem; font-size: 1.08rem;">
 A quiet place for those struggling with pornography or sexual compulsion—written from lived experience, not formulas or fixes.
 </div>
